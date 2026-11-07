@@ -1,0 +1,1001 @@
+query_id,question_type,level,gold_titles,bm25_titles,bm25_scores,gold_recall_at2,both_gold_at2
+5ae6050f55429929b0807a5e,bridge,hard,"[""A Rather Blustery Day"", ""Jim Cummings""]","[""Kate Higgins"", ""A Rather Blustery Day""]","[6.121174902984894, 5.4932358802663925]",0.5,0
+5adddccd5542997dc7907069,bridge,hard,"[""Apple Remote"", ""Front Row (software)""]","[""Apple Remote"", ""Siri Remote""]","[12.762596679484213, 8.163267862573015]",0.5,0
+5ae22b8d554299234fd0440f,bridge,hard,"[""Kasper Schmeichel"", ""Peter Schmeichel""]","[""Peter Schmeichel"", ""Sommeren '92""]","[6.781100243444131, 5.961840832021964]",0.5,0
+5a722b8655429971e9dc9329,bridge,hard,"[""These Boots Are Made for Walkin'"", ""Lee Hazlewood""]","[""Jim Shoulders"", ""Death of Abdul Wali""]","[6.626104190800842, 6.488870651541447]",0.0,0
+5a8a3e745542996c9b8d5e70,bridge,hard,"[""Arena of Khazan"", ""Tunnels &amp; Trolls""]","[""Tunnels &amp; Trolls"", ""Mercenaries, Spies and Private Eyes""]","[9.74049613849889, 7.769696897783758]",0.5,0
+5a7571135542992d0ec05f98,bridge,hard,"[""Ralph Hefferline"", ""Columbia University""]","[""Ralph Hefferline"", ""Columbia University""]","[10.852898505892968, 6.506085015806489]",1.0,1
+5a8b20335542996c9b8d5fb3,bridge,hard,"[""1992–93 Charlotte Hornets season"", ""Muggsy Bogues""]","[""1992–93 Charlotte Hornets season"", ""Charlotte Hornets""]","[14.406842314675783, 14.393604053841216]",0.5,0
+5a80840f554299485f59863b,bridge,hard,"[""Jawbreaker (film)"", ""Rose McGowan""]","[""Kay Tagal Kang Hinintay"", ""Rose McGowan""]","[5.624116557783031, 5.162131296197417]",0.5,0
+5ac2acff55429921a00ab02b,bridge,hard,"[""The Hard Easy (Adventure Time)"", ""Brian Doyle-Murray""]","[""The Hard Easy (Adventure Time)"", ""The Hard Easy (film)""]","[9.127961991862374, 7.106917329139306]",0.5,0
+5a77cb335542997042120b3a,bridge,hard,"[""MEO Rip Curl Pro Portugal"", ""John John Florence""]","[""John John Florence"", ""MEO Rip Curl Pro Portugal""]","[8.926816284262163, 4.595884953366573]",1.0,1
+5aba749055429901930fa7d8,comparison,hard,"[""Aram Avakian"", ""Chris Menges""]","[""Chris Menges"", ""Aram Avakian""]","[1.923516876262679, 1.7245705298187137]",1.0,1
+5ab659e355429954757d324e,bridge,hard,"[""Three Men on a Horse"", ""George Abbott""]","[""Three Men on a Horse"", ""Michael Wynne (playwright)""]","[12.47431897695704, 7.154603744673431]",0.5,0
+5a818387554299260e20a291,bridge,hard,"[""My Eyes (Blake Shelton song)"", ""Based on a True Story...""]","[""My Eyes (Blake Shelton song)"", ""Based on a True Story...""]","[12.124586451803285, 10.500141983050016]",1.0,1
+5a89f5815542993b751ca9c5,bridge,hard,"[""Caroline Carver (actress)"", ""The Magical Legend of the Leprechauns""]","[""Caroline Carver (actress)"", ""The Magical Legend of the Leprechauns""]","[6.473214312670524, 5.349411924402132]",1.0,1
+5abd01205542992ac4f3819b,bridge,hard,"[""Mummulgum"", ""Casino, New South Wales""]","[""Mummulgum"", ""Casino, New South Wales""]","[8.436301726627493, 7.03077578408095]",1.0,1
+5a8574945542997b5ce3fffb,comparison,hard,"[""LaLee's Kin: The Legacy of Cotton"", ""Gimme Shelter (1970 film)""]","[""LaLee's Kin: The Legacy of Cotton"", ""Gimme Shelter (1970 film)""]","[17.725419869272383, 8.478735206240916]",1.0,1
+5ae4627d5542991a06ce9a4d,bridge,hard,"[""Sexual Politics"", ""Kate Millett""]","[""British University Hurling Championship"", ""Kate Millett""]","[4.890999275636604, 4.415599917965089]",0.5,0
+5ab2a186554299295394677b,bridge,hard,"[""Reading Post"", ""Maiwand Lion""]","[""Spalding War Memorial"", ""Maiwand Lion""]","[8.03914762596245, 7.849597045125886]",0.5,0
+5a906a685542990a9849362e,bridge,hard,"[""Algeria at the FIFA World Cup"", ""2014 FIFA World Cup""]","[""Algeria at the FIFA World Cup"", ""1991 Rugby World Cup""]","[15.139269685904145, 7.9111793130079056]",0.5,0
+5ae0aaf455429945ae959401,bridge,hard,"[""Chris Williams (English footballer)"", ""Salford City F.C.""]","[""Chris Williams (English footballer)"", ""Jack Truelove""]","[11.38784268357603, 5.111094477923107]",0.5,0
+5ac3e0f7554299194317388b,bridge,hard,"[""American Beauty (soundtrack)"", ""American Beauty (1999 film)""]","[""List of accolades received by American Beauty"", ""Christopher Greenbury""]","[4.87934724141154, 4.3485592295739215]",0.0,0
+5a7a276d5542996c55b2dd27,bridge,hard,"[""Charles Hastings Judd"", ""Kalākaua""]","[""Charles Hastings Judd"", ""George W. Macfarlane""]","[9.173331238935193, 8.351435043228031]",0.5,0
+5a834ed95542990548d0b1ca,comparison,hard,"[""712 Fifth Avenue"", ""Manhattan Life Insurance Building""]","[""712 Fifth Avenue"", ""Whole life insurance""]","[7.89997616287555, 6.477560273465616]",0.5,0
+5ab2659e554299340b5254b2,bridge,hard,"[""Farrukhzad Khosrow V"", ""Sasanian Empire""]","[""Farrukhzad Khosrow V"", ""Duchy of Thuringia""]","[18.44859420143794, 7.069895507051896]",0.5,0
+5ac2bbd0554299218029db09,bridge,hard,"[""The Thing of It Is..."", ""William Goldman""]","[""Australian property law"", ""A Thing of Beauty""]","[6.489537275017897, 5.666279617194018]",0.0,0
+5ae058e855429945ae959331,comparison,hard,"[""Chrysalis (magazine)"", ""Look (UK magazine)""]","[""List of magazines in Malaysia"", ""List of magazines in Portugal""]","[4.050447263281635, 3.977121351030581]",0.0,0
+5ac1795f5542994ab5c67d5f,bridge,hard,"[""James Burke (science historian)"", ""Connections (TV series)""]","[""James Burke (science historian)"", ""Connections (TV series)""]","[8.79593977819647, 7.734823719073297]",1.0,1
+5ae497f15542995ad6573db8,bridge,hard,"[""Sean Connor"", ""Lisburn Distillery F.C.""]","[""Sean Connor"", ""Newington Youth F.C.""]","[6.485222311063348, 3.087315547927015]",0.5,0
+5a7caae75542996dd594b971,bridge,hard,"[""Steroid use in Australia"", ""Anabolic steroid""]","[""Methyltestosterone"", ""Steroid use in Australia""]","[4.424196542695778, 4.187496389109924]",0.5,0
+5ac01bb8554299012d1db5a6,bridge,hard,"[""Episode 8 (Twin Peaks)"", ""Don S. Davis""]","[""Don S. Davis"", ""Episode 8 (Twin Peaks)""]","[10.714334634480526, 9.928366814017021]",1.0,1
+5ac5199a5542994611c8b38a,comparison,hard,"[""Stenocereus"", ""Pachypodium""]","[""Stenocereus"", ""Pachypodium""]","[4.120891579275563, 3.1686900729613052]",1.0,1
+5adf9dc3554299025d62a2e6,bridge,hard,"[""Grease: The New Broadway Cast Recording"", ""Laura Osnes""]","[""Grease: The New Broadway Cast Recording"", ""9 to 5 (musical)""]","[20.256400063414205, 14.297703460425488]",0.5,0
+5a78db8055429970f5fffdb2,bridge,hard,"[""Flyboys (film)"", ""James Franco""]","[""Treat Williams"", ""James Franco""]","[5.840747806169593, 5.689994476519322]",0.5,0
+5a8dd5f955429917b4a5bcc7,bridge,hard,"[""1998 Toyota Grand Prix of Long Beach"", ""Alex Zanardi""]","[""1998 Toyota Grand Prix of Long Beach"", ""2006 Toyota Grand Prix of Long Beach""]","[7.379309563274319, 5.2282397769255065]",0.5,0
+5ae7edee554299540e5a56ad,bridge,hard,"[""Church of the Guanche People"", ""Tenerife""]","[""Church of the Guanche People"", ""Guanche mummies""]","[12.120820071028943, 10.614858666935387]",0.5,0
+5a79c6a55542994bb9457091,bridge,hard,"[""Hot air engine"", ""George Cayley""]","[""George Cayley"", ""Hot air engine""]","[13.47827373282444, 8.439674851004142]",1.0,1
+5abbd3ac55429931dba1458b,comparison,hard,"[""Duke Energy"", ""Affiliated Managers Group""]","[""Affiliated Managers Group"", ""Darrell Crate""]","[6.787525262926839, 5.3300915555650885]",0.5,0
+5ade15f35542997545bbbe47,bridge,hard,"[""Katherine Waterston"", ""Chrisann Brennan""]","[""Chrisann Brennan"", ""Katherine Waterston""]","[4.720554682066567, 3.0651364107591332]",1.0,1
+5a83aaeb5542996488c2e483,bridge,hard,"[""Power (Kanye West song)"", ""My Beautiful Dark Twisted Fantasy""]","[""Watch the Throne"", ""Late Registration""]","[5.46737426080368, 5.170982231553599]",0.0,0
+5a8b770f5542995d1e6f13a7,bridge,hard,"[""B Boy (song)"", ""Meek Mill""]","[""B Boy Baby"", ""Meek Mill""]","[2.6981497498564195, 2.6521842214562152]",0.5,0
+5a8e3dc05542995085b37401,comparison,hard,"[""Selle v. Gibb"", ""Reynolds v. Sims""]","[""Selle v. Gibb"", ""West v. Barnes""]","[7.981446084926562, 5.868092307034155]",0.5,0
+5ac01bca5542992a796dec8d,bridge,hard,"[""Jessica Rothe"", ""Happy Death Day""]","[""Forever My Girl"", ""Paranormal Activity: The Marked Ones""]","[5.3249026815295455, 4.675799373218809]",0.0,0
+5a8085705542992bc0c4a74b,bridge,hard,"[""Garden Island Naval Chapel"", ""Royal Australian Navy""]","[""Garden Island Naval Chapel"", ""Royal Australian Navy""]","[15.309521037922073, 6.556149713093808]",1.0,1
+5ae5e1345542996de7b71a50,bridge,hard,"[""The Sum of All Fears"", ""Jack Ryan (character)""]","[""The Sum of All Fears"", ""Jack Ryan (character)""]","[10.40504951804811, 6.874080076129902]",1.0,1
+5ac497025542997ea680ca8d,bridge,hard,"[""Chris McKay"", ""The Lego Batman Movie""]","[""ATL (film)"", ""Chris McKay""]","[6.94145382632089, 6.883762358458831]",0.5,0
+5a85dfcc5542994775f60673,bridge,hard,"[""Heading to the Ground"", ""Yunho""]","[""Heading to the Ground"", ""Yunho""]","[20.573645861263408, 9.011706671722663]",1.0,1
+5a88a4245542997e5c09a668,bridge,hard,"[""Roscoe Channing"", ""Cornelius Vanderbilt Whitney""]","[""Roscoe Channing"", ""Cornelius Vanderbilt Whitney""]","[10.038637710175562, 7.924641847697628]",1.0,1
+5adf4a275542993a75d26498,bridge,hard,"[""Summer of the Monkeys"", ""William Allen White""]","[""Australian Ecology Research Award (AERA)"", ""Summer of the Monkeys""]","[9.53928142531038, 9.234574952047968]",0.5,0
+5a81ebee554299676cceb16d,bridge,hard,"[""Matilda Lutz"", ""Rings (2017 film)""]","[""Rings (2017 film)"", ""Janine Gutierrez""]","[9.040690782633229, 5.83475492013257]",0.5,0
+5ab48c325542996a3a969f93,bridge,hard,"[""Edith Walks"", ""Waltham Abbey Church""]","[""Edith Walks"", ""Edith the Fair""]","[6.509150407686149, 5.073078538590314]",0.5,0
+5abe689a55429976d4830b16,comparison,hard,"[""Francesca Schiavone"", ""Olga Morozova""]","[""Francesca Schiavone"", ""2011 French Open – Women's Singles""]","[6.770455021748031, 6.5936964240924745]",0.5,0
+5ae32b6755429928c4239644,bridge,hard,"[""Wengie"", ""YouTube Rewind""]","[""Wengie"", ""YouTube Rewind""]","[10.740463275703874, 8.091875732048765]",1.0,1
+5a88f9555542995153361214,bridge,hard,"[""Jeep Cherokee"", ""Jeep Wagoneer (SJ)""]","[""Jeep Cherokee"", ""Jeep Liberty""]","[9.973430487208077, 7.397190490404937]",0.5,0
+5ab531cc5542990594ba9d23,bridge,hard,"[""KGOT"", ""Dimond Center""]","[""KGOT"", ""Kentucky Oaks Mall""]","[10.027299501133264, 4.664622690369142]",0.5,0
+5a8eb4d65542990e94052b82,bridge,hard,"[""Jacques Mathou"", ""Delicatessen (film)""]","[""Jacques Mathou"", ""Van Gogh (1991 film)""]","[6.63840785050121, 6.463452784771207]",0.5,0
+5a8038b55542996402f6a485,bridge,hard,"[""Fugitive in Trieste"", ""Jacques Sernas""]","[""Fugitive in Trieste"", ""Jacques Sernas""]","[8.486636261784376, 3.8565069420646014]",1.0,1
+5ab83d595542990e739ec886,bridge,hard,"[""VMAQT-1"", ""Banshee""]","[""VMAQT-1"", ""Banshee""]","[11.721459928420462, 9.078613428556045]",1.0,1
+5ae0d52e554299603e418469,bridge,hard,"[""Dead at 17"", ""Barbara Niven""]","[""Barbara Niven"", ""Steve Arbuckle""]","[14.05312001034007, 11.079005590290015]",0.5,0
+5a738225554299623ed4abc3,comparison,hard,"[""Bedknobs and Broomsticks"", ""The Muppet Christmas Carol""]","[""Bedknobs and Broomsticks"", ""The Sword in the Stone (film)""]","[10.208571331215158, 6.196547174150232]",0.5,0
+5abb30755542996cc5e49fd8,bridge,hard,"[""Presidency of Ronald Reagan"", ""George H. W. Bush""]","[""Reagan Democrat"", ""Presidency of Ronald Reagan""]","[6.724356311823505, 5.028624875410651]",0.5,0
+5a8099935542996402f6a58b,bridge,hard,"[""Darkroom (TV series)"", ""Brian Dennehy""]","[""Brian Dennehy"", ""Darkroom (TV series)""]","[7.606968903505229, 7.240872244345319]",1.0,1
+5abcc96c5542996583600492,bridge,hard,"[""Earl and Edgar McGraw"", ""Planet Terror""]","[""Earl and Edgar McGraw"", ""Conan the Barbarian (2011 film)""]","[11.566495739118357, 8.846389774478865]",0.5,0
+5a7252db5542990c210a4104,bridge,hard,"[""Trump campaign–Russian meeting"", ""Donald Trump Jr.""]","[""Trump campaign–Russian meeting"", ""Clear Creek Meeting House""]","[13.322376796982654, 8.849049712305073]",0.5,0
+5ac1a3665542994ab5c67daf,bridge,hard,"[""Neil Blair"", ""Prince Andrew, Duke of York""]","[""Neil Blair"", ""Krajmir""]","[7.862684834336017, 6.137475804507478]",0.5,0
+5a7574e25542996c70cfaf01,comparison,hard,"[""Mahbub ul Haq"", ""Ibn Arabi""]","[""Akbariyya"", ""Ibn Arabi""]","[8.049461917078563, 4.430753319402884]",0.5,0
+5a8cfee555429941ae14df5c,bridge,hard,"[""Gajabrishta"", ""Elephant""]","[""Elephant"", ""Gajabrishta""]","[0.0, 0.0]",1.0,1
+5ae4890a5542995ad6573d60,bridge,hard,"[""Claudio Fernández-Aráoz"", ""Egon Zehnder""]","[""Claudio Fernández-Aráoz"", ""Egon Zehnder""]","[20.924276756942923, 6.299001067229451]",1.0,1
+5ac2a399554299218029dada,bridge,hard,"[""Atari Assembler Editor"", ""Shepardson Microsystems""]","[""Shepardson Microsystems"", ""Atari Assembler Editor""]","[12.233704765782083, 6.736188326673563]",1.0,1
+5adc1ae5554299438c868d5c,bridge,hard,"[""Hate Them"", ""Darkthrone""]","[""Hate Them"", ""Darkthrone""]","[7.847083117878688, 5.509353480891606]",1.0,1
+5a77beae5542992a6e59dfae,bridge,hard,"[""The Boy Next Door (album)"", ""Stacey Kent""]","[""The Boy Next Door (album)"", ""'Tis Autumn""]","[7.375704799554701, 7.063273301980112]",0.5,0
+5a79b7f6554299029c4b5f6f,bridge,hard,"[""Ron Joyce"", ""Tim Hortons""]","[""Ron Joyce"", ""Fast food restaurant""]","[7.442157126688604, 4.546920697922564]",0.5,0
+5a7b374c5542995eb53be8cc,bridge,hard,"[""John Frazee"", ""Buttered cat paradox""]","[""Buttered cat paradox"", ""John Frazee""]","[16.29956473076954, 12.337898827284567]",1.0,1
+5a7ad9865542995eb53be8aa,bridge,hard,"[""Honda Ballade"", ""Honda CR-X""]","[""Honda Ballade"", ""Honda Torneo""]","[8.787438410801876, 8.555007484314464]",0.5,0
+5a85597c5542997175ce1fba,bridge,hard,"[""Hostage for a Day"", ""John Candy""]","[""Hostage for a Day"", ""Mikkeli hostage crisis""]","[8.201705866058306, 7.058068241264704]",0.5,0
+5ade9c9c5542997c77adee8c,bridge,hard,"[""Edward Carfagno"", ""Julius Caesar (1953 film)""]","[""Edward Carfagno"", ""Storm Over the Nile""]","[6.572498608266182, 4.375234016355466]",0.5,0
+5ae0d7315542990adbacf678,bridge,hard,"[""Music for Electric Metronomes"", ""Toshi Ichiyanagi""]","[""Music for Electric Metronomes"", ""Toshi Ichiyanagi""]","[9.921137864668594, 6.740988451916912]",1.0,1
+5a8cd381554299653c1aa12b,comparison,hard,"[""Sigmund Freud"", ""Evelyn Waugh""]","[""Sigmund Freud"", ""Evelyn Waugh""]","[5.7568445223814315, 5.634554798358091]",1.0,1
+5a88a19a5542997e5c09a64b,bridge,hard,"[""Phyllocnistis liquidambarisella"", ""Liquidambar styraciflua""]","[""Phyllocnistis liquidambarisella"", ""Stenodema laevigatum""]","[5.744747930908626, 4.949080192393083]",0.5,0
+5a8c5c6f554299653c1aa04d,bridge,hard,"[""The Best of LeAnn Rimes"", ""Can't Fight the Moonlight""]","[""Can't Fight the Moonlight"", ""Life Goes On (LeAnn Rimes song)""]","[12.576195386853732, 11.510499783294692]",0.5,0
+5ae0de1455429924de1b71b4,bridge,hard,"[""House of Pies"", ""Orange Julius""]","[""House of Pies"", ""Orange Julius""]","[19.053399534471286, 12.132591043634196]",1.0,1
+5a861fa75542994775f60706,bridge,hard,"[""North American Aviation"", ""North American T-6 Texan""]","[""Ryan Navion"", ""North American NA-16""]","[6.001807228940897, 5.271831418576985]",0.0,0
+5ae533535542993aec5ec173,bridge,hard,"[""Watercliffe Meadow Community Primary School"", ""Political correctness""]","[""Watercliffe Meadow Community Primary School"", ""Big government""]","[13.258312193371076, 9.917959216489853]",0.5,0
+5adebea1554299728e26c7b6,bridge,hard,"[""Muz-TV"", ""MTV Russia""]","[""Muz-TV"", ""Nova TV (Iceland)""]","[6.937285817259003, 6.868090163663157]",0.5,0
+5adbe9fa55429944faac23ba,comparison,hard,"[""Parodia"", ""Thalictrum""]","[""Parodia"", ""Thalictrum""]","[-0.12244085242066538, -0.17141719338893152]",1.0,1
+5a9052765542995651fb513d,comparison,hard,"[""Czesław Miłosz"", ""Bhabananda Deka""]","[""Robert Pinsky"", ""Economy of Assam""]","[2.9657733374436215, 2.337914328528808]",0.0,0
+5a81a7f75542995ce29dcc25,bridge,hard,"[""Jin Jing"", ""Carrefour""]","[""Carrefour"", ""Jin Jing""]","[15.500897925784997, 14.422410593797187]",1.0,1
+5ae1465855429920d5234373,bridge,hard,"[""Berk Communications"", ""CC Sabathia""]","[""Berk Communications"", ""Kuo Lee Chien-fu""]","[13.617170564026095, 6.582393845853777]",0.5,0
+5a7dedef5542995f4f40231a,bridge,hard,"[""Chalk and Cheese"", ""Michael Crawford""]","[""Dan Clark"", ""Michael Crawford""]","[5.544438475636282, 5.511867828180439]",0.5,0
+5abaf6865542996cc5e49f3c,bridge,hard,"[""Thomas Doherty (actor)"", ""The Lodge (TV series)""]","[""Thomas Doherty (actor)"", ""The Lodge (TV series)""]","[11.411329242607591, 8.780534054694982]",1.0,1
+5ae491155542995ad6573da3,bridge,hard,"[""Foxcatcher"", ""Dave Schultz (wrestling)""]","[""Dave Schultz (wrestling)"", ""Foxcatcher""]","[9.070262999807012, 8.029231889759217]",1.0,1
+5ab98608554299131ca42362,bridge,hard,"[""The Moderns"", ""John Lone""]","[""The Moderns"", ""Aniversario: Never Compromise""]","[11.982875367357437, 5.710391813892615]",0.5,0
+5ab3eeb5554299233954fff4,bridge,hard,"[""Doomsday Prophecy"", ""Jewel Staite""]","[""Jewel Staite"", ""Malcolm Reynolds""]","[12.219068341661323, 9.709282634501697]",0.5,0
+5a8fa4d95542995b4424207b,comparison,hard,"[""Palm Springs International Airport"", ""Trenton–Mercer Airport""]","[""Naval Air Warfare Center Trenton"", ""Trenton–Mercer Airport""]","[5.107203035372567, 5.004622065584995]",0.5,0
+5a8bbfb15542995e66a474f6,comparison,hard,"[""Peter Curtis (tennis)"", ""Scott Draper""]","[""Peter Curtis (tennis)"", ""Peter Lamont""]","[2.742896277945531, 1.7053555700164504]",0.5,0
+5ac240ef55429951e9e684ef,bridge,hard,"[""Our Stories Films"", ""The Weinstein Company""]","[""Our Stories Films"", ""The Weinstein Company""]","[6.272151813584741, 6.227650294594333]",1.0,1
+5ab72b5c5542993667793f63,bridge,hard,"[""The Late Late Show (U.S. TV series)"", ""Craig Kilborn""]","[""Red Letter Days (album)"", ""Geoff Peterson""]","[6.358453286195441, 6.343432979937361]",0.0,0
+5ae370295542992e3233c402,comparison,hard,"[""Henry Roth"", ""Lewis Mumford""]","[""Henry Roth"", ""Regional Planning Association of America""]","[6.440866628202606, 4.331178848668522]",0.5,0
+5ae1436e55429901ffe4ae31,bridge,hard,"[""Emmett Brown"", ""DeLorean DMC-12""]","[""MG J-type"", ""Emmett Brown""]","[7.40935163419459, 6.333421197992455]",0.5,0
+5a7766b15542993569682d7e,bridge,hard,"[""Rahoneen"", ""Roger Casement""]","[""Roger Casement"", ""Irish Brigade (World War I)""]","[29.494943992421454, 17.541318869487924]",0.5,0
+5a7571095542992d0ec05f97,bridge,hard,"[""Mirrors (film)"", ""Paula Patton""]","[""Paula Patton"", ""Hitch (film)""]","[6.249456998226234, 6.084185254553606]",0.5,0
+5ab30d1155429976abd1bc3d,bridge,hard,"[""Rebecca Forstadt"", ""The Santa Clause""]","[""Rebecca Forstadt"", ""Nunnally Lamperouge""]","[7.019471731422081, 5.2434404612172045]",0.5,0
+5ae18d615542997283cd2229,bridge,hard,"[""Liz McCarthy (fighter)"", ""Atomweight (MMA)""]","[""Human rights and youth sport"", ""Neurofilament""]","[3.630317854955823, 2.283699927600485]",0.0,0
+5ab1d983554299340b52540a,bridge,hard,"[""Twister...Ride it Out"", ""Race Through New York Starring Jimmy Fallon""]","[""Despicable Me Minion Mayhem"", ""Twister...Ride it Out""]","[11.693642100571699, 8.966536457059126]",0.5,0
+5ae7c5ef5542993210983f44,bridge,hard,"[""Don't Lose Touch"", ""Gainesville, Florida""]","[""Gainesville, Florida"", ""Don't Lose Touch""]","[9.69356255338301, 8.18608812092252]",1.0,1
+5a7313865542994cef4bc442,bridge,hard,"[""Pondicherry Gramin Bank"", ""Regional Rural Bank""]","[""Pondicherry Gramin Bank"", ""Regional Rural Bank""]","[8.952287780769522, 7.493605130023926]",1.0,1
+5adccf645542990d50227d32,bridge,hard,"[""Gayla Peevey"", ""I Want a Hippopotamus for Christmas""]","[""I Want a Hippopotamus for Christmas"", ""Gayla Peevey""]","[15.464911573282908, 13.042652824064799]",1.0,1
+5ae1e9fd5542997f29b3c1a1,bridge,hard,"[""Elaine Duke"", ""John F. Kelly""]","[""Elaine Duke"", ""John F. Kelly""]","[18.302020284244097, 14.382698786256936]",1.0,1
+5ae21937554299234fd043d3,bridge,hard,"[""Livingston family"", ""Philip Livingston""]","[""Philip Livingston"", ""Livingston family""]","[9.709373135923343, 8.895477494767245]",1.0,1
+5a8c90db554299653c1aa0bf,comparison,hard,"[""888 7th Avenue"", ""200 West Street""]","[""West Street District"", ""Robert B. Atwood Building""]","[7.992534922623139, 7.729516865036931]",0.0,0
+5ae164685542997b2ef7d1cb,bridge,hard,"[""Codename: Kids Next Door"", ""Tom Warburton""]","[""Tom Warburton"", ""Kyle Carrozza""]","[9.689626706385948, 9.12054089378436]",0.5,0
+5abe2b0155429976d4830a83,bridge,hard,"[""Max Hoffmann"", ""Battle of Tannenberg""]","[""Max Hoffmann"", ""Battle of Tannenberg""]","[14.527999306940002, 7.844447598499073]",1.0,1
+5a8f0a01554299458435d539,bridge,hard,"[""Telos (album)"", ""Forevermore (band)""]","[""Casino (band)"", ""Sasha, Benny y Erik""]","[5.572084836827879, 4.574544704096908]",0.0,0
+5ab40e1c5542996a3a969f00,bridge,hard,"[""Lawrence Turman"", ""Short Circuit (1986 film)""]","[""Short Circuit (1986 film)"", ""Where's Herb?""]","[9.42994045011683, 7.139428040840691]",0.5,0
+5ac1bff05542994ab5c67dfc,bridge,hard,"[""Francisco Rafael Arellano Félix"", ""Benjamín Arellano Félix""]","[""Benjamín Arellano Félix"", ""Rafael Caro Quintero""]","[9.013600713780425, 6.07623783289199]",0.5,0
+5a7c2f145542996dd594b8b4,bridge,hard,"[""3 Days to Kill"", ""Amber Heard""]","[""3 Days to Kill"", ""Amber Heard""]","[15.240872435269544, 12.380723433470436]",1.0,1
+5ab67bf255429954757d32f5,bridge,hard,"[""PISCES"", ""Booz Allen Hamilton""]","[""Proginet"", ""PISCES""]","[5.44480633191105, 5.311801050964032]",0.5,0
+5adf17f95542995ec70e8f6c,bridge,hard,"[""Thor: The Dark World"", ""Chris Hemsworth""]","[""Thor: The Dark World (soundtrack)"", ""Galgale Nighale""]","[10.766987524763131, 10.411805432346378]",0.0,0
+5ac29cf8554299218029dac2,bridge,hard,"[""Matthew Tishler"", ""Rowan Blanchard""]","[""Rowan Blanchard"", ""Matthew Tishler""]","[7.180033770337392, 6.997842592342396]",1.0,1
+5a8aa1685542992d82986f32,bridge,hard,"[""The Glory of Tang Dynasty"", ""Jing Tian""]","[""Jing Tian"", ""The Glory of Tang Dynasty""]","[10.687873998138171, 9.948799565070654]",1.0,1
+5a7b81715542997c3ec971d4,bridge,hard,"[""Daniel Abraham (author)"", ""The Expanse (novel series)""]","[""The Dagger and the Coin"", ""R.R. Virdi""]","[9.206530194933752, 8.998184745287933]",0.0,0
+5ae13bca55429901ffe4ae17,bridge,hard,"[""J. P. Doherty"", ""Debbie Harry""]","[""J. P. Doherty"", ""Bring Ya to the Brink Tour""]","[13.584753563587743, 5.79482953146346]",0.5,0
+5abffd10554299012d1db556,bridge,hard,"[""Slinzega"", ""Bresaola""]","[""Insubres"", ""Slinzega""]","[1.5227156476066745, 1.339364269378158]",0.5,0
+5adf72d35542992d7e9f9369,comparison,hard,"[""William Kronick"", ""Jon Turteltaub""]","[""William Kronick"", ""List of Jericho episodes""]","[7.057734038063274, 2.602705094062466]",0.5,0
+5a76f5b155429972597f1400,bridge,hard,"[""Steve Reich"", ""Philip Glass""]","[""Steve Reich"", ""Minimal music""]","[6.634599642980672, 4.149469504798639]",0.5,0
+5adde3a45542997545bbbdc2,comparison,hard,"[""Delmer Daves"", ""Jean-Pierre Jeunet""]","[""Jean-Pierre Jeunet"", ""Les Mistons""]","[7.81823940808538, 6.117991487919577]",0.5,0
+5adc9b7a5542994d58a2f679,bridge,hard,"[""Shani Gandhi"", ""Kelsea Ballerini""]","[""Shani Gandhi"", ""Legends (Kelsea Ballerini song)""]","[5.94211292298478, 1.8485045679649255]",0.5,0
+5a87954f5542996e4f308856,comparison,hard,"[""Bactris"", ""Epigaea""]","[""Epigaea"", ""Bactris""]","[-0.3828568999499153, -0.4418985491518101]",1.0,1
+5adde17f5542992200553b87,bridge,hard,"[""2013 McDonald's All-American Boys Game"", ""Aaron Gordon""]","[""2013 McDonald's All-American Boys Game"", ""Tyus Jones""]","[10.665360768307897, 4.958663346804838]",0.5,0
+5ae0d5335542990adbacf674,bridge,hard,"[""Triumph the Insult Comic Dog"", ""The Jack and Triumph Show""]","[""The Jack and Triumph Show"", ""Doc Stearn...Mr. Monster""]","[5.7723209663990325, 5.592410194737738]",0.5,0
+5ae3c0cc5542992f92d82369,bridge,hard,"[""Peter Marc Jacobson"", ""Fran Drescher""]","[""Peter Marc Jacobson"", ""Bill Lawrence (TV producer)""]","[20.144965733928235, 11.599388855800207]",0.5,0
+5a7a68d25542996c55b2dd98,bridge,hard,"[""Mountbatten Institute"", ""Louis Mountbatten, 1st Earl Mountbatten of Burma""]","[""Mountbatten Institute"", ""Jubilee Gardens, Lambeth""]","[6.593299180647294, 5.3103057038836425]",0.5,0
+5a804510554299485f5985af,bridge,hard,"[""Belle &amp; Sebastian: The Adventure Continues"", ""Belle and Sebastian (film)""]","[""Belle &amp; Sebastian: The Adventure Continues"", ""Belle and Sebastian (film)""]","[16.78948457690675, 13.68451270645478]",1.0,1
+5abb11c15542992ccd8e7ef8,bridge,hard,"[""Mirador de la Flor"", ""Yolanda Saldívar""]","[""Yolanda Saldívar"", ""Mirador de la Flor""]","[13.68874823843797, 7.844968761942867]",1.0,1
+5ab38cdd5542992ade7c6de2,bridge,hard,"[""Nowhere Boy"", ""Mimi Smith""]","[""Mimi Smith"", ""Adam Smith Professor of Political Economy""]","[12.368190489945999, 7.993728867880889]",0.5,0
+5a71095e5542994082a3e4f3,bridge,hard,"[""Unbreakable (film)"", ""David Dunn (character)""]","[""David Dunn (character)"", ""Billy Bathgate (film)""]","[6.044881014131037, 5.539863357203621]",0.5,0
+5ae383e15542992f92d822fb,comparison,hard,"[""The Apple Dumpling Gang (film)"", ""Heavyweights""]","[""Heavyweights"", ""Jack Bickham""]","[4.504857671860967, 4.124955912032622]",0.5,0
+5a85df525542994c784ddb9f,bridge,hard,"[""Christine McCarthy"", ""Bob Iger""]","[""Disney–ABC Television Group"", ""Christine McCarthy""]","[8.30991113225955, 7.590915953608119]",0.5,0
+5a88fa9e5542993b751ca8de,bridge,hard,"[""ESPN College Football Friday Primetime"", ""Dusty Dvoracek""]","[""ESPN College Football Friday Primetime"", ""Samantha Ponder""]","[8.466415569777391, 8.248814188189192]",0.5,0
+5a81dacc55429926c1cdada0,bridge,hard,"[""Suite from Henry V"", ""Henry V (1944 film)""]","[""Henry V (1944 film)"", ""Suite from Henry V""]","[12.505182447013393, 11.609390609072562]",1.0,1
+5ab9587d55429970cfb8ea7e,bridge,hard,"[""HHhH"", ""Reinhard Heydrich""]","[""HHhH (film)"", ""HHhH""]","[9.026439969737464, 7.763511614624515]",0.5,0
+5a73c958554299623ed4ac5c,bridge,hard,"[""Isaac Gómez"", ""CF Fuenlabrada""]","[""Isaac Gómez"", ""Isaac Gómez (athlete)""]","[7.179105132753124, 6.8956470072985985]",0.5,0
+5a7af1a955429931da12c98f,comparison,hard,"[""Distaghil Sar"", ""The Crown (mountain)""]","[""The Crown (mountain)"", ""Distaghil Sar""]","[4.233167537719382, 4.004680821776819]",1.0,1
+5a734e6d5542994cef4bc528,comparison,hard,"[""Beaver and Erie Canal"", ""Dismal Swamp Canal""]","[""Beaver and Erie Canal"", ""Dismal Swamp Canal""]","[7.692551505896004, 7.182902131921004]",1.0,1
+5ac38bf355429939154137ba,bridge,hard,"[""William McGrath"", ""Ulster loyalism""]","[""William McGrath"", ""Tara (Northern Ireland)""]","[7.379439551032641, 6.890324950901354]",0.5,0
+5ac532335542994611c8b41c,bridge,hard,"[""Howard Van Doren Shaw"", ""Marktown""]","[""Marktown"", ""Howard Van Doren Shaw""]","[9.724308523490201, 5.9121403100640535]",1.0,1
+5a77ba6c55429967ab10524c,bridge,hard,"[""Maniac (2011 film)"", ""Shia LaBeouf""]","[""Maniac (2011 film)"", ""Serial Killers (musical group)""]","[13.724565272509329, 6.795619218773863]",0.5,0
+5a71674f5542994082a3e819,bridge,hard,"[""Get Cape. Wear Cape. Fly"", ""Retro Gamer""]","[""Get Cape. Wear Cape. Fly"", ""Get Cape. Wear Cape. Fly (EP)""]","[9.821091706916448, 6.781636353658708]",0.5,0
+5ac270025542990b17b15390,bridge,hard,"[""Night of Joy (festival)"", ""ESPN Wide World of Sports Complex""]","[""Night of Joy (festival)"", ""Calypso tent""]","[11.348499762044714, 6.412740447149669]",0.5,0
+5a8a9bc15542996c9b8d5f36,bridge,hard,"[""Nicholas Dante"", ""A Chorus Line""]","[""A Chorus Line"", ""Dante's Inferno (2007 film)""]","[5.452007648959315, 4.952035766842475]",0.5,0
+5a84f5195542994c784dda9d,bridge,hard,"[""The Case for Democracy"", ""Ron Dermer""]","[""The Case for Democracy"", ""Avital Sharansky""]","[17.168037233399364, 7.698286557815315]",0.5,0
+5adfd22255429906c02daa4f,bridge,hard,"[""White Bear Theatre"", ""Tamzin Outhwaite""]","[""White Bear Theatre"", ""Pearl Mackie""]","[11.125872041007982, 10.130413878394258]",0.5,0
+5ab930655542991b5579f12a,comparison,hard,"[""Dziga Vertov"", ""Roger Donaldson""]","[""Roger Donaldson"", ""Dziga Vertov Group""]","[8.664966423160688, 7.765984352974117]",0.5,0
+5a75e7b255429976ec32bc95,comparison,hard,"[""Strange Synergy"", ""Qwirkle""]","[""Strange Synergy"", ""Qwirkle""]","[13.192962606385107, 7.097731453824187]",1.0,1
+5a7e052d5542995f4f40238e,bridge,hard,"[""The Joggers"", ""George M. Whitesides""]","[""George M. Whitesides"", ""The Joggers""]","[12.716342738961472, 11.211583671592209]",1.0,1
+5adf0cbd5542993a75d263e0,bridge,hard,"[""South Australian Brewing Company"", ""Edwin Thomas Smith""]","[""South Australian Brewing Company"", ""W. H. Clark (brewer)""]","[10.294571410028492, 5.5035252613891865]",0.5,0
+5a7b820c5542997c3ec971d8,bridge,hard,"[""William Ulmer Brewery"", ""Bushwick, Brooklyn""]","[""William Ulmer Brewery"", ""Market Garden Brewery""]","[8.250086085954493, 6.405453779641158]",0.5,0
+5a90b1a15542990a984936ab,bridge,hard,"[""John Burgess (priest)"", ""Royal Dutch Shell""]","[""Graham Twelftree"", ""Royal Dutch Shell""]","[7.980930995679998, 7.865383424398323]",0.5,0
+5a7a9a2255429941d65f26eb,bridge,hard,"[""Kang Sung-yeon"", ""King and the Clown""]","[""Kang Sung-yeon"", ""Prince Yeonsan (film)""]","[7.751764733925145, 4.881393016343635]",0.5,0
+5a8ba92c554299240d9c2071,bridge,hard,"[""Croatan National Forest"", ""Nantahala National Forest""]","[""Pisgah National Forest"", ""Southern Nantahala Wilderness""]","[9.654180248394097, 9.566169242064198]",0.0,0
+5adbf84555429947ff17387c,comparison,hard,"[""Adolfo Bioy Casares"", ""James Norman Hall""]","[""James Norman Hall"", ""Adolfo Bioy Casares""]","[9.170003929554015, 2.506544944500719]",1.0,1
+5ae7690c5542995703ce8c22,bridge,hard,"[""Gabriel Entertainment"", ""Greg Phillips""]","[""Gabriel Entertainment"", ""Port Adelaide Football Club""]","[16.460948786444682, 11.708071416242092]",0.5,0
+5ae759b25542991e8301cc6b,bridge,hard,"[""Jack (2015 film)"", ""Jack Unterweger""]","[""Jack (2015 film)"", ""The House That Jack Built (2018 film)""]","[9.20734624210109, 7.543323838400065]",0.5,0
+5a7ce6bf55429909bec7686c,bridge,hard,"[""Wij zijn Ajax"", ""Ryan Babel""]","[""Wij zijn Ajax"", ""1995 Dutch Supercup""]","[15.74058315494114, 6.378412477083719]",0.5,0
+5ab9ccef55429955dce3ed86,bridge,hard,"[""Dacryopinax spathularia"", ""Buddha's delight""]","[""Buddha's delight"", ""Dacryopinax spathularia""]","[19.562951803288456, 13.618230745708324]",1.0,1
+5a72908f5542994cef4bc33b,comparison,hard,"[""Ciaran Gribbin"", ""Brett Scallions""]","[""Brett Scallions"", ""Ciaran Gribbin""]","[8.21594117329222, 5.48305972214058]",1.0,1
+5ae351405542994393b9e67f,bridge,hard,"[""Jim Halsey"", ""Roy Clark""]","[""Jim Halsey"", ""Roy Clark""]","[7.382098355247386, 7.168843419282483]",1.0,1
+5ab9ddaa5542994dbf019873,bridge,hard,"[""James Hill (British Army officer)"", ""John Vereker, 6th Viscount Gort""]","[""James Hill (British Army officer)"", ""John Vereker, 6th Viscount Gort""]","[15.134290878566109, 8.924477316779885]",1.0,1
+5aba480c55429939ce03dc77,bridge,hard,"[""Beauty and the Breast"", ""Michelle Reis""]","[""Beauty and the Breast"", ""Miss Chinese (Vancouver) Pageant""]","[10.887653148549166, 9.05967769159154]",0.5,0
+5abaad5855429901930fa88f,comparison,hard,"[""Kim Warwick"", ""Jorge Lozano""]","[""1989 Volvo International – Doubles"", ""1994 Athens International – Doubles""]","[3.1174456476547756, 3.047945992393709]",0.0,0
+5a83c3275542996488c2e4be,bridge,hard,"[""Shelly Hruska"", ""Winnipeg""]","[""Shelly Hruska"", ""List of rivers of Germany""]","[9.199099616090518, 5.356292815384796]",0.5,0
+5a8bde565542995d1e6f1454,comparison,hard,"[""Grand Forks International Airport"", ""El Paso International Airport""]","[""Northeast El Paso"", ""Central El Paso""]","[6.969332109746548, 6.595383200985189]",0.0,0
+5ac249bd55429951e9e68528,bridge,hard,"[""General Blood"", ""Supply chain management""]","[""Bone marrow failure"", ""Social inequality""]","[5.1668888753243, 5.049222862654379]",0.0,0
+5adc459255429944faac24ad,bridge,hard,"[""Kevin Henke"", ""RATE project""]","[""Kevin Henke"", ""RATE project""]","[17.30296348958726, 17.13847620217626]",1.0,1
+5a85d25b5542996432c570ee,bridge,hard,"[""Anatoly Kashirov"", ""BC Dzūkija""]","[""Anatoly Kashirov"", ""BC Alita""]","[8.160924918990165, 3.7249363730859164]",0.5,0
+5a7319bc5542992359bc3235,comparison,hard,"[""Leonid Khachiyan"", ""Nikolai Lobachevsky""]","[""Leonid Khachiyan"", ""Yuzurihara""]","[5.275693752705442, 2.372435473668741]",0.5,0
+5a7fa08d55429969796c1af7,comparison,hard,"[""Clans (board game)"", ""Drunter und Drüber""]","[""Drunter und Drüber"", ""Clans (board game)""]","[13.23555298231211, 5.177473001256683]",1.0,1
+5aba9e545542994dbf019986,bridge,hard,"[""Andrew Stanton"", ""A Bug's Life""]","[""A Bug's Life"", ""Andrew Stanton""]","[5.38807365200655, 2.442044962194851]",1.0,1
+5a80b8845542992bc0c4a7de,bridge,hard,"[""Dancing in the Dark (Rihanna song)"", ""Home (soundtrack)""]","[""Dancing in the Dark (Rihanna song)"", ""Home (soundtrack)""]","[11.295936471016663, 8.714292472983859]",1.0,1
+5ae1388e5542997b2ef7d13a,bridge,hard,"[""Double Jeopardy (1999 film)"", ""Ashley Judd""]","[""Ashley Judd"", ""Double Jeopardy (1999 film)""]","[10.821388718887, 7.437945997996276]",1.0,1
+5ae663b05542992ae0d16316,bridge,hard,"[""Edithvale railway station"", ""Frankston railway line""]","[""Edithvale railway station"", ""Sabarmati Junction railway station""]","[9.179634720395216, 7.062414706945038]",0.5,0
+5abb7ea4554299642a094a96,comparison,hard,"[""High School (1968 film)"", ""The Thorn in the Heart""]","[""The Thorn in the Heart"", ""High School (1968 film)""]","[9.72686813235155, 9.377799727667337]",1.0,1
+5a7dff595542997cc2c474eb,bridge,hard,"[""Kalanipauahi"", ""Bernice Pauahi Bishop""]","[""Kalanipauahi"", ""Wife of Julius Nepos""]","[6.261858845039213, 4.123375590139491]",0.5,0
+5a7da0915542990b8f5039d4,bridge,hard,"[""Boone's Cave Park"", ""Daniel Boone""]","[""Daniel Boone"", ""Kentucky Horse Park""]","[8.543640579690123, 7.008266884529726]",0.5,0
+5ab281ec554299449642c8d1,bridge,hard,"[""Red Bend Catholic College"", ""Forbes, New South Wales""]","[""Red Bend Catholic College"", ""Forbes, New South Wales""]","[19.76990166860159, 10.915289024623135]",1.0,1
+5a905d085542995651fb5147,bridge,hard,"[""Mercedes-Benz Zetros"", ""Lockheed C-130 Hercules""]","[""Mercedes-Benz Zetros"", ""Ilyushin Il-214""]","[18.898825923325155, 6.853967150730188]",0.5,0
+5ab67c3f55429954757d32f9,comparison,hard,"[""Maro Ajemian"", ""Patricia Field""]","[""Maro Ajemian"", ""The Ones""]","[5.248864644723488, 2.9462464377439934]",0.5,0
+5ae2295c554299495565da13,bridge,hard,"[""Missouri attorney general election, 2012"", ""Ed Martin (Missouri politician)""]","[""Missouri attorney general election, 2012"", ""Ed Martin (Missouri politician)""]","[10.278671176955228, 9.703200585070594]",1.0,1
+5a8baf4b5542996e8ac889c5,comparison,hard,"[""In These Times"", ""Multinational Monitor""]","[""In These Times"", ""Multinational Monitor""]","[4.901757407749175, 4.5909275979661]",1.0,1
+5abf08985542997719eab625,comparison,hard,"[""Circus Diablo"", ""Magic Dirt""]","[""Circus Diablo"", ""Magic Dirt""]","[5.937370289524071, 4.846036957051667]",1.0,1
+5ac0d5cf554299294b219026,bridge,hard,"[""An American Werewolf in Paris"", ""An American Werewolf in London""]","[""An American Werewolf in Paris"", ""Mexican Werewolf in Texas""]","[8.108250285137508, 6.020487065859914]",0.5,0
+5ae5e8c85542996de7b71a69,bridge,hard,"[""Arrival (film)"", ""Jeremy Renner""]","[""Academy Award for Best Supporting Actor"", ""BIFA Award for Best Supporting Actor""]","[14.616203802425904, 13.853663899739832]",0.0,0
+5abbcba05542992ccd8e7fa3,bridge,hard,"[""Unilever Indonesia"", ""Lever Brothers""]","[""Antonius Johannes Jurgens"", ""William Lever, 1st Viscount Leverhulme""]","[4.250321919915758, 3.72443263653663]",0.0,0
+5a7b66135542997c3ec97145,comparison,hard,"[""Pond Hockey (film)"", ""I.O.U.S.A.""]","[""Pond Hockey (film)"", ""I.O.U.S.A.""]","[10.225594942804221, 10.009864156879992]",1.0,1
+5ab5e8935542997d4ad1f23b,bridge,hard,"[""Taquini Plan"", ""Education in Argentina""]","[""Education in Argentina"", ""Taquini Plan""]","[16.397643769911664, 12.782295116105304]",1.0,1
+5a9072dd5542990a98493656,comparison,hard,"[""Dave Wyndorf"", ""Poly Styrene""]","[""Poly Styrene"", ""Milking the Stars: A Re-Imagining of Last Patrol""]","[9.703710915853, 6.795785959628297]",0.5,0
+5adca5eb5542994d58a2f693,bridge,hard,"[""Kevin Watson"", ""Bishop's Stortford F.C.""]","[""Kevin Watson"", ""List of Millwall F.C. seasons""]","[7.699346543058011, 3.409197795357616]",0.5,0
+5a77474855429972597f14e4,comparison,hard,"[""Daisy Chainsaw"", ""Generationals""]","[""Generationals"", ""Berry Berry Singles""]","[5.48925815485052, 4.58499916315882]",0.5,0
+5a8bf6cf5542995e66a47525,bridge,hard,"[""'Tis the Fifteenth Season"", ""She of Little Faith""]","[""'Tis the Fifteenth Season"", ""Lisa Simpson""]","[5.83503197287515, 5.7551060837841455]",0.5,0
+5abc095c5542993f40c73c5d,comparison,hard,"[""Vocelli Pizza"", ""Fazoli's""]","[""Fazoli's"", ""Vocelli Pizza""]","[6.697558716164335, 6.013833434891508]",1.0,1
+5ac1b8cd55429963665198fc,comparison,hard,"[""Brothers Quay"", ""Jake Kasdan""]","[""Brothers Quay"", ""The Piano Tuner of Earthquakes""]","[6.262646567001166, 3.6546344548083276]",0.5,0
+5adea83b55429975fa854f53,bridge,hard,"[""Thirukkalacherry"", ""Tharangambadi""]","[""Thirukkalacherry"", ""Bylakuppe""]","[5.248762106527476, 3.697684228293471]",0.5,0
+5adfc9a555429906c02daa42,bridge,hard,"[""Barry Keoghan"", ""The Killing of a Sacred Deer""]","[""Barry Keoghan"", ""The Killing of a Sacred Deer""]","[8.395891963389147, 7.884147633021543]",1.0,1
+5ac002705542996f0d89cb05,comparison,hard,"[""Beitun, Xinjiang"", ""Wafangdian""]","[""Wafangdian"", ""Second Ürümqi–Jinghe Railway""]","[5.896168410290432, 4.187749569771733]",0.5,0
+5ae32ce75542992f92d8223d,bridge,hard,"[""Nikita Gross"", ""Perfect 10""]","[""Nikita Gross"", ""Perfect 10""]","[10.936963195794796, 10.021740827865784]",1.0,1
+5adce88b5542992c1e3a249a,bridge,hard,"[""Halebidu"", ""Delhi Sultanate""]","[""Halebidu"", ""Lakshminarasimha Temple, Javagal""]","[12.624971862743973, 8.552663960685626]",0.5,0
+5add95035542990dbb2f7e77,comparison,hard,"[""Cherie Currie"", ""Steve Augeri""]","[""Steve Augeri"", ""The Happenings""]","[5.171351054431819, 4.36601334682182]",0.5,0
+5a82bc7455429940e5e1a926,bridge,hard,"[""Nicolas Cage"", ""Moonstruck""]","[""Moonstruck"", ""Soap Opera Digest Award for Hottest Male Star""]","[14.05707119013505, 9.692368783277807]",0.5,0
+5ade8802554299728e26c72d,bridge,hard,"[""Gene Hobbs"", ""Rolex""]","[""Russell Hobbs, Inc"", ""Gene Hobbs""]","[7.654143986230459, 6.894759450506379]",0.5,0
+5a7e3a3f5542995ed0d166dd,comparison,hard,"[""Kenny Greene"", ""Billy Idol""]","[""Kenny Greene"", ""My Love (Mary J. Blige song)""]","[3.3259978877338923, 2.9108947151987112]",0.5,0
+5ab6bae95542995eadef0086,bridge,hard,"[""Gretchen Gotay"", ""University of Georgia""]","[""University of Georgia"", ""University of Maryland, Baltimore County""]","[10.808359569854114, 7.622027540510606]",0.5,0
+5ae1d4e75542997f29b3c143,bridge,hard,"[""Northern Kings"", ""Marco Hietala""]","[""Northern Kings"", ""Johnson Aguiyi-Ironsi""]","[6.0164620805574645, 4.0241487083887115]",0.5,0
+5a7e14505542995ed0d16685,comparison,hard,"[""Champlain Canal"", ""Warren County Canal""]","[""Champlain Canal"", ""Matton Shipyard""]","[5.329962660378962, 3.8412618779453513]",0.5,0
+5adcfe5f5542992c1e3a24f0,bridge,hard,"[""Batthyány"", ""Magnate""]","[""Natalia (given name)"", ""Mother (1937 film)""]","[4.074813913458766, 3.1683965005410233]",0.0,0
+5abbdc3f55429931dba145af,bridge,hard,"[""Daniel Boone (1964 TV series)"", ""Rosey Grier""]","[""Daniel Boone (1964 TV series)"", ""George E. Cooper""]","[16.615098483209533, 7.81318497814713]",0.5,0
+5ae527945542993aec5ec167,bridge,hard,"[""Lee Jong-suk"", ""Doctor Stranger""]","[""Lee Jong-suk"", ""Doctor Stranger""]","[14.220663828127343, 13.282654009873802]",1.0,1
+5a776fc15542997042120a3a,bridge,hard,"[""2012–13 Mercer Bears men's basketball team"", ""Mercer University""]","[""Emory University"", ""Mercer University""]","[6.611163240447388, 5.890150448238427]",0.5,0
+5adf33965542993344016c20,bridge,hard,"[""KSCW-DT"", ""KWCH-DT""]","[""KSCW-DT"", ""KWCH-DT""]","[7.573436370893762, 7.188852418678028]",1.0,1
+5add4dd35542992ae4cec507,bridge,hard,"[""Ceephax Acid Crew"", ""Squarepusher""]","[""Squarepusher"", ""Ceephax Acid Crew (album)""]","[4.274629005576312, 3.5939068941030654]",0.5,0
+5ac44629554299194317395d,bridge,hard,"[""Michael J. Hunter"", ""Scott Pruitt""]","[""Michael J. Hunter"", ""Don I. Wortman""]","[6.378456696324012, 6.106650681018853]",0.5,0
+5a7a36e65542990198eaf0ea,bridge,hard,"[""Bully Boy"", ""Sandi Toksvig""]","[""Susanna White (Mayflower passenger)"", ""Bubble Boy (musical)""]","[3.921821061074347, 3.5975002418820954]",0.0,0
+5adbf43655429947ff173864,bridge,hard,"[""Colorpoint Shorthair"", ""Point coloration""]","[""Colorpoint Shorthair"", ""Tonkinese cat""]","[5.904873281173669, 3.441109795475939]",0.5,0
+5ac50dd05542994611c8b343,bridge,hard,"[""Phil Lloyd (actor)"", ""Julia Gillard""]","[""Phil Lloyd (actor)"", ""At Home With Julia""]","[13.966030864893472, 12.339636796102445]",0.5,0
+5ac34ed0554299741d48a248,bridge,hard,"[""Gevherhan Sultan (daughter of Selim II)"", ""Suleiman the Magnificent""]","[""Gevherhan Sultan (daughter of Selim II)"", ""Fatma Sultan (daughter of Selim II)""]","[8.248894114314366, 6.734088769103425]",0.5,0
+5ab5f9a0554299488d4d9a6d,bridge,hard,"[""Odda, Ealdorman of Devon"", ""Ubba""]","[""Ine of Wessex"", ""Bagsecg""]","[8.196858809755476, 7.820991931683743]",0.0,0
+5abda4dd55429965af743d95,bridge,hard,"[""Ivan Trajkovič"", ""2012 Summer Olympics""]","[""Ivan Trajkovič"", ""2020 Summer Olympics""]","[16.306273123475282, 12.77166686287251]",0.5,0
+5ae75eb45542991bbc976201,bridge,hard,"[""Norman Buckley"", ""The Fosters (2013 TV series)""]","[""Scott Michael Foster"", ""ABC Family Worldwide""]","[5.025005618588513, 4.975677527821092]",0.0,0
+5a88e2f35542993b751ca8ad,bridge,hard,"[""Alien Autopsy (film)"", ""Ant &amp; Dec""]","[""Alien Autopsy (film)"", ""Harum Scarum (film)""]","[12.980266962462611, 7.2945385548750865]",0.5,0
+5adefdd75542995ec70e8f4e,bridge,hard,"[""Jim Tracy (baseball)"", ""Miami Marlins""]","[""Jim Tracy (baseball)"", ""1997 Cincinnati Reds season""]","[6.141205929248178, 4.289723884456626]",0.5,0
+5a90386455429916514e7435,bridge,hard,"[""Suffolk Traction Company"", ""Bayport, New York""]","[""Suffolk Traction Company"", ""Northport Traction Company""]","[9.578794329897033, 7.2946801573843585]",0.5,0
+5a7302b75542991f9a20c5fd,bridge,hard,"[""Miles Doleac"", ""Sleepy Hollow (film)""]","[""The Rage: Carrie 2"", ""Jenma Natchathiram""]","[4.590359634945135, 4.197337171136646]",0.0,0
+5a8501915542997175ce1f5a,comparison,hard,"[""PC Magazine"", ""Sculptural Pursuit""]","[""Sculptural Pursuit"", ""United Pursuit""]","[7.781702098219629, 4.803350703772827]",0.5,0
+5ae4cda05542990ba0bbb148,comparison,hard,"[""Serena Williams"", ""Mariaan de Swardt""]","[""Serena Williams"", ""Williams sisters""]","[5.828503280551285, 5.769500508391106]",0.5,0
+5ae60dcc554299546bf83043,bridge,hard,"[""Young Dolph"", ""O.T. Genasis""]","[""Young Dolph"", ""Cut It (song)""]","[7.04919982395115, 6.785680781234916]",0.5,0
+5adface25542995ec70e906c,bridge,hard,"[""Killing You"", ""Asking Alexandria""]","[""Asking Alexandria"", ""Ben Bruce""]","[20.55298016317651, 9.239858275761595]",0.5,0
+5adfb698554299603e418385,bridge,hard,"[""Tonde Burin"", ""Superhero""]","[""Tonde Burin"", ""Superhero""]","[7.594397328606544, 5.2059430987721225]",1.0,1
+5a774e415542994aec3b7280,bridge,hard,"[""Kait Parker"", ""Rob Marciano""]","[""Ginger Zee"", ""Atlanta Braves Radio Network""]","[4.2706106553224314, 4.182845074283242]",0.0,0
+5abb189e5542996cc5e49fa4,comparison,hard,"[""Remember the Titans"", ""My Favorite Martian (film)""]","[""My Favorite Martian (film)"", ""Remember the Titans""]","[13.858718818409733, 8.633011338792661]",1.0,1
+5ab8756755429934fafe6dd3,bridge,hard,"[""Twilight (novel series)"", ""Stephenie Meyer""]","[""Sarah MacLean"", ""Twilight (novel series)""]","[8.114392922414565, 7.747608096429683]",0.5,0
+5ab2342a5542993be8fa98c3,bridge,hard,"[""The Alexander Dawson School at Rainbow Mountain"", ""Summerlin, Nevada""]","[""Alexander Dawson School (Lafayette, Colorado)"", ""The Alexander Dawson School at Rainbow Mountain""]","[8.530032449897423, 8.418038179597616]",0.5,0
+5a7652785542992db9473760,comparison,hard,"[""Vladimir Danilevich"", ""Wolfgang Becker""]","[""Wolfgang Becker"", ""Good Bye, Lenin!""]","[11.58174870735566, 4.981884422105015]",0.5,0
+5ae7ac495542993210983eee,bridge,hard,"[""...All the Marbles"", ""Robert Aldrich""]","[""...All the Marbles"", ""Dave Willock""]","[7.132831617004852, 5.644129102730436]",0.5,0
+5a7fb1e55542995d8a8ddef7,comparison,hard,"[""Grizzly Man"", ""Pray the Devil Back to Hell""]","[""Pray the Devil Back to Hell"", ""Surfwise""]","[11.018978367299983, 4.695559575564516]",0.5,0
+5ab84dea55429934fafe6d4f,comparison,hard,"[""H. G. Wells"", ""Rubén Darío""]","[""H. G. Wells"", ""Rubén Darío (disambiguation)""]","[8.077505566896932, 3.0562362064416986]",0.5,0
+5ade27e05542997c77aded7d,bridge,hard,"[""Friends (Justin Bieber and BloodPop song)"", ""Purpose (Justin Bieber album)""]","[""Friends (Justin Bieber and BloodPop song)"", ""Eenie Meenie""]","[12.063999094714784, 10.418751950443024]",0.5,0
+5a8ee2855542995a26add550,bridge,hard,"[""Eusebio Valli"", ""Luigi Galvani""]","[""Eusebio Valli"", ""Luigi Galvani""]","[11.638813033745244, 7.828535608157792]",1.0,1
+5ab762fb55429928e1fe3857,bridge,hard,"[""5.6×61mm VHSE"", ""6.5×55mm""]","["".250-3000 Savage"", ""6.5×55mm""]","[5.067502819843631, 5.015741245953294]",0.5,0
+5a7f57a45542992097ad2f29,bridge,hard,"[""Johan Henrik Deuntzer"", ""Danish Social Liberal Party""]","[""Johan Henrik Deuntzer"", ""Cabinet of Deuntzer""]","[11.164704727299918, 9.121589289888835]",0.5,0
+5a79131a554299148911f9e3,bridge,hard,"[""Helmut Rauca"", ""Kaunas massacre of October 29, 1941""]","[""Great Indian Warpath"", ""Royal Rumble (1999)""]","[6.15268579092141, 5.966426187932675]",0.0,0
+5a7e22ed5542995ed0d166a7,comparison,hard,"[""Bernard Malamud"", ""Lois McMaster Bujold""]","[""Bernard Malamud"", ""Ethan of Athos""]","[5.175112550728911, 4.424164884763647]",0.5,0
+5a84bc5b5542991dd0999dc3,bridge,hard,"[""Ibbi-Sipish"", ""Ibrium""]","[""Ibbi-Sipish"", ""Kun-Damu""]","[14.281979816533026, 8.311972554579983]",0.5,0
+5ac519a95542994611c8b38b,comparison,hard,"[""Chris Cornell"", ""Godsmack""]","[""Godsmack"", ""Whatever (Godsmack song)""]","[7.523068430495169, 6.080578178122563]",0.5,0
+5a7543d555429916b01642ce,bridge,hard,"[""Flula Borg"", ""Dirk Nowitzki""]","[""Flula Borg"", ""Jürgen Horst""]","[6.855718019016323, 2.251638160993758]",0.5,0
+5add1aa65542990d50227de1,bridge,hard,"[""Evan Almighty"", ""Steve Carell""]","[""Steve Carell"", ""Son of the Mask""]","[20.58906877202053, 12.321894543869169]",0.5,0
+5abb23035542992ccd8e7f22,bridge,hard,"[""World UFO Day"", ""Kenneth Arnold""]","[""Kenneth Arnold"", ""World UFO Day""]","[8.795045655364627, 7.76195315163252]",1.0,1
+5a78d06355429974737f78b4,bridge,hard,"[""ArsenalFanTV"", ""Olivier Giroud""]","[""ArsenalFanTV"", ""Franck Ribéry""]","[8.194705917729797, 6.295106762018498]",0.5,0
+5a7558425542992db9473647,bridge,hard,"[""China Airlines"", ""Mandarin Airlines""]","[""China Airlines"", ""History of British Airways""]","[5.3357902232550725, 4.760984938653122]",0.5,0
+5ab6bdd255429953192ad36e,comparison,hard,"[""Ugni"", ""Stenomesson""]","[""Stenomesson"", ""Ugni""]","[6.745333913578448, 5.128020184247707]",1.0,1
+5ab3d2b7554299233954ffb8,bridge,hard,"[""Viscount Barnewall"", ""James II of England""]","[""Viscount Barnewall"", ""Clan Munro""]","[10.3322399038439, 8.669609407205678]",0.5,0
+5a89bbb05542992e4fca83a3,bridge,hard,"[""November (2004 film)"", ""Nick Offerman""]","[""Donna Meagle"", ""Andy Milder""]","[4.94477478838579, 3.846852688647502]",0.0,0
+5adfb60655429942ec259b08,bridge,hard,"[""Matilda of Chester, Countess of Huntingdon"", ""Hugh de Kevelioc, 5th Earl of Chester""]","[""Matilda of Chester, Countess of Huntingdon"", ""Theophilus Hastings, 7th Earl of Huntingdon""]","[5.695358606526113, 5.658686136842795]",0.5,0
+5a8769475542993e715abf2b,bridge,hard,"[""Old Ones (Palladium Books)"", ""Alien Intelligence (Palladium Books)""]","[""Alien Intelligence (Palladium Books)"", ""Old Ones (Palladium Books)""]","[5.174722670588411, 5.084188682132349]",1.0,1
+5a78caa955429970f5fffd83,bridge,hard,"[""Lars Tolumnius"", ""Etruscan language""]","[""Etruscan language"", ""Lars Tolumnius""]","[5.176799376646614, 4.690003007833043]",1.0,1
+5ae64ffd5542992ae0d162ce,bridge,hard,"[""In Mexico"", ""Jessica Lange""]","[""In Mexico"", ""Cate Blanchett""]","[15.393932856511192, 6.794338514057323]",0.5,0
+5a8a40015542996c9b8d5e72,bridge,hard,"[""Terryfold"", ""Rick and Morty (season 3)""]","[""Terryfold"", ""Rick and Morty (season 3)""]","[14.592307479984191, 12.125562276211589]",1.0,1
+5abba17a5542992ccd8e7f60,bridge,hard,"[""Toyota Innova"", ""Toyota Hilux""]","[""Toyota Innova"", ""Toyota Fortuner""]","[14.609174287366518, 12.863935991746429]",0.5,0
+5abcfcf0554299114383a1b4,bridge,hard,"[""The Trolleybus Museum at Sandtoft"", ""Isle of Axholme""]","[""Isle of Axholme"", ""The Trolleybus Museum at Sandtoft""]","[8.630868678567639, 8.256915095413058]",1.0,1
+5a8a423255429930ff3c0d30,bridge,hard,"[""Dost Mohammad Khan (Emir of Afghanistan)"", ""Zaman Shah Durrani""]","[""Mohammad Khan Ustajlu"", ""Zaman Shah Durrani""]","[8.202037601586328, 8.198409333109682]",0.5,0
+5a7ff71a5542992e7d278dd0,bridge,hard,"[""Suzie Toase"", ""Harry Potter and the Deathly Hallows – Part 2""]","[""Suzie Toase"", ""Sneha Khanwalkar""]","[18.862890658161607, 7.6362407614613]",0.5,0
+5a7fb1765542992e7d278d20,bridge,hard,"[""Ainslie Glen, Nova Scotia"", ""Boston Christmas Tree""]","[""Boston Christmas Tree"", ""Ainslie Glen, Nova Scotia""]","[6.514656656458453, 5.292090009116557]",1.0,1
+5ae17d6855429901ffe4aea7,bridge,hard,"[""Sinatra: London"", ""Frank Sinatra""]","[""Frank Sinatra"", ""It Was a Very Good Year""]","[7.036731761518526, 5.75598756411903]",0.5,0
+5ae1f079554299234fd04343,bridge,hard,"[""Kentucky Route 393"", ""Oldham County, Kentucky""]","[""Kentucky Route 393"", ""Oldham County, Kentucky""]","[12.647075751796, 10.225541690840926]",1.0,1
+5ae226bd5542994d89d5b379,bridge,hard,"[""2017–18 Manchester United F.C. season"", ""2017–18 Premier League""]","[""National League 2 North"", ""2017–18 EFL Cup""]","[8.080040596370246, 7.085101844265321]",0.0,0
+5a7b85c4554299294a54a9d7,bridge,hard,"[""Blue Bird Wanderlodge"", ""Blue Bird Corporation""]","[""Blue Bird Mini Bird"", ""Blue Bird Wanderlodge""]","[9.671782890343536, 9.113233322505126]",0.5,0
+5a8fdd9c55429916514e73de,bridge,hard,"[""Excuse My French (album)"", ""Machine Gun Kelly (rapper)""]","[""Machine Gun Kelly (rapper)"", ""Excuse My French (album)""]","[12.170888290093774, 11.632093480104889]",1.0,1
+5a88c92d5542993b751ca84e,comparison,hard,"[""Basset Bleu de Gascogne"", ""Beagle""]","[""Basset Bleu de Gascogne"", ""Beagle""]","[7.841136176949791, 6.968798321003717]",1.0,1
+5ae30d4b55429928c42395cc,bridge,hard,"[""Home Free (1993 TV series)"", ""Marian Mercer""]","[""Home Free (1993 TV series)"", ""Marian Mercer""]","[5.0720760824164595, 4.699027209819726]",1.0,1
+5a7a6c1a5542994f819ef1d5,bridge,hard,"[""Lykan HyperSport"", ""The Fate of the Furious""]","[""Fast &amp; Furious 6"", ""Lykan HyperSport""]","[8.525271893454939, 8.322388698149418]",0.5,0
+5adfdd1c55429906c02daa74,comparison,hard,"[""Marianas Trench (band)"", ""Tse Tse Fly (band)""]","[""Tse Tse Fly (band)"", ""Mochi (Cheyenne)""]","[9.909112809019291, 4.492768147783012]",0.5,0
+5ae0b68e55429906c02daafb,bridge,hard,"[""Million Dollar Quartet (musical)"", ""Elvis Presley""]","[""Million Dollar Quartet (musical)"", ""Elvis Presley""]","[11.513980821898093, 9.21186190647857]",1.0,1
+5ab53bee554299637185c526,bridge,hard,"[""God Is Not Great"", ""Christopher Hitchens""]","[""God Is Not Great"", ""Injo coup""]","[11.196362681083771, 4.631658824856946]",0.5,0
+5ac1a5b45542991316484b8b,comparison,hard,"[""Odds (band)"", ""Supergrass""]","[""Odds (band)"", ""Demons (band)""]","[6.416436193587288, 3.1745225779731303]",0.5,0
+5ae39fb85542990afbd1e197,comparison,hard,"[""Longkou"", ""Changle District""]","[""Longkou"", ""Sonoma County Water Agency""]","[4.112696256473134, 2.144100170823775]",0.5,0
+5a74f5155542993748c89750,comparison,hard,"[""Kemess Mine"", ""Colomac Mine""]","[""Colomac Mine"", ""Kemess Mine""]","[9.265236121923047, 8.156796485208645]",1.0,1
+5ab7f3285542992aa3b8c88f,bridge,hard,"[""Suzanne Simone Baptiste Louverture"", ""Toussaint Louverture""]","[""Suzanne Simone Baptiste Louverture"", ""Simone Torres""]","[12.026034053263349, 6.936055478254681]",0.5,0
+5a7b3ec95542995eb53be8d3,bridge,hard,"[""Edward C. Hugler"", ""Alexander Acosta""]","[""Alexander Acosta"", ""Edward C. Hugler""]","[4.375603804106694, 4.35035729180534]",1.0,1
+5abc6c2655429959677d6aac,bridge,hard,"[""Second VA-174 (U.S. Navy)"", ""Naval Air Station Cecil Field""]","[""Second VA-174 (U.S. Navy)"", ""Naval Air Station Cecil Field""]","[11.758739719589103, 8.050301270313598]",1.0,1
+5a827ce155429940e5e1a8d7,comparison,hard,"[""Kevin Ullyett"", ""Billie Jean King""]","[""Kevin Ullyett"", ""1983 Australian Open – Women's Singles""]","[6.7715509516713075, 3.4617657645574282]",0.5,0
+5a82bdd655429940e5e1a92a,bridge,hard,"[""The URL with Phred Show"", ""Phred on Your Head Show""]","[""The URL with Phred Show"", ""Gladiators 2000""]","[10.190096862316256, 4.998235988993131]",0.5,0
+5ae00a27554299025d62a3bb,bridge,hard,"[""Chengdu J-7"", ""CAC/PAC JF-17 Thunder""]","[""Chengdu Aircraft Industry Group"", ""CBJ800""]","[4.7092317342031755, 4.5020855593432705]",0.0,0
+5ade99ad554299728e26c75d,bridge,hard,"[""Rita Sangalli"", ""Sylvia (ballet)""]","[""Sylvia (ballet)"", ""Rita Sangalli""]","[8.69528866897453, 8.193858895826022]",1.0,1
+5abe80a855429976d4830b43,bridge,hard,"[""Park Joo-mi"", ""Asiana Airlines""]","[""Asiana Airlines"", ""Park Joo-mi""]","[9.730038447271307, 8.416156203372228]",1.0,1
+5a7698c2554299373536010d,bridge,hard,"[""Ohio State Route 78"", ""Car and Driver""]","[""Ohio State Route 78"", ""Car and Driver""]","[12.743561869284862, 9.850542732523124]",1.0,1
+5ae0aefe554299603e418437,bridge,hard,"[""Corendon Dutch Airlines"", ""Corendon Airlines""]","[""Corendon Dutch Airlines"", ""Corendon Airlines""]","[11.801662278833323, 7.155397859210723]",1.0,1
+5ab587ad5542992aa134a34b,bridge,hard,"[""Coraline"", ""Alice's Adventures in Wonderland""]","[""Coraline"", ""24-7 Spyz""]","[13.520312844543394, 5.386222807836614]",0.5,0
+5a8b922e55429949d91db5e6,bridge,hard,"[""Orkworld"", ""John Wick (game designer)""]","[""John Wick: Chapter 2"", ""Orkworld""]","[4.354928205834707, 3.8849890534246843]",0.5,0
+5a8078e95542992bc0c4a72c,bridge,hard,"[""ITV Nightly News"", ""Dermot Murnaghan""]","[""ITV Nightly News"", ""Dermot Murnaghan""]","[6.336530072385999, 4.9587641414826615]",1.0,1
+5ab981555542996be2020532,comparison,hard,"[""Ray Ruffels"", ""Bob Hewitt""]","[""Karting World Championship"", ""Bob Hewitt""]","[8.96404861011577, 4.761304432234682]",0.5,0
+5a7fac0055429969796c1b1b,bridge,hard,"[""Tobacconist"", ""Cigar store Indian""]","[""Tobacconist"", ""Cigar store Indian""]","[21.611299697478756, 14.12245189582162]",1.0,1
+5a84cd4b5542991dd0999dfe,comparison,hard,"[""Kyosuke Himuro"", ""Boy George""]","[""Worried About the Boy"", ""Boy George""]","[4.045771017338624, 3.9421374017155966]",0.5,0
+5a75404a55429916b01642be,bridge,hard,"[""Hall of Languages, Syracuse University"", ""The Addams Family""]","[""The Addams Family"", ""Sanheyuan""]","[11.264936032341621, 9.944404246745812]",0.5,0
+5a79c9cc554299148911fa53,comparison,hard,"[""The Greatest Game Ever Played"", ""Hot Lead and Cold Feet""]","[""Hot Lead and Cold Feet"", ""Alan Ameche""]","[13.24802499585372, 6.480110907301093]",0.5,0
+5ae34b275542992e3233c371,bridge,hard,"[""David Hersey"", ""Equus (play)""]","[""David Hersey"", ""Amadeus""]","[8.735268865181887, 4.560853613586892]",0.5,0
+5a7df7115542990b8f503b0f,comparison,hard,"[""Todd Field"", ""Aaron Katz (filmmaker)""]","[""Todd Field"", ""Long Prairie Municipal Airport""]","[6.516226765854483, 4.657033468032775]",0.5,0
+5a7f697c5542992097ad2f59,bridge,hard,"[""Michael Cremo"", ""Forbidden Archeology""]","[""Forbidden Archeology"", ""Richard L. Thompson""]","[8.841463149974427, 7.6243871100905665]",0.5,0
+5ac00de75542996f0d89cb13,bridge,hard,"[""The Venetian Macao"", ""The Venetian Las Vegas""]","[""The Venetian Macao"", ""2010 Mnet Asian Music Awards""]","[5.761041246697886, 5.066475361055054]",0.5,0
+5adecc7755429975fa854f9d,bridge,hard,"[""HackThisSite"", ""Jeremy Hammond""]","[""HackThisSite"", ""Installed base""]","[11.833274006219515, 6.77646296778257]",0.5,0
+5a7f010955429934daa2fc8b,comparison,hard,"[""Francis Ford Coppola"", ""Basil Dean""]","[""Youth Without Youth (film)"", ""Francis Ford Coppola Presents""]","[2.9568373885571564, 2.8645702511152544]",0.0,0
+5a8ed8b955429917b4a5bdd3,bridge,hard,"[""North Midland Divisional Engineers"", ""Battle of France""]","[""One and All"", ""North Midland Divisional Engineers""]","[6.117232297270915, 5.491880906124352]",0.5,0
+5a8205b755429926c1cdadee,bridge,hard,"[""Wright Model B"", ""Wright brothers""]","[""Wright brothers"", ""Duigan pusher biplane""]","[15.991807549014446, 7.221419232737607]",0.5,0
+5ae2090a5542997f29b3c214,bridge,hard,"[""Kieran Crichlow"", ""Barbados""]","[""Kieran Crichlow"", ""Lesser Antilles Volcanic Arc""]","[11.77743881289097, 4.330658509003647]",0.5,0
+5a716a9b5542994082a3e821,bridge,hard,"[""The Usual Suspects"", ""Kevin Pollak""]","[""Stephen Baldwin"", ""Bad Hat Harry Productions""]","[4.55967091691491, 3.980484605698618]",0.0,0
+5a7797a555429967ab105208,comparison,hard,"[""Wayne Coyne"", ""Toshiko Koshijima""]","[""The Gorburger Show"", ""ITunes Originals – The Flaming Lips""]","[3.6890913932954383, 2.5364544217041303]",0.0,0
+5addffff5542992200553bdd,bridge,hard,"[""Jimmy Bryant (singer)"", ""West Side Story (film)""]","[""Jimmy Bryant (singer)"", ""Academy Honorary Award""]","[9.726257025616716, 7.650260977310554]",0.5,0
+5a88016b5542997e5c09a58a,bridge,hard,"[""Migene González-Wippler"", ""Santería""]","[""Migene González-Wippler"", ""Sikh art and culture""]","[16.878300287232392, 6.66852757120496]",0.5,0
+5a89da93554299669944a5cc,bridge,hard,"[""Kiskiack (Lee House)"", ""Naval Weapons Station Yorktown""]","[""Kiskiack"", ""Kiskiack (Lee House)""]","[7.167345560786314, 6.866529472166774]",0.5,0
+5aba55f25542994dbf0198e0,bridge,hard,"[""Onizuka Prop Wash Award"", ""Ellison Onizuka""]","[""Onizuka Prop Wash Award"", ""Ellison Onizuka""]","[15.04634088108345, 7.106161154315975]",1.0,1
+5a7e618155429949594199b0,bridge,hard,"[""New York State Route 9R"", ""Boght Corners, New York""]","[""New York State Route 9R"", ""New York State Route 157A""]","[10.258280404087897, 8.414396018688896]",0.5,0
+5ac258cc554299636651998e,bridge,hard,"[""Roughler"", ""Neneh Cherry""]","[""Roughler"", ""Adelbert Ames Jr.""]","[19.877787205026745, 5.325671870098372]",0.5,0
+5a775f8a5542994aec3b72ba,bridge,hard,"[""Taylor Swift videography"", ""Change (Taylor Swift song)""]","[""Taylor Swift videography"", ""MTV Video Music Award for Best Alternative Video""]","[18.43816860382446, 13.243967066441236]",0.5,0
+5ae277575542996483e649b2,bridge,hard,"[""Kissed by the Wolves"", ""Shaw Brothers Studio""]","[""Asia Pacific Deaf Games"", ""Kissed by the Wolves""]","[10.743353909558904, 10.736903907052252]",0.5,0
+5a888b8e5542997e5c09a60a,bridge,hard,"[""Cardinal Hayes High School"", ""Catholic High School Athletic Association""]","[""Blanchard Valley Conference"", ""Crest High School (North Carolina)""]","[11.397073154962804, 7.665143835619456]",0.0,0
+5ae7793c554299540e5a55c2,bridge,hard,"[""Volcano Bay"", ""Wet 'n Wild Orlando""]","[""Wave Breaker: The Rescue Coaster"", ""Wet 'n Wild Orlando""]","[7.597722438983034, 6.879553308094914]",0.5,0
+5ab2123155429970612095b9,bridge,hard,"[""Atatürk Museum Mansion"", ""Mustafa Kemal Atatürk""]","[""Atatürk Museum Mansion"", ""Mustafa Kemal Atatürk""]","[7.175846656246209, 5.155334427775204]",1.0,1
+5ae5f47c5542996de7b71a82,bridge,hard,"[""Fatal Contact (film)"", ""Sanshou""]","[""Fatal Contact (film)"", ""Sanshou""]","[16.252872293836393, 13.0067039539474]",1.0,1
+5ae3f7575542995dadf24277,comparison,hard,"[""Hymenosporum"", ""Agrostemma""]","[""Hymenosporum"", ""Agrostemma""]","[10.538663177769289, 6.98338829127174]",1.0,1
+5a80cf4c55429938b61421f6,bridge,hard,"[""Eric S. Pistorius"", ""Circuit court""]","[""Eric S. Pistorius"", ""Peter Deegan""]","[8.377395608112073, 8.157452683865989]",0.5,0
+5adf99065542992d7e9f93b0,bridge,hard,"[""Ouachita Baptist Tigers football"", ""Ouachita Baptist University""]","[""Ouachita Baptist University"", ""Henderson State Reddies football""]","[12.589111799304142, 10.411704472043384]",0.5,0
+5a8787915542996e4f30882e,comparison,hard,"[""Dangal (film)"", ""The Man from Snowy River II""]","[""The Man from Snowy River II"", ""Bruce Rowland""]","[6.086228798223395, 5.9130224127316335]",0.5,0
+5ab594545542997d4ad1f183,comparison,hard,"[""Michael Herz (producer)"", ""Roland Emmerich""]","[""Michael Herz (producer)"", ""Straight man (stock character)""]","[3.443441305181098, 3.328678599299055]",0.5,0
+5a7b69b155429927d897bfbc,bridge,hard,"[""Dan Hanford"", ""Clitheroe F.C.""]","[""Dan Hanford"", ""Clitheroe F.C.""]","[9.015954496596184, 7.584978339292262]",1.0,1
+5ab94e72554299743d22eaed,bridge,hard,"[""Hamilton Wanderers AFC"", ""Chris Wood (footballer, born 1991)""]","[""Hamilton Wanderers AFC"", ""Saša Ognenovski""]","[5.819713322929274, 4.606296839601536]",0.5,0
+5a8cb4b2554299585d9e372a,bridge,hard,"[""Droga5"", ""Marc Ecko""]","[""BBDO"", ""Louie Moses""]","[10.260788161915011, 9.764283680886775]",0.0,0
+5ac3ae885542995ef918c1e7,bridge,hard,"[""Church of All Saints, Doddinghurst"", ""Church of England""]","[""Church of All Saints, Doddinghurst"", ""Møllevang Church""]","[12.8854084575964, 6.772868253969743]",0.5,0
+5abcfa6f5542993a06baf9c7,bridge,hard,"[""Hatter (Alice's Adventures in Wonderland)"", ""March Hare""]","[""Hatter's Castle"", ""Hatter (Alice's Adventures in Wonderland)""]","[7.604944142789905, 6.876985753958186]",0.5,0
+5abb7d8b5542996cc5e4a006,bridge,hard,"[""Dan Balan"", ""Live Your Life (T.I. song)""]","[""Castle Walls"", ""Dan Balan""]","[5.834830870635159, 5.043609363699954]",0.5,0
+5adc020a5542994650320c4c,comparison,hard,"[""Jeff Ragsdale"", ""Millard Webb""]","[""Hotline (2014 film)"", ""Jeff Ragsdale""]","[3.562295658494422, 2.9971552999398834]",0.5,0
+5add74b75542992200553b24,bridge,hard,"[""Louis-Jean-Nicolas Lejoille"", ""Brindisi""]","[""Louis-Jean-Nicolas Lejoille"", ""Government Palace of Chihuahua""]","[14.648440886486052, 5.3521629394045975]",0.5,0
+5ae400ab5542995dadf242be,comparison,hard,"[""One, Inc. v. Olesen"", ""Erie Railroad Co. v. Tompkins""]","[""One, Inc. v. Olesen"", ""V.L. v. E.L.""]","[16.075631159558668, 9.418046749471403]",0.5,0
+5a7e31c055429934daa2fbee,comparison,hard,"[""Rivermaya"", ""Kodaline""]","[""Honest (Kodaline song)"", ""Rivermaya""]","[4.5867290749705685, 3.94682733006231]",0.5,0
+5abbdaef554299642a094b5d,bridge,hard,"[""Carla Bruni discography"", ""Le Divorce""]","[""Carla Bruni discography"", ""Howards End (film)""]","[20.682487773889473, 10.54259021618784]",0.5,0
+5a8408a9554299123d8c21d3,bridge,hard,"[""Various Positions (film)"", ""Leonard Cohen""]","[""William Arthur Irwin"", ""Lewis Nicola""]","[7.196231837495906, 6.20743969010669]",0.0,0
+5a79c2955542994f819ef097,bridge,hard,"[""Michael Rispoli"", ""The Taking of Pelham 123 (2009 film)""]","[""Michael Rispoli"", ""The Taking of Pelham 123 (2009 film)""]","[12.069018687410804, 10.491752890863937]",1.0,1
+5a821c95554299676cceb219,bridge,hard,"[""The Journalist and the Murderer"", ""Jeffrey R. MacDonald""]","[""Sten Forshufvud"", ""The Journalist and the Murderer""]","[6.835877340844679, 5.646210928160337]",0.5,0
+5a761e855542994ccc9186e0,comparison,hard,"[""Catcha Lake"", ""Hedley Mascot Mine""]","[""Hedley Mascot Mine"", ""Hedley, British Columbia""]","[5.645351046557557, 5.388475375093921]",0.5,0
+5a87e5345542993e715abffb,bridge,hard,"[""Felix Salten"", ""Bambi, a Life in the Woods""]","[""Bambi, a Life in the Woods"", ""Felix Salten""]","[17.060871970214826, 12.916175603387584]",1.0,1
+5abfcdb55542993fe9a41e7b,bridge,hard,"[""Stunt Cycle"", ""Evel Knievel""]","[""Stunt Cycle"", ""Chris Pontius""]","[7.577125319062237, 4.840391786457822]",0.5,0
+5a7a19765542996a35c170cf,bridge,hard,"[""Pashto"", ""Pashtun diaspora""]","[""Pashto"", ""Languages of Israel""]","[10.919762459106568, 8.419456395654597]",0.5,0
+5abeb91c5542994516f45400,comparison,hard,"[""Poor Old Lu"", ""Shudder to Think""]","[""List of Christian punk bands"", ""Poor Old Lu""]","[16.69839259159671, 16.168359020300954]",0.5,0
+5a80d1ce554299260e20a178,comparison,hard,"[""Asimov's Science Fiction"", ""Christian Science Sentinel""]","[""Christian science fiction"", ""Christian Science Sentinel""]","[10.48332696481939, 8.57221046274011]",0.5,0
+5ae24b165542996483e64962,bridge,hard,"[""Hund's rules"", ""Friedrich Hund""]","[""Journal of Materials Chemistry C"", ""Journal of Materials Chemistry B""]","[3.4804114356644327, 3.4456706092765397]",0.0,0
+5ae680cc5542996d980e7ba5,bridge,hard,"[""Stewart Grand Prix"", ""Johnny Herbert""]","[""Johnny Herbert"", ""Luca Badoer""]","[9.234127950552535, 8.578308876826856]",0.5,0
+5ab45bcd5542991779162c80,bridge,hard,"[""Nerva–Antonine dynasty"", ""Lucius Verus""]","[""Nerva–Antonine dynasty"", ""Flavian dynasty""]","[5.810990390216338, 4.780490558664555]",0.5,0
+5a7905f555429974737f7947,bridge,hard,"[""Driss Lachgar"", ""Rabat""]","[""Driss Lachgar"", ""Osaka""]","[8.509456115532918, 6.879343684895992]",0.5,0
+5a7e02cf5542997cc2c474f4,bridge,hard,"[""Aztec Warrior"", ""Eugenio Derbez""]","[""The Warrior (2001 British film)"", ""Eagle warrior""]","[9.502634155434217, 6.9676881501503125]",0.0,0
+5abe89dd55429976d4830b5d,bridge,hard,"[""Sex and Breakfast"", ""Kuno Becker""]","[""Sex Worker Open University"", ""Sex and Breakfast""]","[5.550593116533995, 5.398152980335985]",0.5,0
+5ab7d12f55429928e1fe391f,bridge,hard,"[""Menindee Lakes"", ""Menindee, New South Wales""]","[""Binnaway, New South Wales"", ""Menindee County""]","[8.784518201914318, 7.71894903898025]",0.0,0
+5adfd42555429942ec259b52,bridge,hard,"[""Tiffany Darwish"", ""I Saw Her Standing There""]","[""Tonight's the Night (The Shirelles album)"", ""Renditions (album)""]","[6.814826208979368, 6.559257083638387]",0.0,0
+5a7cc5f9554299452d57ba49,bridge,hard,"[""Procter &amp; Gamble"", ""William Procter (candlemaker)""]","[""William Procter (candlemaker)"", ""Procter &amp; Gamble""]","[10.340823734671977, 5.3761102622364545]",1.0,1
+5a90ab995542990a98493683,comparison,hard,"[""Osteomeles"", ""Medinilla""]","[""Medinilla"", ""Osteomeles""]","[5.482464685926606, 4.820788241247767]",1.0,1
+5a8f08c2554299458435d531,bridge,hard,"[""Giuseppina Tuissi"", ""Benito Mussolini""]","[""Giuseppina Tuissi"", ""Audrey McLaughlin""]","[12.522896970876205, 11.58501930093299]",0.5,0
+5a8d651955429941ae14dfaf,bridge,hard,"[""John Alexander (footballer, born 1955)"", ""Trent Alexander-Arnold""]","[""Trent Alexander-Arnold"", ""John Alexander (footballer, born 1955)""]","[11.18059518914118, 8.918298809531123]",1.0,1
+5adf3f1d5542992d7e9f9310,bridge,hard,"[""Giacomo Benvenuti"", ""Claudio Monteverdi""]","[""Giacomo Benvenuti"", ""L'Orfeo discography""]","[3.7216206696178507, 2.481785189184224]",0.5,0
+5adbfb6855429944faac23e4,bridge,hard,"[""Nikolai Lugansky"", ""Tatiana Nikolayeva""]","[""Tatiana Nikolayeva"", ""Maria Grinberg""]","[7.56841473407521, 7.0897015737103795]",0.5,0
+5abb2e6855429966062416df,bridge,hard,"[""Owney (dog)"", ""Albany, New York""]","[""Owney (dog)"", ""New York Postmaster's Provisional""]","[22.617471849748043, 10.360308417280217]",0.5,0
+5a790e69554299148911f9d7,bridge,hard,"[""Juan Romero de Figueroa"", ""Charles VI, Holy Roman Emperor""]","[""National anthem of Paraguay"", ""Juan Romero de Figueroa""]","[8.518441460664832, 8.010529392618372]",0.5,0
+5abf12f25542997719eab667,comparison,hard,"[""McFarland, USA"", ""The Black Hole""]","[""McFarland, USA"", ""The Black Hole""]","[9.723835896913519, 6.127471446544371]",1.0,1
+5a90719b5542995b442420b7,bridge,hard,"[""Neringa Municipality"", ""Municipalities of Lithuania""]","[""Neringa Municipality"", ""Municipalities of Lithuania""]","[4.127171414868108, 3.9663336025143496]",1.0,1
+5a7760165542993569682d74,bridge,hard,"[""Glenarvon"", ""Lord Byron""]","[""Lord Byron"", ""Francis Sheehy-Skeffington""]","[14.99724771128543, 14.795243243363338]",0.5,0
+5a8bd43c5542997f31a41dd6,bridge,hard,"[""The Story of Dida Ibsen"", ""Anita Berber""]","[""Anita Berber"", ""The Story of Dida Ibsen""]","[24.921112444454792, 15.666900353530334]",1.0,1
+5a73cbe4554299623ed4ac5f,bridge,hard,"[""Tom Mandrake"", ""Martian Manhunter""]","[""Tom Mandrake"", ""JLA: Destiny""]","[4.414121609995827, 2.7490818531465755]",0.5,0
+5a78d35e55429974737f78c3,comparison,hard,"[""Audioslave"", ""Bodyjar""]","[""Bodyjar"", ""Treat (album)""]","[6.490505866244081, 4.29665115331284]",0.5,0
+5ac07a17554299294b219000,comparison,hard,"[""José Aponte de la Torre Airport"", ""Boulder City Municipal Airport""]","[""Boulder City Municipal Airport"", ""Carolina Police Department""]","[8.113182825204305, 6.401528106876106]",0.5,0
+5a76dc2d55429972597f13eb,bridge,hard,"[""Now That's What I Call Music! 59 (U.S. series)"", ""Cheap Thrills (song)""]","[""Timebomb (Kylie Minogue song)"", ""Cheap Thrills (song)""]","[8.663955194860849, 8.256235522177816]",0.5,0
+5a791ce955429974737f798e,bridge,hard,"[""Brett McClure"", ""2001 Goodwill Games""]","[""Brett McClure"", ""2001 Goodwill Games""]","[13.004410554278374, 6.868986292959022]",1.0,1
+5a7a60f15542990783324f35,bridge,hard,"[""Sam Quartin"", ""Marilyn Manson""]","[""Sam Quartin"", ""Marilyn Manson""]","[12.462575585741222, 8.884083687843713]",1.0,1
+5abae4995542996606241666,comparison,hard,"[""Slaughter-House Cases"", ""United States v. Darby Lumber Co.""]","[""United States v. Darby Lumber Co."", ""Slaughter-House Cases""]","[9.644873129038956, 7.8109949507689365]",1.0,1
+5ae72c1e554299572ea54754,bridge,hard,"[""Richard Reitinger"", ""Wings of Desire""]","[""Faraway, So Close!"", ""Wings of Desire""]","[8.086120201643407, 7.664070244736381]",0.5,0
+5a8c9e7c554299653c1aa0d1,bridge,hard,"[""I Am... Yours"", ""Encore Las Vegas""]","[""I Am... Yours"", ""Encore Las Vegas""]","[14.227932667997765, 7.7998783281988935]",1.0,1
+5ac311925542995ef918c0de,comparison,hard,"[""Horace Ové"", ""A. Edward Sutherland""]","[""A. Edward Sutherland"", ""Horace Ové""]","[4.86130701727279, 2.674867589457457]",1.0,1
+5a7283365542991f9a20c4b2,bridge,hard,"[""Allison Gross"", ""Rule of three (writing)""]","[""Rule of three (writing)"", ""Allison Gross""]","[8.012523138754451, 6.864387411808118]",1.0,1
+5a7a3dbb5542996a35c17157,bridge,hard,"[""My First Mister"", ""John Goodman""]","[""My First Mister"", ""Alan Young""]","[13.496701664991503, 8.324853994454102]",0.5,0
+5ab3eb1955429969a97a81f6,bridge,hard,"[""Chiltern Shakespeare Company"", ""Twelfth Night""]","[""Twelfth Night"", ""Twelfth Night XII""]","[5.833713020944164, 5.777894607175412]",0.5,0
+5ae5c7fd554299546bf82f5b,bridge,hard,"[""Bailee Madison"", ""Just Go with It""]","[""Just Go with It"", ""The Space Between Us (film)""]","[11.302109345094447, 9.777173011839615]",0.5,0
+5ac434cb5542997ea680ca2f,bridge,hard,"[""Ashley Estes Kavanaugh"", ""Georgetown (Washington, D.C.)""]","[""Ashley Estes Kavanaugh"", ""Suldalslågen""]","[12.124067867980486, 4.646142455135813]",0.5,0
+5ab85b1755429916710eb041,comparison,hard,"[""Askold Khovanskii"", ""Andrey Kolmogorov""]","[""Askold Khovanskii"", ""Derived algebraic geometry""]","[8.86463609493963, 5.835388956416875]",0.5,0
+5a8aed1555429970aeb70334,bridge,hard,"[""UROVESA"", ""Humvee""]","[""Humvee"", ""URO VAMTAC""]","[8.142606340958205, 6.720930302274228]",0.5,0
+5a74547755429979e2882900,bridge,hard,"[""Texas A&amp;M Aggies football"", ""Kevin Sumlin""]","[""Kevin Sumlin"", ""Butch Davis""]","[12.657271426857308, 12.203001364903804]",0.5,0
+5abfcd7a5542993fe9a41e7a,comparison,hard,"[""Xinghua, Jiangsu"", ""Jingdezhen""]","[""Jingdezhen"", ""Xinghua, Jiangsu""]","[6.014067291995465, 5.641791099417669]",1.0,1
+5a904f6355429916514e746e,bridge,hard,"[""Cantarella"", ""Damnatio memoriae""]","[""Cantarella"", ""Pope Julius II""]","[12.470488512117974, 7.412367391618248]",0.5,0
+5ab94d9a554299743d22eae3,bridge,hard,"[""Deyemi Okanlawon"", ""Falz""]","[""Falz"", ""Deyemi Okanlawon""]","[7.551928273232301, 5.581067587107393]",1.0,1
+5a754fc35542996c70cfaedc,bridge,hard,"[""Trilochanapala"", ""Kabul Shahi""]","[""Jizi"", ""Narathihapate""]","[5.811409771348041, 5.773408553203083]",0.0,0
+5a7148685542994082a3e761,bridge,hard,"[""Paul Ziert"", ""Bart Conner""]","[""Paul Ziert"", ""Sebastien Konan""]","[11.051157065186384, 2.5250379921075123]",0.5,0
+5ab7bfe955429928e1fe38c2,bridge,hard,"[""Erik Marcisak"", ""Backstage (magazine)""]","[""Erik Marcisak"", ""Stefan Kiesbye""]","[12.015745129321141, 4.97649694219908]",0.5,0
+5abe94fd55429965af743f37,comparison,hard,"[""Sinclair Research"", ""Wave Mate Bullet""]","[""Wave Mate Bullet"", ""Timex Sinclair""]","[13.689121511886146, 6.749153372696919]",0.5,0
+5ab8a7f65542991b5579efca,bridge,hard,"[""Aulani"", ""Kapolei, Hawaii""]","[""Kapolei, Hawaii"", ""Aulani""]","[12.236327221191852, 7.178363488680636]",1.0,1
+5a8777395542996e4f3087f3,bridge,hard,"[""Ai-Ling Lee"", ""Wild (2014 film)""]","[""Ai-Ling Lee"", ""127 Hours""]","[9.495654902872953, 7.153376422377946]",0.5,0
+5ab480715542991751b4d798,bridge,hard,"[""Ironweed (film)"", ""Miss Albany Diner""]","[""Miss Albany Diner"", ""New Bay Diner Restaurant""]","[10.111756466230073, 9.653883360203059]",0.5,0
+5a8725a15542996432c57230,bridge,hard,"[""1932 Allan Cup"", ""Overtime (ice hockey)""]","[""Overtime (ice hockey)"", ""Allan Cup Hockey West""]","[10.70339657777507, 7.500188456615446]",0.5,0
+5a7f341655429930675136a0,bridge,hard,"[""Alison Castle"", ""Linda McCartney""]","[""Alison Castle"", ""The Beatles Tapes from the David Wigg Interviews""]","[7.555523889989787, 6.780532766797833]",0.5,0
+5a81d59a55429903bc27b9d6,bridge,hard,"[""Tsavo Man-Eaters"", ""Tsavo lion""]","[""Tsavo Man-Eaters"", ""The Man-eaters of Tsavo""]","[3.995294628789707, 3.936717536975875]",0.5,0
+5ac245015542992f1f2b3829,bridge,hard,"[""Unbroken (film)"", ""Louis Zamperini""]","[""Louis Zamperini"", ""Unbroken (film)""]","[16.67309856735933, 9.195307339104254]",1.0,1
+5ae71d87554299572ea546fa,bridge,hard,"[""Prince Michael of Prussia"", ""House of Hohenzollern""]","[""House of Hohenzollern"", ""Prussian nationalism""]","[10.701788808193827, 9.635323421330975]",0.5,0
+5ab3460055429976abd1bc80,bridge,hard,"[""Evolution (Paul van Dyk album)"", ""Johnny McDaid""]","[""Johnny McDaid"", ""Evolution (Paul van Dyk album)""]","[8.796547622931868, 8.403054654495868]",1.0,1
+5a8e276b5542995a26add468,comparison,hard,"[""Swervedriver"", ""Incubus (band)""]","[""The Zombie Kids"", ""The Vermin""]","[4.626219410453718, 3.251711380077432]",0.0,0
+5ab506a05542990594ba9cd6,comparison,hard,"[""Sonerila"", ""Scaevola (plant)""]","[""Scaevola (plant)"", ""Scaevola hookeri""]","[3.472074002093479, 2.999170275509381]",0.5,0
+5a8ba9d255429971feec4759,bridge,hard,"[""Camp Courtney"", ""Battle of Okinawa""]","[""Camp Courtney"", ""3rd Marine Division (United States)""]","[7.100345568000677, 5.096403515944602]",0.5,0
+5ae4cf975542990ba0bbb151,bridge,hard,"[""Movie Masters"", ""Batman in film""]","[""Movie Masters"", ""Bill Finger""]","[10.379811511450615, 5.611099858224851]",0.5,0
+5ac4f8705542995c82c4ad8d,bridge,hard,"[""Wilhelm Heckmann"", ""Mauthausen-Gusen concentration camp""]","[""Wilhelm Heckmann"", ""Johann Gruber""]","[16.395673273844857, 6.1991802227865715]",0.5,0
+5abde0655542991f6610608b,bridge,hard,"[""The Choirboys (film)"", ""Charles Durning""]","[""Charles Durning"", ""The Choirboys (film)""]","[9.287588471254764, 6.983676771284391]",1.0,1
+5ab259b25542993be8fa98de,bridge,hard,"[""History of Belgium"", ""Cockfight""]","[""History of Belgium"", ""Cockfight""]","[10.76695969584452, 7.843480466044692]",1.0,1
+5a72f3a85542992359bc31e5,bridge,hard,"[""Short interspersed nuclear elements (SINEs)"", ""Ribosome""]","[""Ribosomal protein"", ""Ribosome""]","[10.70160638247666, 10.095512026043103]",0.5,0
+5ab48af35542996a3a969f92,bridge,hard,"[""Fennec (TV series)"", ""Fennec fox""]","[""Fennec (TV series)"", ""Fennec fox""]","[12.38560877879143, 9.615649255107634]",1.0,1
+5a74c2bd5542996c70cfadda,comparison,hard,"[""University of California, San Francisco"", ""Pennsylvania State University""]","[""University of California, San Francisco"", ""Cyrus Saatsaz""]","[5.816979545556767, 5.760743578478931]",0.5,0
+5adf32ee5542995534e8c767,bridge,hard,"[""Bhupen Hazarika"", ""Sangeet Natak Akademi""]","[""Bhupen Hazarika"", ""Sangeet Natak Akademi""]","[10.93769900401699, 8.093873166686166]",1.0,1
+5a877fa45542993e715abf84,bridge,hard,"[""Aaj Ka Robin Hood"", ""Nana Patekar""]","[""Nana Patekar"", ""Aaj Ka Robin Hood""]","[8.605048957115786, 7.937266529697078]",1.0,1
+5a79c9395542994bb94570a2,comparison,hard,"[""Ronnie Dunn"", ""Annie Lennox""]","[""Pattern of My Life"", ""Bleed Red""]","[4.084219212383247, 3.2480861588009975]",0.0,0
+5ab6993f554299110f219a2b,bridge,hard,"[""Felipe Alcaraz"", ""Granada""]","[""Felipe Alcaraz"", ""Riaño, León""]","[9.655615987319111, 7.607934695387616]",0.5,0
+5ab6fcf55542991d32223718,bridge,hard,"[""Esta Charkham"", ""Supergirl (film)""]","[""Esta Charkham"", ""Supergirl (film)""]","[9.262835247582082, 7.948006072269153]",1.0,1
+5a8d7f2b554299068b959d0c,bridge,hard,"[""Midlothian campaign"", ""William Ewart Gladstone""]","[""Midlothian campaign"", ""Clement Attlee""]","[9.564549527489726, 7.3739861384777505]",0.5,0
+5a7f54665542992097ad2f1a,bridge,hard,"[""Chinese Taipei at the 1988 Winter Olympics"", ""Calgary""]","[""Calgary"", ""Kuo Lee Chien-fu""]","[12.771245629820482, 9.46336149901262]",0.5,0
+5a74551555429974ef308bd9,bridge,hard,"[""Oil Can Henry's"", ""Ashland Inc.""]","[""Oil Can Henry's"", ""John Dustin Archbold""]","[10.495505384797738, 5.955691154233671]",0.5,0
+5ac2d9f65542996773102631,bridge,hard,"[""Sister, Sister (1982 film)"", ""Rosalind Cash""]","[""Sister, Sister (1982 film)"", ""Thai Thangai Paasam""]","[7.262012646625591, 6.317246173447799]",0.5,0
+5abf30185542990832d3a13f,bridge,hard,"[""Lou Cutell"", ""Last Time in New York""]","[""Lou Cutell"", ""Last Time in New York""]","[9.978998298127044, 7.875869689139834]",1.0,1
+5ac10c5e554299294b219074,bridge,hard,"[""Lake Wobegon Trails"", ""A Prairie Home Companion""]","[""Lake Wobegon Trails"", ""A Prairie Home Companion""]","[9.573691940101485, 9.374922625200936]",1.0,1
+5ab8f53355429916710eb0d1,bridge,hard,"[""The Circle (2017 film)"", ""The Circle (Eggers novel)""]","[""The Circle (2017 film)"", ""Péter Halász (actor)""]","[10.159483491492317, 8.956212560748444]",0.5,0
+5ac4920d5542996feb3fe8d3,bridge,hard,"[""Bob Gurr"", ""Autopia""]","[""Autopia"", ""Bob Gurr""]","[11.437689933180184, 9.722546465374963]",1.0,1
+5a9084e75542990a98493667,bridge,hard,"[""Les Ottolenghi"", ""Las Vegas Sands""]","[""Les Ottolenghi"", ""Las Vegas Sands""]","[11.210707829015325, 7.711707489502599]",1.0,1
+5adff4a555429925eb1afb91,comparison,hard,"[""Wilmington International Airport"", ""Texarkana Regional Airport""]","[""Wilmington Airport (Delaware)"", ""Texarkana Regional Airport""]","[8.43733028139045, 8.06268109667992]",0.5,0
+5ae20c245542997283cd2367,bridge,hard,"[""Hina (given name)"", ""Henna""]","[""Hina (given name)"", ""Henna""]","[4.609324775338359, 4.100829342684154]",1.0,1
+5ab482815542990594ba9c3d,bridge,hard,"[""Flowers in the Attic (2014 film)"", ""Kiernan Shipka""]","[""Flowers in the Attic (2014 film)"", ""Alison Brie""]","[5.569586510088609, 4.534367818453196]",0.5,0
+5ab2b95c5542991669774072,bridge,hard,"[""Caprice Dydasco"", ""Newcastle Jets FC (W-League)""]","[""Caprice Dydasco"", ""Newcastle Jets FC (W-League)""]","[9.244913954549592, 5.263251967718064]",1.0,1
+5abae1e65542996cc5e49ed2,bridge,hard,"[""Joint Special Operations Command"", ""Charles Alvin Beckwith""]","[""Joint Special Operations Command"", ""Charles Alvin Beckwith""]","[11.088168132903128, 9.133473811585947]",1.0,1
+5a7a5cc35542996c55b2dd7c,bridge,hard,"[""Christian Albrecht Bluhme"", ""Second Schleswig War""]","[""Second Schleswig War"", ""Christian Albrecht Bluhme""]","[8.856399178392708, 7.984570545821076]",1.0,1
+5a80ef1555429938b614225e,bridge,hard,"[""Otto Maull"", ""Rudolf Hess""]","[""Otto Maull"", ""Rudolf Hess""]","[29.263594134034598, 14.135034601268005]",1.0,1
+5a78a862554299148911f8fe,bridge,hard,"[""Netrobalane canopus"", ""Sudan""]","[""Sudan"", ""Spialia spio""]","[7.581115884078731, 6.699899606467967]",0.5,0
+5ae496735542995dadf2435d,bridge,hard,"[""2008–09 Texas Tech Red Raiders basketball team"", ""Big 12 Conference""]","[""2008–09 Texas Tech Red Raiders basketball team"", ""Big 12 Conference""]","[11.784382015130213, 6.6880658181965424]",1.0,1
+5a7615fb5542992db9473727,bridge,hard,"[""Opéra comique"", ""Carmen""]","[""Opéra comique"", ""Carmen""]","[8.184998853834786, 7.616078519557182]",1.0,1
+5a7224ab55429971e9dc92dd,bridge,hard,"[""Eighth Wonder"", ""Patsy Kensit""]","[""Patsy Kensit"", ""Anita M. Cal""]","[10.714801835184005, 8.21689184484872]",0.5,0
+5a80be9655429938b61421b5,bridge,hard,"[""Moving Violations"", ""John Murray (actor)""]","[""Moving Violations"", ""John Murray (actor)""]","[20.82756281726676, 13.979752660673928]",1.0,1
+5a89e2785542992e4fca843d,comparison,hard,"[""Andrew Stevens"", ""Charles Burnett (director)""]","[""Charles Burnett (director)"", ""Andrew Stevens""]","[3.577184885518024, 2.6323960697262794]",1.0,1
+5a8ce55f554299441c6b9f62,bridge,hard,"[""Tinted Windows (album)"", ""Tinted Windows (band)""]","[""Tinted Windows (album)"", ""Tinted Windows (band)""]","[7.773916653470386, 6.79757014618548]",1.0,1
+5abd8ee05542993062266cc8,bridge,hard,"[""New York's 4th congressional district"", ""Mineola, New York""]","[""Mineola, New York"", ""New York's 4th congressional district""]","[15.619466904023003, 12.94272416492571]",1.0,1
+5a85e5345542991dd0999ebb,bridge,hard,"[""Brake fluid"", ""Clutch""]","[""Clutch"", ""Heat exchanger""]","[10.060732589033748, 4.116188114651481]",0.5,0
+5ac562115542993e66e823bf,bridge,hard,"[""The Moon Represents My Heart"", ""Teresa Teng""]","[""The Moon Represents My Heart"", ""Teresa Teng""]","[12.635174557632942, 7.67785952617397]",1.0,1
+5a812d0555429938b61422e1,comparison,hard,"[""Norrbottenspets"", ""Blue Lacy""]","[""Norrbottenspets"", ""Blue Lacy""]","[6.816256119153053, 6.218794039912602]",1.0,1
+5a8463945542992ef85e23d9,bridge,hard,"[""Anna Pavlova"", ""The Dying Swan""]","[""Pavlova (food)"", ""Alicia Markova &quot;The Dying Swan&quot;""]","[8.209643121163907, 7.819861968826221]",0.0,0
+5ac2c7ff554299657fa2904f,bridge,hard,"[""Lighthouse Beach"", ""Robert Moses State Park (Long Island)""]","[""Lighthouse Beach"", ""Fire Island National Seashore""]","[18.15963956527873, 12.02118245122989]",0.5,0
+5ab7fa4f5542993667794080,comparison,hard,"[""University of Arizona"", ""Presbyterian University College""]","[""University of Arizona"", ""Nesna University College""]","[10.06438705305799, 7.627542857014768]",0.5,0
+5a83335f5542996488c2e3ec,comparison,hard,"[""Allen Drury"", ""Philip K. Dick""]","[""Philip K. Dick"", ""Allen Drury""]","[9.957833437937918, 9.932206087981717]",1.0,1
+5ade653f55429975fa854ebb,bridge,hard,"[""Livin la Vida Loco"", ""Livin' la Vida Loca""]","[""Livin la Vida Loco"", ""Livin' la Vida Loca""]","[14.675598784900563, 14.303644230503547]",1.0,1
+5ab81cff5542990e739ec827,comparison,hard,"[""C. S. Forester"", ""Helen Zahavi""]","[""Helen Zahavi"", ""C. S. Forester""]","[10.036367797683702, 3.768969489505221]",1.0,1
+5ab5e024554299494045f097,comparison,hard,"[""Joss Whedon"", ""Norman Mailer""]","[""The Short Fiction of Norman Mailer"", ""J. Michael Lennon""]","[4.103785572372809, 3.806236099785601]",0.0,0
+5ab8f4ee5542991b5579f091,comparison,hard,"[""Lantana"", ""Silybum""]","[""Silybum"", ""Penicillium restrictum""]","[2.5297338895809807, 1.4738590814497994]",0.5,0
+5a75675d5542992d0ec05f87,bridge,hard,"[""Michelle Trachtenberg"", ""Ice Princess""]","[""Michelle Trachtenberg"", ""Normahl""]","[7.412991678895023, 6.7506285230641065]",0.5,0
+5ae61dce5542992663a4f262,bridge,hard,"[""The Hours (novel)"", ""Julianne Moore""]","[""The Hours (novel)"", ""An Ideal Husband (1999 film)""]","[6.100773097387302, 4.274319888352857]",0.5,0
+5a8a429955429930ff3c0d34,bridge,hard,"[""Simon Bloom"", ""Universal Pictures""]","[""Simon Bloom"", ""Joshua Bloom""]","[9.271399679229521, 7.509649692154192]",0.5,0
+5a84fd085542994c784ddaba,bridge,hard,"[""Devil's Food"", ""Supersuckers""]","[""Supersuckers"", ""Devil's Food""]","[16.14675372039428, 12.994791159993877]",1.0,1
+5a7323ad5542994cef4bc476,comparison,hard,"[""Chantal Claret"", ""Max Green (musician)""]","[""Chantal Claret"", ""The One, The Only...""]","[3.50404174717537, 2.9397115388361215]",0.5,0
+5adc398755429947ff173912,comparison,hard,"[""Nothoscordum"", ""Callirhoe (plant)""]","[""Nothoscordum"", ""Callirhoe (plant)""]","[5.41594611151291, 4.966532618038274]",1.0,1
+5adc99ba5542994ed6169ba9,bridge,hard,"[""Chun Woo-hee"", ""The Wailing (film)""]","[""D'Urville Martin"", ""Distance (2015 film)""]","[8.205762967807738, 3.5675610233362334]",0.0,0
+5ae0f2bf5542997b2ef7d09e,comparison,hard,"[""Battle of Guam (1944)"", ""Spring 1945 offensive in Italy""]","[""Spring 1945 offensive in Italy"", ""Raid on Scarborough, Hartlepool and Whitby""]","[13.151003343658047, 10.883556998890068]",0.5,0
+5ae129115542990adbacf722,bridge,hard,"[""A Pair of Brown Eyes"", ""Wild Mountain Thyme""]","[""A Pair of Brown Eyes"", ""Wild Mountain Thyme""]","[7.9805773602585885, 5.828851275435055]",1.0,1
+5ab828f25542992aa3b8c8a3,bridge,hard,"[""1987 Football League Cup Final"", ""Bruce Grobbelaar""]","[""1987 Football League Cup Final"", ""1985 Football League Cup Final""]","[13.710865223226783, 9.478456893328795]",0.5,0
+5ab5a7f45542997d4ad1f1a5,bridge,hard,"[""Sandra Pizzarello"", ""Doctorate""]","[""Sandra Pizzarello"", ""Jubilee doctor""]","[5.367866973433914, 3.7501767974098885]",0.5,0
+5ac2f6b8554299677310265f,bridge,hard,"[""Henry W. Bloch School of Management"", ""H&amp;R Block""]","[""Henry W. Bloch School of Management"", ""Nicholas Peroff""]","[14.58996695099042, 7.944698531440698]",0.5,0
+5a7f5e0455429969796c1a12,bridge,hard,"[""Spill.com"", ""Saving Mr. Banks""]","[""Spill.com"", ""Saving Mr. Banks""]","[8.477333673487507, 3.2555467562659235]",1.0,1
+5a84afdc5542991dd0999d81,bridge,hard,"[""2011 PGA Championship"", ""Johns Creek, Georgia""]","[""2011 PGA Championship"", ""2012 WGC-Bridgestone Invitational""]","[9.605297789995463, 7.490190806508782]",0.5,0
+5ae80f73554299540e5a5722,bridge,hard,"[""Midnattssol"", ""Midnight sun""]","[""Midnattssol"", ""Případy 1. oddělení""]","[12.338691682261958, 8.502730925650354]",0.5,0
+5ab5df4c5542997d4ad1f218,bridge,hard,"[""Ben McNiece"", ""Anzac Day clash""]","[""Ben McNiece"", ""Emerald Hill Cricket Ground""]","[16.686812577765764, 9.106000278980137]",0.5,0
+5ae165aa5542997b2ef7d1d1,comparison,hard,"[""Barney Greenway"", ""Jens Kidman""]","[""Noise for Music's Sake"", ""East Boston Greenway""]","[4.909157924420962, 4.080119382263298]",0.0,0
+5a7a3bed5542996c55b2dd45,bridge,hard,"[""Adrenaline (album)"", ""Deftones""]","[""Adrenaline (album)"", ""Noah Georgeson""]","[8.467876943762516, 6.3020525309271305]",0.5,0
+5ab720685542993667793f44,bridge,hard,"[""Mir Jafar Baghirov"", ""Joseph Stalin""]","[""Mir Jafar Baghirov"", ""Joseph Stalin""]","[8.98618311799309, 5.980798176282776]",1.0,1
+5a8335d95542993344745ff1,comparison,hard,"[""Piet Norval"", ""Emilio Sánchez""]","[""Piet Norval"", ""1994 Australian Open – Mixed Doubles""]","[3.468666055645742, 3.2530786059780072]",0.5,0
+5a8b46925542995d1e6f133c,bridge,hard,"[""Miss Emily's Picture"", ""John Conlee""]","[""Vanessa Williams"", ""Miss Emily's Picture""]","[6.283556293120543, 5.745381248852219]",0.5,0
+5ae3e1e95542994393b9e78b,bridge,hard,"[""I Wed Three Wives"", ""Hawaiian Eye""]","[""Hawaiian Eye"", ""I Wed Three Wives""]","[8.563451042205307, 8.38584968431393]",1.0,1
+5add6f975542992200553b18,bridge,hard,"[""Ezzo, Count Palatine of Lotharingia"", ""Otto III, Holy Roman Emperor""]","[""Ezzo, Count Palatine of Lotharingia"", ""John Christian, Count Palatine of Sulzbach""]","[10.405016305460665, 5.869850631923735]",0.5,0
+5ae1b53b5542997283cd2255,bridge,hard,"[""Gopalpur Tussar Fabrics"", ""Shawl""]","[""Gopalpur Tussar Fabrics"", ""Buff coat""]","[10.736780909194167, 6.462348057876871]",0.5,0
+5a7e32905542991319bc943b,bridge,hard,"[""2007 Trail Appliances Autumn Gold Curling Classic"", ""Jennifer Jones (curler)""]","[""Canada at the 2010 Winter Olympics"", ""Meghan Agosta""]","[8.118312965307922, 7.892443061702583]",0.0,0
+5a807b44554299485f59860a,bridge,hard,"[""Klemzig Interchange"", ""O-Bahn Busway""]","[""Klemzig Interchange"", ""O-Bahn Busway""]","[9.62016771861877, 9.187704361817788]",1.0,1
+5a74e9c255429974ef308c93,bridge,hard,"[""Mohsin Fani"", ""Dabestan-e Mazaheb""]","[""Dabestan-e Mazaheb"", ""Om Namo (Book)""]","[8.278532105635124, 3.298320794176925]",0.5,0
+5a8dde01554299653c1aa159,bridge,hard,"[""James T. Kirk"", ""Leonard McCoy""]","[""List of Star Trek: The Original Series episodes"", ""Leonard McCoy""]","[5.565223299992988, 5.490203777055141]",0.5,0
+5ade895955429975fa854ef5,bridge,hard,"[""2005 Air Force Falcons football team"", ""Mountain West Conference""]","[""2005 Air Force Falcons football team"", ""2008 Air Force Falcons football team""]","[10.90113424557244, 6.146830966190565]",0.5,0
+5ab6a3a3554299710c8d1f0d,bridge,hard,"[""Grounded Vindaloop"", ""South Park (season 18)""]","[""Grounded Vindaloop"", ""Rehash (South Park)""]","[8.787244286036369, 8.534302513397739]",0.5,0
+5ac55e835542993e66e82375,bridge,hard,"[""Thomas Fitch (politician)"", ""Doc Holliday""]","[""Thomas Fitch (politician)"", ""Doc Holliday""]","[17.111991610221345, 9.589286085333505]",1.0,1
+5a7d2b535542995f4f402224,comparison,hard,"[""Dartmouth College"", ""Cornell University""]","[""Port Moody Secondary School"", ""Community Charter School of Cambridge""]","[4.668423774330035, 4.575251681280847]",0.0,0
+5a7744e45542993569682d37,comparison,hard,"[""Juan Rulfo"", ""John le Carré""]","[""Juan Rulfo"", ""John le Carré""]","[6.355326220469061, 3.8493657349398167]",1.0,1
+5ade89d855429975fa854ef7,bridge,hard,"[""The Good, the Bad, the Weird"", ""Lee Byung-hun""]","[""Lee Byung-hun"", ""National Film Award for Best Actor""]","[13.224775850552765, 12.201704664234882]",0.5,0
+5ade02d05542997545bbbe0d,bridge,hard,"[""Shirley Breeden"", ""Joe Heck""]","[""Shirley Breeden"", ""Bob Smith (New Jersey State Senator)""]","[23.051720106884982, 9.066823056593163]",0.5,0
+5a82360055429903bc27ba46,bridge,hard,"[""Kirk Wise"", ""The Hunchback of Notre Dame (1996 film)""]","[""Kirk Wise"", ""The Hunchback of Notre Dame (1996 film)""]","[16.091819439026047, 15.708763961162386]",1.0,1
+5a75a76b5542992db9473697,comparison,hard,"[""That Darn Cat!"", ""Perri (film)""]","[""Perri (film)"", ""Grasshopper (comics)""]","[4.292493761849235, 3.859300679010241]",0.5,0
+5ae471fa55429970de88d965,bridge,hard,"[""Cuisine of New Jersey"", ""Poutine""]","[""Cuisine of New Jersey"", ""Mount Holyoke Lyons golf""]","[10.359540930476468, 8.26843284384415]",0.5,0
+5abd13b655429924427fceea,bridge,hard,"[""Live at Third Man"", ""Jack White""]","[""Live at Third Man"", ""Jack White""]","[13.420370464317312, 12.750543488076561]",1.0,1
+5abffa095542990832d3a1de,bridge,hard,"[""24th People's Choice Awards"", ""Ray Romano""]","[""24th People's Choice Awards"", ""I'm a Survivor""]","[14.380658204926606, 6.992308274193045]",0.5,0
+5a7c02c45542996dd594b880,bridge,hard,"[""Heidi Brunner"", ""La clemenza di Tito""]","[""Heidi Brunner"", ""Phillip Boykin""]","[10.243662706550653, 6.032157051177919]",0.5,0
+5ae22895554299495565da0c,bridge,hard,"[""Battle of the Catalaunian Plains"", ""Visigoths""]","[""Scythian art"", ""Battle of the Catalaunian Plains""]","[8.973375757620037, 8.58670096115476]",0.5,0
+5a8a6b625542996c9b8d5ed9,bridge,hard,"[""All Tomorrow's Parties (festival)"", ""Pontins""]","[""Pontins"", ""All Tomorrow's Parties (festival)""]","[14.623636873158153, 13.913096871158727]",1.0,1
+5a7fb90655429969796c1b34,bridge,hard,"[""Center of the World (album)"", ""Muhammad Ali (drummer)""]","[""Center of the World (album)"", ""The Following Mountain""]","[13.921784330007611, 7.22616938826324]",0.5,0
+5ab531e55542990594ba9d24,bridge,hard,"[""Admiral Clarey Bridge"", ""Ford Island""]","[""Admiral Clarey Bridge"", ""Ford Island""]","[14.618181212706833, 12.673614738153123]",1.0,1
+5ab3abe9554299753aec597e,bridge,hard,"[""2015 Buffalo Bills season"", ""Tyrod Taylor""]","[""Tyrod Taylor"", ""2015 Buffalo Bills season""]","[13.329659425169426, 10.657737767667587]",1.0,1
+5adec4695542992fa25da83a,bridge,hard,"[""Collective for Living Cinema"", ""Dziga Vertov""]","[""Dziga Vertov"", ""Collective for Living Cinema""]","[9.448910753910914, 8.255006433270818]",1.0,1
+5ae5086d55429908b63264eb,bridge,hard,"[""The Sniper (2009 film)"", ""Edison Chen photo scandal""]","[""Edison Chen photo scandal"", ""Born American""]","[11.970079983899815, 11.767616783264971]",0.5,0
+5a7c465a5542990527d5547f,bridge,hard,"[""The Churchills (TV series)"", ""David Starkey""]","[""The Churchills (TV series)"", ""Winston Churchill (Cavalier)""]","[13.642563967927577, 8.840957398061555]",0.5,0
+5a75e3845542994ccc91864e,bridge,hard,"[""Flossie Bailey"", ""Madam C. J. Walker""]","[""Flossie Bailey"", ""Madam C. J. Walker""]","[8.174943871451982, 7.653306380295794]",1.0,1
+5a881cbb55429938390d3ee7,bridge,hard,"[""St. John of the Cross Episcopal Church"", ""Greek Revival architecture""]","[""St. John of the Cross Episcopal Church"", ""St. John's Episcopal Church, Canandaigua""]","[15.220547396872734, 13.343964589662518]",0.5,0
+5ac406c155429919431738fc,comparison,hard,"[""Caleb Shomo"", ""Brian Welch""]","[""Greatest Hits, Vol. 1 (Korn album)"", ""Caleb Shomo""]","[2.7723304228605947, 1.8360402749380669]",0.5,0
+5ae3263455429928c4239634,bridge,hard,"[""John Spratt"", ""Mick Mulvaney""]","[""John Spratt"", ""Mick Mulvaney""]","[17.474078369111602, 13.48476905324596]",1.0,1
+5a9058e655429916514e747e,bridge,hard,"[""David Burns (radio presenter)"", ""BBC Radio Humberside""]","[""David Burns (radio presenter)"", ""Neil Burns""]","[12.366816272333338, 6.21344852405657]",0.5,0
+5a77727555429972597f1540,bridge,hard,"[""Blood Bath (American Horror Story)"", ""Sarah Paulson""]","[""Blood Bath (American Horror Story)"", ""Merritt Wever""]","[10.2548024907765, 7.951727673313965]",0.5,0
+5a838a3d554299123d8c215d,bridge,hard,"[""Zīlāni"", ""European route E22""]","[""Bow Interchange"", ""Bow Road""]","[5.645830426704901, 5.558632120483079]",0.0,0
+5a8297c055429954d2e2eb71,bridge,hard,"[""Brian A. Miller"", ""Nickelodeon Animation Studio""]","[""Nickelodeon Animation Studio"", ""MTV Tres""]","[11.030240047037939, 9.494576675978077]",0.5,0
+5a8af11a55429950cd6afc21,bridge,hard,"[""Hoch Conservatory"", ""Clara Schumann""]","[""Clara Schumann"", ""Hoch Conservatory""]","[13.36617783832365, 8.30229431604215]",1.0,1
+5a8340fd55429954d2e2ec6b,comparison,hard,"[""Darby O'Gill and the Little People"", ""Dangal (film)""]","[""List of Walt Disney Pictures films"", ""Dangal (film)""]","[6.3257894548216305, 6.001524904848134]",0.5,0
+5abbe188554299642a094ba0,bridge,hard,"[""Fair Game (1995 film)"", ""Cindy Crawford""]","[""Fair Game (Scientology)"", ""Fair Game (1995 film)""]","[8.333158637185974, 8.18259013698356]",0.5,0
+5ae4ebeb55429908b63264bb,comparison,hard,"[""Jiujiang, Guangdong"", ""Ruzhou""]","[""Yuexiu District"", ""Ruzhou""]","[3.9697203744124834, 3.931374864561892]",0.5,0
+5ae1d1995542997283cd226c,bridge,hard,"[""Additi Gupta"", ""Ishqbaaaz""]","[""Additi Gupta"", ""The Box (UK and Ireland TV channel)""]","[12.23189692580495, 6.257147688118705]",0.5,0
+5a7c99705542990527d554de,bridge,hard,"[""Monmouth Heights at Manalapan, New Jersey"", ""Levitt &amp; Sons""]","[""Monmouth Heights at Manalapan, New Jersey"", ""Elhovo Gap""]","[6.051942717882005, 5.585491649360078]",0.5,0
+5ae764a85542997b22f6a720,bridge,hard,"[""Glenn Hughes (Village People)"", ""Chaminade High School""]","[""Glenn Hughes (Village People)"", ""Chaminade High School""]","[8.307159572080245, 5.266704114392426]",1.0,1
+5a7600275542994ccc91867a,bridge,hard,"[""Simon Gotch"", ""Aiden English""]","[""Rajaji Mathew Thomas"", ""Aiden English""]","[3.896519212152157, 3.8079363676053077]",0.5,0
+5a88a35c554299206df2b316,bridge,hard,"[""Ibrahim-al-Ibrahim Mosque"", ""British Overseas Territories""]","[""Ibrahim-al-Ibrahim Mosque"", ""Europa Road""]","[11.462573799965751, 9.947626334233584]",0.5,0
+5ab7e3c45542995dae37e9db,bridge,hard,"[""Marine Air Control Group 48"", ""Naval Station Great Lakes""]","[""Marine Air Control Group 48"", ""Marine Tactical Air Command Squadron 48""]","[5.895884543713157, 5.762793311802809]",0.5,0
+5abbd12b55429931dba14577,bridge,hard,"[""Cromwell station"", ""Glen Burnie, Maryland""]","[""Lake Roland (park)"", ""Pleebo""]","[5.055263522847807, 4.510042366073257]",0.0,0
+5ae55e6855429960a22e02d0,bridge,hard,"[""2008 Texas Tech Red Raiders football team"", ""Mike Leach (American football coach)""]","[""Mike Leach (American football coach)"", ""2008 Texas Tech Red Raiders football team""]","[8.242959389263081, 7.524536417837084]",1.0,1
+5ab71b5c5542991d3222377e,bridge,hard,"[""Miracle Mile (Manhasset)"", ""Americana Manhasset""]","[""Miracle Mile (Manhasset)"", ""St. Mary's High School (Manhasset, New York)""]","[10.159199225470303, 6.575699477445754]",0.5,0
+5a75377c55429929fddd8514,bridge,hard,"[""Colleen Planeta"", ""Adelaide Lightning""]","[""Colorado Chill"", ""Nera White""]","[5.80376848735179, 5.5057545723502015]",0.0,0
+5ab6e8e6554299710c8d1faf,bridge,hard,"[""King Rat (film)"", ""Tom Courtenay""]","[""King Rat (film)"", ""Nina Webster""]","[6.921826033098518, 6.223783401521587]",0.5,0
+5a7f6f4b5542994857a76740,bridge,hard,"[""Flowers in the Attic (2014 film)"", ""Kiernan Shipka""]","[""Kiernan Shipka"", ""Flowers in the Attic (2014 film)""]","[7.8021249777969555, 7.623139452402317]",1.0,1
+5ae4eb9255429908b63264ba,bridge,hard,"[""William N. Fenton"", ""Iroquois""]","[""William N. Fenton"", ""Iroquois""]","[8.854802286827745, 7.61542459125329]",1.0,1
+5adf715b5542992d7e9f9354,bridge,hard,"[""Minister for Defence Industry"", ""Christopher Pyne""]","[""Gai Brodtmann"", ""Chris Crewther""]","[7.434734909678927, 7.175371347170214]",0.0,0
+5ab4f8c95542990594ba9cbb,bridge,hard,"[""Achel Abbey"", ""Trappist beer""]","[""Trappist beer"", ""Achel Abbey""]","[7.309701386658955, 4.845822164364877]",1.0,1
+5a776cfa5542993735360274,bridge,hard,"[""Mato-tope"", ""Mandan""]","[""Mato-tope"", ""Mahtotopa Mountain""]","[5.67294672337195, 4.374116792831569]",0.5,0
+5ae0335655429925eb1afc28,bridge,hard,"[""Mary Robinson (poet)"", ""Perdita (The Winter's Tale)""]","[""Perdita (The Winter's Tale)"", ""Mary Robinson (poet)""]","[8.774373886193501, 6.872732587775924]",1.0,1
+5a74f7405542996c70cfae59,bridge,hard,"[""Concerned Republicans"", ""St Andrews Agreement""]","[""St Andrews Agreement"", ""Concerned Republicans""]","[17.86852345167525, 13.717825765705038]",1.0,1
+5a7e08b55542997cc2c474fe,bridge,hard,"[""1992 Stanley Cup Finals"", ""Mario Lemieux""]","[""Mario Lemieux"", ""1992 Stanley Cup Finals""]","[7.459011768484792, 7.414897115467286]",1.0,1
+5a79caad5542994f819ef09f,bridge,hard,"[""2007 Los Angeles Dodgers season"", ""Matt Kemp""]","[""Bob Bailey (baseball)"", ""Joel Guzmán""]","[8.169164421526911, 8.16006677432466]",0.0,0
+5adff45c55429925eb1afb8c,bridge,hard,"[""Sugarfoot (film)"", ""Randolph Scott""]","[""Pete Cunningham (kickboxer)"", ""Charlie Babcock""]","[4.39585231229888, 4.099391091439172]",0.0,0
+5ab69e4f554299710c8d1eee,bridge,hard,"[""Katie Sagona"", ""Child actor""]","[""Child actor"", ""Katie Sagona""]","[16.36771736872628, 11.204578491278092]",1.0,1
+5a72b2dc5542992359bc3173,bridge,hard,"[""Without You (book)"", ""Anthony Rapp""]","[""Without You (book)"", ""Anthony Rapp""]","[25.22217522259991, 16.106141179522623]",1.0,1
+5a807e6f5542995d8a8ddf80,bridge,hard,"[""The Royal African Rifles"", ""Vickers machine gun""]","[""The Royal African Rifles"", ""Vickers machine gun""]","[8.37855442816748, 6.605535707229577]",1.0,1
+5ae2ad6b5542996483e64a3d,bridge,hard,"[""David Thewlis"", ""King Duncan""]","[""King Duncan"", ""Donalbain (Macbeth)""]","[7.425185403210596, 7.374238228362362]",0.5,0
+5ae4f6c755429960a22e022a,bridge,hard,"[""Smith Haven Mall"", ""Lake Grove, New York""]","[""Smith Haven Mall"", ""Palmeira, Cape Verde""]","[12.75240012132619, 6.617363215372899]",0.5,0
+5adc6c4c5542994650320ce0,comparison,hard,"[""Hydrangea"", ""Abrus""]","[""Abrus canescens"", ""Abrus""]","[3.151531400547787, 2.4568037834199994]",0.5,0
+5ab52cb2554299637185c4f1,bridge,hard,"[""Nancy Winstel"", ""Northern Kentucky University""]","[""Nancy Winstel"", ""Jody Conradt""]","[9.348692366489116, 3.513188557944483]",0.5,0
+5ac471305542991943173998,bridge,hard,"[""Viktor Raychev"", ""Defender (association football)""]","[""Viktor Raychev"", ""Defender (association football)""]","[9.194261399801729, 6.473732457854674]",1.0,1
+5ade03c65542990dbb2f7f2e,bridge,hard,"[""Dictator game"", ""Daniel Kahneman""]","[""Dictator game"", ""Street Fighter X Mega Man""]","[5.910042205465933, 4.417641477050954]",0.5,0
+5a7dedb55542995f4f402317,bridge,hard,"[""The Goat and Her Three Kids"", ""Ion Creangă""]","[""The Goat and Her Three Kids"", ""Ion Creangă""]","[12.838735884453596, 10.918149901846286]",1.0,1
+5adcd4325542994d58a2f6ed,comparison,hard,"[""Colocasia"", ""Coronilla""]","[""Coronilla"", ""Colocasia""]","[2.2070423072882863, 1.4771708462454793]",1.0,1
+5ae368715542991a06ce99bd,bridge,hard,"[""Pelican Point Power Station"", ""Lefevre Peninsula""]","[""Pelican Point Power Station"", ""Lefevre Peninsula""]","[9.015027594175418, 7.330353244017363]",1.0,1
+5a74702555429929fddd8428,comparison,hard,"[""Bob Saget"", ""S. Shankar""]","[""S. Shankar"", ""Bob Saget""]","[12.340477057239735, 5.935653872995984]",1.0,1
+5ae1ab715542997f29b3c0f7,bridge,hard,"[""Conspirare"", ""Eric Whitacre""]","[""Conspirare"", ""Lux Aurumque""]","[7.21809189471807, 4.249406879357523]",0.5,0
+5ade04d75542997dc7907125,bridge,hard,"[""67th Tony Awards"", ""Julie Taymor""]","[""Julie Taymor"", ""67th Tony Awards""]","[9.486543412597866, 6.654034309616295]",1.0,1
+5ac2a20055429967731025cb,comparison,hard,"[""Snowboard Magazine"", ""The Believer (magazine)""]","[""2004 Kansas City Royals season"", ""Believer Book Award""]","[5.399016118367329, 4.928583457298798]",0.0,0
+5abd6f0855429933744ab7d5,bridge,hard,"[""The Breaks of the Game"", ""Bill Walton""]","[""Bill Walton"", ""The Breaks of the Game""]","[13.939483654074278, 10.679354285667507]",1.0,1
+5ab5cb4f554299637185c616,bridge,hard,"[""3Teeth (album)"", ""Tool (band)""]","[""List of Britney Spears live performances"", ""Attaxe""]","[11.500796211822212, 9.431484994461393]",0.0,0
+5add43335542995b365faae1,bridge,hard,"[""Mickey Mouse cup"", ""Liverpool F.C.–Manchester United F.C. rivalry""]","[""Western Derby"", ""North-west Derby (Ireland)""]","[4.410492220373305, 4.3653023331041725]",0.0,0
+5a9051d955429916514e7474,bridge,hard,"[""Wardruna"", ""Gaahl""]","[""Runaljod - Ragnarok"", ""Mulholland Drive""]","[4.955014707179854, 4.837154264764079]",0.0,0
+5ae4083755429970de88d885,bridge,hard,"[""Terry Swartzberg"", ""Stolperstein""]","[""Stolperstein"", ""Terry Swartzberg""]","[9.4070954892342, 3.5778705726970714]",1.0,1
+5a7f1e805542993067513640,bridge,hard,"[""The Voyage that Shook the World"", ""Young Earth creationism""]","[""The Voyage that Shook the World"", ""Young Earth creationism""]","[12.446722853360386, 11.67036554018827]",1.0,1
+5ae33bdc5542992f92d8225e,bridge,hard,"[""SpongeBob SquarePants 4D: The Great Jelly Rescue"", ""SpongeBob SquarePants 4-D""]","[""SpongeBob SquarePants 4-D"", ""SpongeBob SquarePants 4D: The Great Jelly Rescue""]","[19.494219248572364, 18.73470336576379]",1.0,1
+5ae470815542996836b02c9f,bridge,hard,"[""Petruccio Ubaldini"", ""Elizabeth I of England""]","[""Petruccio Ubaldini"", ""Duke of Cornwall""]","[13.543558933561858, 7.592527073725751]",0.5,0
+5a7f4cb055429969796c1a02,bridge,hard,"[""HTC U11"", ""AT&amp;T""]","[""HTC U11"", ""Telecommunications lease""]","[14.554587393622553, 10.404958660739583]",0.5,0
+5a8aecff55429950cd6afbef,bridge,hard,"[""Leo Beukeboom"", ""Heineken brands""]","[""Leo Beukeboom"", ""Beer shop""]","[18.275087385336562, 8.541199363033625]",0.5,0
+5a89dc81554299669944a5dc,bridge,hard,"[""The Rainmaker (1997 film)"", ""Matt Damon""]","[""Matt Damon"", ""3rd British Academy Film Awards""]","[10.738330280377633, 5.589473533323249]",0.5,0
+5a88d7875542993b751ca876,bridge,hard,"[""1981 CART PPG Indy Car World Series"", ""Rick Mears""]","[""1981 CART PPG Indy Car World Series"", ""1982 CART PPG Indy Car World Series""]","[6.984292428992965, 5.777027231127811]",0.5,0
+5a89ec7b5542992e4fca8483,bridge,hard,"[""A Car-Tune Portrait"", ""Hungarian Rhapsody No. 2""]","[""A Car-Tune Portrait"", ""Hungarian Rhapsody No. 2""]","[36.18259496325986, 9.042564557091138]",1.0,1
+5a85ee635542994775f606b4,comparison,hard,"[""Dal Lake"", ""Waterton Lake""]","[""Goat Haunt"", ""Dal Lake""]","[7.070425396787638, 5.232419536350818]",0.5,0
+5ae53c9655429960a22e0290,bridge,hard,"[""Queen Elizabeth Grammar School, Wakefield"", ""Public school (United Kingdom)""]","[""Hilden Grange School"", ""Public school (United Kingdom)""]","[9.112953606994077, 8.163357191894479]",0.5,0
+5ab2c418554299545a2cfa67,bridge,hard,"[""Ckm wz. 25 Hotchkiss"", ""Hotchkiss M1914 machine gun""]","[""Ckm wz. 25 Hotchkiss"", ""Hotchkiss M1914 machine gun""]","[13.68622836011236, 12.747172019985268]",1.0,1
+5abd6be55542993062266c89,bridge,hard,"[""Peter Daou"", ""Verrit""]","[""Shareblue"", ""SpaceCollective""]","[3.5343720629454327, 3.2783643076330367]",0.0,0
+5adc51375542996e68525300,bridge,hard,"[""Roger Woolhouse"", ""John Locke""]","[""Roger Woolhouse"", ""Philip Carlo""]","[10.942489401582044, 4.490580112711546]",0.5,0
+5ae3f33e5542991a06ce9a3d,bridge,hard,"[""Sid Hatfield"", ""Battle of Matewan""]","[""Sid Hatfield"", ""Battle of Matewan""]","[16.028245352934764, 12.838557673241521]",1.0,1
+5ac38d1f55429939154137c3,bridge,hard,"[""Pakistani cricket team in New Zealand in 1992–93"", ""Pakistan national cricket team""]","[""Pakistan national cricket team"", ""English cricket team in New Zealand in 1946–47""]","[12.256203837180134, 8.434895716698142]",0.5,0
+5a77c58b55429967ab105281,comparison,hard,"[""Franklin Adreon"", ""Ryan Gosling""]","[""Franklin Adreon"", ""Ryan Gosling""]","[6.876187904068288, 5.328671210660417]",1.0,1
+5abf0bf95542997719eab63a,bridge,hard,"[""José Rubia Barcia"", ""Federico García Lorca""]","[""José Rubia Barcia"", ""José García Nieto""]","[13.97041340408039, 5.962834514950588]",0.5,0
+5a85b2895542994c784ddb49,bridge,hard,"[""Bank Street (Hong Kong)"", ""HSBC Building (Hong Kong)""]","[""Bank Street (Hong Kong)"", ""HSBC Building (Hong Kong)""]","[9.56839205994235, 8.108527242939806]",1.0,1
+5ab2ac3d55429929539467ce,bridge,hard,"[""Be Quick '28"", ""Zwolle""]","[""Zwolle"", ""Be Quick '28""]","[2.9552292191987224, 2.6244338697033824]",1.0,1
+5a7db0915542990b8f503a30,bridge,hard,"[""Jakob Lukas Schabelitz"", ""Karl Marx""]","[""Jakob Lukas Schabelitz"", ""Ludwig Heinrich von Jakob""]","[15.757977114341706, 7.036361744672546]",0.5,0
+5ae7821b5542997ec2727678,bridge,hard,"[""Zapruder film"", ""Dealey Plaza""]","[""Dealey Plaza"", ""Warren Commission""]","[11.876679915720258, 6.86341107025824]",0.5,0
+5ae56c875542990ba0bbb2a2,bridge,hard,"[""Yesterday Once More (album)"", ""The Carpenters""]","[""Yesterday Once More (album)"", ""Y&amp;T""]","[8.270697102040167, 5.154598928201198]",0.5,0
+5a84b9c95542997b5ce3ff35,bridge,hard,"[""Cyaxares"", ""Deioces""]","[""Deioces"", ""Ellis Rubin""]","[5.584022182254054, 5.495732950226936]",0.5,0
+5addcb215542997dc7907033,bridge,hard,"[""Nasty Girl (The Notorious B.I.G. song)"", ""Naomi Campbell""]","[""Naomi Campbell"", ""Nasty Girl (The Notorious B.I.G. song)""]","[10.988935588126342, 9.80252822349384]",1.0,1
+5a737e4655429908901be2cc,bridge,hard,"[""Fox News Specialists"", ""Eric Bolling""]","[""Eric Bolling"", ""Terry Keenan""]","[9.633794387791982, 5.655741174268867]",0.5,0
+5a84b6e15542991dd0999daa,comparison,hard,"[""Mulled wine"", ""Blue Lagoon (cocktail)""]","[""Mulled wine"", ""Joulupöytä""]","[6.24914415305267, 3.9781628469177877]",0.5,0
+5ab3063e554299753aec58fe,bridge,hard,"[""1992 FA Cup Final"", ""Ian Rush""]","[""1992 FA Cup Final"", ""1895 FA Cup Final""]","[6.595161795933878, 5.9205800907704305]",0.5,0
+5a83697e5542996488c2e441,bridge,hard,"[""Park Seo-joon"", ""Fight for My Way""]","[""Park Seo-joon"", ""Fight for My Way""]","[9.908839549007704, 8.308482116261857]",1.0,1
+5a90991d5542990a9849366b,bridge,hard,"[""Stewart Nozette"", ""Federal Correctional Institution, Terre Haute""]","[""Stewart Nozette"", ""Poetical Essay on the Existing State of Things""]","[3.1787490132310774, 2.926860933444611]",0.5,0
+5ab5dcb95542992aa134a3b3,comparison,hard,"[""Toshi (musician)"", ""Warrel Dane""]","[""Toshi (musician)"", ""Nevermore""]","[5.720741571434906, 4.870499096162614]",0.5,0
+5ac2c4fe554299218029db3b,bridge,hard,"[""Yvan Rodic"", ""Esprit Holdings""]","[""Yvan Rodic"", ""Malawi–Mozambique relations""]","[10.555963336326109, 5.2776810031607315]",0.5,0
+5a72339855429971e9dc934d,bridge,hard,"[""Alessia Cara"", ""1-800-273-8255 (song)""]","[""1-800-273-8255 (song)"", ""All Night Long (Faith Evans song)""]","[9.09986026816512, 7.606243804770035]",0.5,0
+5a7ca33f5542990527d554ee,comparison,hard,"[""Pizza Fusion"", ""Imo's Pizza""]","[""Imo's Pizza"", ""Pizza Fusion""]","[7.071012624918866, 6.47787024496401]",1.0,1
+5a8a39b355429930ff3c0d13,bridge,hard,"[""Liza Weil"", ""How to Get Away with Murder""]","[""Bonnie Winterbottom"", ""Liza Weil""]","[5.121317338779461, 3.512949744837428]",0.5,0
+5ab44a775542991779162c57,bridge,hard,"[""After Aida"", ""Otello""]","[""L'incoronazione di Poppea"", ""Riccardo Massi""]","[7.855315075560876, 6.066950236065315]",0.0,0
+5a790d9855429974737f7954,bridge,hard,"[""Drew Barry"", ""Brent Barry""]","[""Eurovision Song Contest 2010"", ""Drew Barry""]","[7.061149158115176, 6.69983814926078]",0.5,0
+5a8d12ca5542994ba4e3dbe2,bridge,hard,"[""Fastjet Tanzania"", ""Fly540""]","[""Fastjet Tanzania"", ""Christian Brothers College, St Kilda""]","[13.091813163480568, 7.270083361304531]",0.5,0
+5a82800855429966c78a6a2f,comparison,hard,"[""Loot (2008 film)"", ""Air Force, Incorporated""]","[""Loot (2008 film)"", ""Beavercreek, Ohio""]","[5.083957845014295, 4.684161732562774]",0.5,0
+5adf744d5542992d7e9f937e,bridge,hard,"[""Gemma Rovira Ortega"", ""The Boy in the Striped Pyjamas""]","[""Gemma Rovira Ortega"", ""The Boy in the Striped Pyjamas""]","[19.084585926587568, 12.768599237408173]",1.0,1
+5a773c5c55429966f1a36cbb,bridge,hard,"[""Andy Pilling"", ""Preston North End F.C.""]","[""Andy Pilling"", ""Preston North End F.C.""]","[7.5217048473146955, 3.513236476339613]",1.0,1
+5a7f3361554299306751369a,comparison,hard,"[""Splash (film)"", ""Christopher Robin (film)""]","[""When We Were Very Young"", ""Splash (film)""]","[3.55963687527833, 2.7697084652808117]",0.5,0
+5abf64265542997ec76fd3eb,bridge,hard,"[""Dance and Laugh Amongst the Rotten"", ""Carach Angren""]","[""Dance and Laugh Amongst the Rotten"", ""Dance (Keller Williams album)""]","[12.11802316976946, 6.895271708111458]",0.5,0
+5ab92f1f554299753720f77b,bridge,hard,"[""2007 Formula 3 Euro Series"", ""Romain Grosjean""]","[""2007 Formula 3 Euro Series"", ""Romain Grosjean""]","[5.3642678985802235, 3.5358912028585765]",1.0,1
+5a849c135542992a431d1a7a,bridge,hard,"[""Bank of British North America"", ""Saint John, New Brunswick""]","[""Saint John, New Brunswick"", ""Bank of British North America""]","[14.27204692780969, 13.94792403677745]",1.0,1
+5abfd3ba5542994516f4550a,comparison,hard,"[""Ross Case"", ""Slobodan Živojinović""]","[""Ross Case"", ""Slobodan Živojinović""]","[9.672042111204156, 6.323371230650407]",1.0,1
+5abbd4425542993f40c73bcc,bridge,hard,"[""Robert G. Knight"", ""Joan Finney""]","[""Ron Rosenfeld"", ""Oklahoma Secretary of Commerce and Tourism""]","[6.762057019658847, 5.882157672836592]",0.0,0
+5ac14d0c5542991316484ae2,comparison,hard,"[""Kelly Reichardt"", ""Jacques Tourneur""]","[""Georges Benoît"", ""Chicago film industry""]","[6.61362783979844, 4.318977315038451]",0.0,0
+5a736e0155429901807db04f,bridge,hard,"[""Jameel Sayhood"", ""McDonnell Douglas F-15 Eagle""]","[""Jameel Sayhood"", ""2007 Abkhazia plane downing incident""]","[10.458034743380718, 5.995461503978946]",0.5,0
+5a734a205542992359bc32e2,bridge,hard,"[""John Schlesinger"", ""Midnight Cowboy""]","[""Danny Boyle"", ""Fernando Meirelles""]","[9.107997997219709, 8.493964746317042]",0.0,0
+5a81e8a0554299676cceb157,comparison,hard,"[""Chvrches"", ""Goodbye Mr. Mackenzie""]","[""Shirley Manson discography"", ""Chvrches""]","[4.3019833316041645, 3.54460955290798]",0.5,0
+5ae5b06e554299546bf82f2a,bridge,hard,"[""Colección Privada"", ""Palacio de Deportes de la Comunidad de Madrid""]","[""Colección Privada"", ""La Más Perfecta Colección""]","[12.148368943479085, 9.60694534853327]",0.5,0
+5a7fc21455429969796c1b4b,bridge,hard,"[""A Very British Airline"", ""British Airways""]","[""A Very British Airline"", ""British Airways""]","[12.966802642310613, 9.04945233408036]",1.0,1
+5ae1dac95542997283cd229b,bridge,hard,"[""Death of Osama bin Laden"", ""SEAL Team Six""]","[""SEAL Team Six"", ""Regimental Reconnaissance Company""]","[10.894234286823666, 8.597204866793373]",0.5,0
+5a835a265542992ef85e2281,comparison,hard,"[""Edgar Selwyn"", ""Chantal Akerman""]","[""Edgar Selwyn"", ""The Girl in the Show""]","[2.7917716481285377, 2.6717755742915936]",0.5,0
+5abda6b255429965af743d9a,bridge,hard,"[""Peter Jackson (historian)"", ""Keele University""]","[""Peter Jackson (historian)"", ""Keele University""]","[12.858522559407657, 10.064766261695908]",1.0,1
+5ac13f425542991316484a96,comparison,hard,"[""Shenandoah Valley Regional Airport"", ""Louisville International Airport""]","[""Louisville International Airport"", ""Clarence Valley Regional Airport""]","[9.492744148773735, 6.994115153781397]",0.5,0
+5a90937955429933b8a20568,bridge,hard,"[""Manning Kimmel"", ""Husband E. Kimmel""]","[""Husband E. Kimmel"", ""Manning Kimmel""]","[6.718390341335446, 5.896424243911382]",1.0,1
+5a7a5ccf55429941d65f25d7,bridge,hard,"[""Charles R. Black Jr."", ""Paul Manafort""]","[""Charles R. Black Jr."", ""Paul Manafort""]","[6.350392895312786, 5.867352679107105]",1.0,1
+5abdce1b5542993062266cfe,bridge,hard,"[""Sydney Anderson"", ""Minneapolis""]","[""Tom Huntley"", ""Minneapolis""]","[6.386209615627527, 5.845918309656279]",0.5,0
+5ac2c338554299657fa29039,bridge,hard,"[""USS Carlisle (APA-69)"", ""United States Navy""]","[""USS Carlisle (APA-69)"", ""Chapter 33 (G.I. Bill of Rights)""]","[6.346852547680787, 4.139154095722653]",0.5,0
+5abbbaca55429931dba144ca,bridge,hard,"[""Honeymoon Academy"", ""Kim Cattrall""]","[""Honeymoon Academy"", ""Robert Hays""]","[7.190037735776544, 4.424013396846616]",0.5,0
+5a77ad2f55429967ab105225,bridge,hard,"[""S/PDIF"", ""TOSLINK""]","[""S/PDIF"", ""TOSLINK""]","[13.175299313198215, 6.802605843305378]",1.0,1
+5ae721c15542996d980e7cbc,bridge,hard,"[""Raúl Arellano"", ""1954 FIFA World Cup""]","[""Raúl Arellano"", ""Raúl Sanguineti""]","[12.300757195251709, 5.754195128008494]",0.5,0
+5a8d77525542994ba4e3dc90,bridge,hard,"[""Northern Circuit"", ""Henry II of England""]","[""Northern Circuit"", ""Special Division""]","[10.562439024432585, 6.583589642401313]",0.5,0
+5ae0ec48554299422ee9955a,bridge,hard,"[""Childe Byron"", ""Ada Lovelace""]","[""Ada Initiative"", ""Childe""]","[4.812471415951741, 4.41959803289202]",0.0,0
+5ab851e35542990e739ec8c3,bridge,hard,"[""A. N. Prabhu Deva"", ""Bangalore University""]","[""A. N. Prabhu Deva"", ""Bangalore University""]","[15.622529192726684, 7.852052565136852]",1.0,1
+5abfa5fb5542990832d3a183,bridge,hard,"[""Ludovico Mazzolino"", ""Ferrara""]","[""Ferrara"", ""Ludovico Mazzolino""]","[10.68926827247305, 6.894709480969523]",1.0,1
+5a8ad2f3554299515336138d,bridge,hard,"[""Vices and Virtues (Art of Dying album)"", ""Panic! at the Disco""]","[""Vices and Virtues (Art of Dying album)"", ""Spencer Smith (musician)""]","[17.672297808648118, 9.564579379667583]",0.5,0
+5a8612d45542996432c5719b,comparison,hard,"[""Grapico"", ""Izze""]","[""Mamba (candy)"", ""Grapico""]","[5.4626339686103345, 4.878287407919117]",0.5,0
+5a7263e05542997f82783998,bridge,hard,"[""Buncle"", ""Bonkyll Castle""]","[""Buncle"", ""Nicopsis""]","[13.013780565100395, 5.422898168552201]",0.5,0
+5addc79d5542995b365fab7b,bridge,hard,"[""The Clash of Triton"", ""SpongeBob SquarePants (season 6)""]","[""The Clash of Triton"", ""SpongeBob SquarePants (season 6)""]","[13.023746080638718, 10.423971855944128]",1.0,1
+5ab931475542991b5579f12f,bridge,hard,"[""Transportation in Jacksonville, Florida"", ""Jacksonville International Airport""]","[""UF Health Jacksonville"", ""Jacksonville International Airport""]","[7.3311203413536585, 5.722475982305785]",0.5,0
+5a749e1855429979e28829c3,comparison,hard,"[""Andrei Olhovskiy"", ""Emilio Sánchez""]","[""Andrei Olhovskiy"", ""Andrei Pavel""]","[7.001481675061504, 3.887389379620976]",0.5,0
+5a7a0201554299029c4b5f9e,bridge,hard,"[""Baseball at the 2000 Summer Olympics"", ""Roy Oswalt""]","[""Baseball at the 2000 Summer Olympics"", ""Roy Oswalt""]","[11.286070226295958, 8.422032466485183]",1.0,1
+5ae61e7555429929b0807adf,bridge,hard,"[""Renzo Gracie"", ""Carlos Newton""]","[""Renzo Gracie"", ""Ralph Gracie""]","[7.377547554529626, 6.966455983004238]",0.5,0
+5a8c7057554299653c1aa066,bridge,hard,"[""2010–11 UEFA Champions League knockout phase"", ""2011 UEFA Champions League Final""]","[""2010–11 UEFA Champions League knockout phase"", ""2011 UEFA Champions League Final""]","[8.745276997976362, 7.732325041815809]",1.0,1
+5a8efb5a55429918e830d172,bridge,hard,"[""Poonamben Maadam"", ""Gujarat Legislative Assembly election, 2012""]","[""Vaja Babubhai"", ""Poonamben Maadam""]","[6.506797990579783, 6.081662327712552]",0.5,0
+5ab9d02155429970cfb8ebb0,bridge,hard,"[""Jared Has Aides"", ""Jared Fogle""]","[""McMillan Woods CCC camp"", ""Jared Fogle""]","[5.151549721142588, 4.940538322578316]",0.5,0
+5ab71a6a5542991d3222377c,bridge,hard,"[""She's My Baby (Traveling Wilburys song)"", ""Traveling Wilburys Vol. 3""]","[""She's My Baby (Traveling Wilburys song)"", ""Sincerely Yours (One Voice album)""]","[14.666325926098416, 7.2229916592818455]",0.5,0
+5ae3599b5542992e3233c39d,bridge,hard,"[""Paul Corbould"", ""Guardians of the Galaxy (film)""]","[""Guardians of the Galaxy (film)"", ""The Avengers (2012 film)""]","[13.630673801833744, 12.006285062861764]",0.5,0
+5a8f1672554299458435d558,comparison,hard,"[""Crowea"", ""Dracula (plant)""]","[""Crowea"", ""Dracula (plant)""]","[5.285129742613117, 4.72577818585577]",1.0,1
+5a835e215542992ef85e2296,comparison,hard,"[""Pine"", ""Butea""]","[""Alismataceae"", ""Butea""]","[8.048001137730088, 5.675950759177077]",0.5,0
+5ae1e1e55542997f29b3c15e,bridge,hard,"[""Lenroy Thomas"", ""Dave Allen (boxer)""]","[""Dave Allen (boxer)"", ""Lenroy Thomas""]","[17.92391124751136, 17.64793142650193]",1.0,1
+5a74c6a655429974ef308c5d,bridge,hard,"[""Margaret Pellegrini"", ""Jerry Maren""]","[""Margaret Pellegrini"", ""Jerry Maren""]","[5.886950053269306, 5.049870003291911]",1.0,1
+5adf9ea05542992d7e9f93bf,bridge,hard,"[""Matt O'Dwyer"", ""Curtis Martin""]","[""Matt O'Dwyer"", ""Curtis Martin""]","[11.000382740560804, 6.3997726672378015]",1.0,1
+5ab2e9b4554299340b525565,bridge,hard,"[""Amed Rosario"", ""New York Mets""]","[""Amed Rosario"", ""Bud Harrelson""]","[11.536527183690044, 5.003115413762433]",0.5,0
+5ab615cf554299488d4d9aa3,bridge,hard,"[""Dawn Lake"", ""Lucille Ball""]","[""Dawn Lake"", ""Lucille Ball""]","[5.2594393866529465, 4.891925854842372]",1.0,1
+5ab83e1a55429919ba4e2280,bridge,hard,"[""2014 in video gaming"", ""Five Nights at Freddy's (video game)""]","[""Five Nights at Freddy's (video game)"", ""Mary W. S. Wong""]","[15.976670956465995, 6.841467806451933]",0.5,0
+5a70f11a5542994082a3e40b,comparison,hard,"[""Schapendoes"", ""Bull Terrier (Miniature)""]","[""Chamuco"", ""Schapendoes""]","[10.70421937815409, 10.36334885080836]",0.5,0
+5a8f6b7c5542992414482abc,bridge,hard,"[""The Happening (song)"", ""The Supremes""]","[""The Happening (song)"", ""Viennese Singing Sisters""]","[7.19605109229175, 5.250044240291506]",0.5,0
+5add78bf5542992ae4cec57b,comparison,hard,"[""Thomas Anders"", ""Micky Dolenz""]","[""Thomas Anders"", ""Micky Dolenz""]","[11.134351800984993, 7.545947129448601]",1.0,1
+5ac2455e55429951e9e68512,comparison,hard,"[""Bee tree"", ""Microcachrys""]","[""Microcachrys"", ""Pinheirão""]","[7.843387756341874, 7.341173444797606]",0.5,0
+5a7c80ab55429907fabeefa3,bridge,hard,"[""Carlsberg Group"", ""Grimbergen (beer)""]","[""Grimbergen (beer)"", ""Weyerbacher Brewing Company""]","[10.29638990753374, 4.792060571835595]",0.5,0
+5ac272f95542992f1f2b38d3,comparison,hard,"[""Couroupita"", ""Graptopetalum""]","[""Graptopetalum"", ""Couroupita""]","[8.036617180537018, 6.981889605406466]",1.0,1
+5ae3cd685542990afbd1e1de,bridge,hard,"[""Social situation in the French suburbs"", ""Blacks in France""]","[""List of ethnic sports team and mascot names"", ""Purpose trust""]","[6.2636861351479185, 5.791256698010674]",0.0,0
+5a751bbe5542993748c897ba,bridge,hard,"[""Tom Courtenay"", ""The Loneliness of the Long Distance Runner (film)""]","[""The Loneliness of the Long Distance Runner (film)"", ""The Loneliness of the Long-Distance Runner""]","[8.037899818270924, 6.625988540045798]",0.5,0
+5abcfd7e5542993a06baf9df,bridge,hard,"[""Igor Naming Agency"", ""Aria Resort and Casino""]","[""Igor Naming Agency"", ""Master-McNeil""]","[7.607577082206484, 3.1295944890563203]",0.5,0
+5ade0bc55542997545bbbe30,bridge,hard,"[""Kim Dong-wook"", ""The Concubine (film)""]","[""Kim Dong-wook"", ""The Magician (2015 film)""]","[5.423488391323307, 5.363443282316808]",0.5,0
+5a7af08655429931da12c989,bridge,hard,"[""Hyperaccumulators table – 3"", ""Caesium-137""]","[""Caesium-137"", ""Radium Girl""]","[1.8934994421156037, 1.5614631802525578]",0.5,0
+5ae1ebf95542997283cd22f2,bridge,hard,"[""Mooreville, Mississippi"", ""Interstate 22""]","[""Mooreville, Mississippi"", ""Interstate 22""]","[7.9872380122546005, 6.758212980767957]",1.0,1
+5a78f8e555429970f5fffe01,bridge,hard,"[""Splash! (UK series 1)"", ""Tom Daley""]","[""James Denny (diver)"", ""Splash! (UK series 1)""]","[5.014288236418183, 3.588518138243746]",0.5,0
+5abfd83f5542997ec76fd45c,comparison,hard,"[""Quesnelia"", ""Honeysuckle""]","[""Honeysuckle"", ""Lonicera caprifolium""]","[4.21406098650757, 3.570160529065613]",0.5,0
+5ae3f1bb5542995ad6573cbe,comparison,hard,"[""Brassia"", ""Achimenes""]","[""Achimenes"", ""Brassia""]","[5.414398368136997, 4.952996454256629]",1.0,1
+5ae0e8c35542997b2ef7d064,bridge,hard,"[""Pork Soda"", ""Dr. Martens""]","[""A&amp;W Cream Soda"", ""Ted&amp;Muffy""]","[3.1131362423388285, 3.07021912660876]",0.0,0
+5a89217455429938390d4039,bridge,hard,"[""Maruti Suzuki Dzire"", ""Compact car""]","[""Maruti Suzuki Dzire"", ""Compact car""]","[11.226276959071182, 8.46459655135605]",1.0,1
+5adc9ebc5542994d58a2f681,comparison,hard,"[""The Joy Formidable"", ""Sixpence None the Richer""]","[""The Joy Formidable"", ""Sixpence None the Richer""]","[9.81979326521154, 7.454823399131906]",1.0,1
+5a7c34905542996dd594b8d5,comparison,hard,"[""Ana Kasparian"", ""Andre Agassi""]","[""2000 Australian Open – Men's Singles"", ""Ana Kasparian""]","[3.589397949712114, 3.3824573418113077]",0.5,0
+5adca8215542994ed6169bbc,bridge,hard,"[""The Infestation Hypothesis"", ""Johnny Galecki""]","[""The Infestation Hypothesis"", ""Made in Chelsea (series 10)""]","[15.924242793058733, 5.515400204339173]",0.5,0
+5add566b5542995b365fab14,bridge,hard,"[""Minerva Gymnasium"", ""Ericsson""]","[""Minerva Gymnasium"", ""CLLI code""]","[12.642775306476645, 9.092454840264152]",0.5,0
+5a7b1bb5554299042af8f6d4,bridge,hard,"[""Fairytale of New York"", ""Jem Finer""]","[""Fairytale of New York"", ""Tom Savarese""]","[6.240100729363949, 5.949196169990708]",0.5,0
+5ab3e4ee554299233954ffe1,bridge,hard,"[""John Nicholas Galleher"", ""Simon Bolivar Buckner""]","[""John Nicholas Galleher"", ""William Owsley""]","[6.848055472388482, 6.093198144692421]",0.5,0
+5a8da2b05542994ba4e3dcdc,bridge,hard,"[""Grieg (crater)"", ""Edvard Grieg""]","[""Grieg (crater)"", ""Funeral March in Memory of Rikard Nordraak""]","[10.234807014696843, 5.5071361876993725]",0.5,0
+5a7115475542994082a3e56d,bridge,hard,"[""Star Wars: The Force Awakens"", ""Lupita Nyong'o""]","[""Lupita Nyong'o"", ""Jason Salkey""]","[13.472560427988602, 6.274129360580745]",0.5,0
+5adf33b35542993a75d26420,bridge,hard,"[""Long Time Gone"", ""Darrell Scott""]","[""Chronosequence"", ""Long Time Gone""]","[5.546947411081019, 3.915546596679608]",0.5,0
+5abbe20d55429931dba145c6,bridge,hard,"[""Edmond Harjo"", ""Normandy landings""]","[""Edmond Harjo"", ""Operation Balavegaya""]","[8.178399296449927, 8.142683173695199]",0.5,0
+5ae23d945542996483e64939,bridge,hard,"[""Princess Leia"", ""Darth Vader""]","[""Luke Skywalker"", ""The Courtship of Princess Leia""]","[2.7232472768416582, 2.656441918062301]",0.0,0
+5a8732505542991e77181713,bridge,hard,"[""Friedrich Ratzel"", ""Lebensraum""]","[""Friedrich Ratzel"", ""Nine-Hour Movement""]","[5.336404903735049, 4.867720281987181]",0.5,0
+5ab3f24c5542992ade7c6eef,bridge,hard,"[""Symphony No. 9 (Glazunov)"", ""Alexander Glazunov""]","[""Symphony No. 9 (Glazunov)"", ""Symphony No. 3 (Glazunov)""]","[10.135473032425082, 4.4960857349265595]",0.5,0
+5ae45cba5542991a06ce9a4a,bridge,hard,"[""Tommy Faile"", ""Brown Mountain Lights""]","[""Brown Mountain Lights"", ""Tommy Faile""]","[20.18380969158127, 14.083765224904363]",1.0,1
+5ade90aa554299728e26c733,bridge,hard,"[""Heat Lightning (film)"", ""George Abbott""]","[""Heat Lightning (film)"", ""Broadway (play)""]","[8.3856834722123, 4.740944217086727]",0.5,0
+5a74a26a55429979e28829d6,comparison,hard,"[""Paul Hindemith"", ""Béla Bartók""]","[""Sonata for Solo Cello (Crumb)"", ""Balázs Kocsár""]","[8.490327020736133, 5.4475061224664465]",0.0,0
+5a7129685542994082a3e5fa,bridge,hard,"[""Blackzilians"", ""Vitor Belfort""]","[""Luke Zachrich"", ""David Branch (fighter)""]","[5.385616684124615, 4.618412230549426]",0.0,0
+5ade15ae5542990dbb2f7f4c,bridge,hard,"[""Domino Dancing"", ""Introspective""]","[""Domino Dancing"", ""Getto Jam""]","[7.625135534939504, 7.147134063475223]",0.5,0
+5ab2bc80554299194fa934d7,bridge,hard,"[""Cari Roccaro"", ""East Islip, New York""]","[""Cari Roccaro"", ""East Islip, New York""]","[-0.36087293713126534, -0.4027301871216413]",1.0,1
+5abd7d0c55429924427fd010,bridge,hard,"[""Ciril Cvetko"", ""Musicology""]","[""Ciril Cvetko"", ""Musicology""]","[13.022002586337232, 12.723363024156164]",1.0,1
+5ab2a292554299194fa93496,bridge,hard,"[""Lists of Bollywood films"", ""Jab We Met""]","[""Kanden Kadhalai"", ""Jab We Met""]","[6.8962678001926685, 6.473332475823702]",0.5,0
+5a7bacf2554299294a54aa8d,bridge,hard,"[""Greater Raleigh-Durham CSA"", ""Piedmont (United States)""]","[""Piedmont (United States)"", ""Cumberland Plateau""]","[10.508712429437274, 8.388337354847598]",0.5,0
+5abbaf6c554299660624171c,comparison,hard,"[""Cate Shortland"", ""Sidney Franklin (director)""]","[""Beverly of Graustark"", ""The Toll of the Sea""]","[4.421344078013377, 4.227227428827371]",0.0,0
+5a8f53ad5542992414482a50,bridge,hard,"[""Only the Brave (2006 film)"", ""442nd Infantry Regiment (United States)""]","[""Only the Brave (2006 film)"", ""503rd Infantry Regiment (United States)""]","[15.830786294803692, 4.592256636535242]",0.5,0
+5ae807d25542993210984045,bridge,hard,"[""38th César Awards"", ""Amour (2012 film)""]","[""38th César Awards"", ""Podcast Awards""]","[9.319727767611484, 7.994285666020367]",0.5,0
+5a713f395542994082a3e6ea,bridge,hard,"[""John C. Talbot"", ""Maine Legislature""]","[""John C. Talbot"", ""Earl Talbot (East Indiaman)""]","[7.516487671975952, 5.307033288466845]",0.5,0
+5a8911dd554299515336129d,bridge,hard,"[""The Un-Americans"", ""Test (wrestler)""]","[""The Un-Americans"", ""Suicide (wrestling)""]","[11.501069228216643, 4.358402654123083]",0.5,0
+5abbd66a5542993f40c73bd8,bridge,hard,"[""Before I Go to Sleep (film)"", ""Nicole Kidman""]","[""Before I Go to Sleep (film)"", ""Nicole Kidman""]","[10.28328236444823, 4.33429897548022]",1.0,1
+5a77bdcb5542997042120b0b,comparison,hard,"[""Morgan Llywelyn"", ""Robert Jordan""]","[""The World of Robert Jordan's The Wheel of Time"", ""Bard: The Odyssey of the Irish""]","[3.300314938862144, 2.5761741711733315]",0.0,0
+5a7666095542992d0ec060db,bridge,hard,"[""Moe Greene"", ""Moe Dalitz""]","[""Moe Dalitz"", ""Moe Greene""]","[11.859241607627053, 11.558606140101004]",1.0,1
+5add7b0c5542992200553b39,bridge,hard,"[""2013 Oregon Ducks football team"", ""Mark Helfrich (American football)""]","[""Mark Helfrich (American football)"", ""Darius Walker""]","[14.011415298158878, 11.088053220990696]",0.5,0
+5ab661ac5542995eadeeffb1,bridge,hard,"[""Bigelow Laboratory for Ocean Sciences"", ""Boothbay Harbor, Maine""]","[""Bigelow Laboratory for Ocean Sciences"", ""Treasure Island Resort &amp; Casino""]","[16.75754774033452, 9.373253971682669]",0.5,0
+5ae601e45542992663a4f23b,bridge,hard,"[""The Spirit of '45"", ""Clement Attlee""]","[""Yasin al-Hashimi"", ""Swedish governmental line of succession""]","[4.969914497115413, 4.777564465502875]",0.0,0
+5ac2d85e55429921a00ab06b,bridge,hard,"[""Heather Penney"", ""United Airlines Flight 93""]","[""Heather Penney"", ""Omar Rezaq""]","[7.246019806948155, 2.787393400907674]",0.5,0
+5ac43530554299204fd21f0a,bridge,hard,"[""Annette Crosbie"", ""The Slipper and the Rose""]","[""Annette Crosbie"", ""The Slipper and the Rose""]","[15.742207192358354, 13.352998590686887]",1.0,1
+5a87279b5542991e771816f7,bridge,hard,"[""Alan Schechter"", ""Hillary Rodham senior thesis""]","[""Alan Schechter"", ""Daria Nina Love""]","[7.333194870565051, 5.059446416141081]",0.5,0
+5a8f8c6d5542997ba9cb32b1,bridge,hard,"[""Ahmed Abdulla (Maldivian footballer)"", ""Maldives""]","[""Ahmed Abdulla (Maldivian footballer)"", ""Ahmed Abdulla Al Shamisi""]","[12.170506954327193, 10.192003452222213]",0.5,0
+5ab6cd0e554299710c8d1f68,bridge,hard,"[""Cristian Jeandet"", ""Sebastián Abreu""]","[""Cristian Jeandet"", ""Carlos Cabezas""]","[5.292021729455758, 5.078543830378126]",0.5,0
+5ab2be71554299166977408c,bridge,hard,"[""Brewer Fieldhouse"", ""Chester Brewer""]","[""Brewer Fieldhouse"", ""Chester Brewer""]","[17.464808563061553, 13.231660906614316]",1.0,1
+5a7b413a5542992d025e67c4,bridge,hard,"[""Straight Blast Gym - Ireland"", ""John Kavanagh (martial artist)""]","[""Straight Blast Gym - Ireland"", ""Matt Thornton (martial artist)""]","[9.490479518910632, 4.822035077190163]",0.5,0
+5abb66c05542992ccd8e7f3e,bridge,hard,"[""2017 Pakistan Super League spot-fixing scandal"", ""Khalid Latif (cricketer)""]","[""2017 Pakistan Super League spot-fixing scandal"", ""Khalid Latif (cricketer)""]","[10.469692513765192, 6.65293220185197]",1.0,1
+5ac39df8554299741d48a2b6,comparison,hard,"[""Muehlenbeckia"", ""Euptelea""]","[""Muehlenbeckia"", ""Euptelea pleiosperma""]","[3.1872791838698262, 2.5234620972718393]",0.5,0
+5a8a484f5542996c9b8d5e94,bridge,hard,"[""If I Told Him: A Completed Portrait of Picasso"", ""Gertrude Stein""]","[""Hilda Martindale"", ""Twenty-Four Hours A Day""]","[7.819537049624302, 6.371580826498809]",0.0,0
+5a84af3e5542991dd0999d7c,bridge,hard,"[""Route 66 State Park"", ""Times Beach, Missouri""]","[""U.S. Route 66 in Missouri"", ""U.S. Route 66""]","[7.839819899894683, 7.74970215033251]",0.0,0
+5a77a7695542997042120ac4,comparison,hard,"[""The Private Life of Plants"", ""Marx Reloaded""]","[""Marx Reloaded"", ""The Private Life of Plants""]","[9.004537637006623, 8.836656034653569]",1.0,1
+5a851ba95542997175ce1f81,bridge,hard,"[""Rosemary Willis"", ""Dealey Plaza""]","[""Rosemary Willis"", ""Assassination of John F. Kennedy""]","[9.37360080165322, 6.013880896185188]",0.5,0
+5ac299b155429967731025ad,bridge,hard,"[""Human Shadow Etched in Stone"", ""Atomic bombings of Hiroshima and Nagasaki""]","[""Human Shadow Etched in Stone"", ""Atomic bombings of Hiroshima and Nagasaki""]","[16.577520285877444, 9.580048726859548]",1.0,1
+5adde5155542997dc7907092,bridge,hard,"[""Let Freedom Ring (film)"", ""Virginia Bruce""]","[""Let Freedom Ring (film)"", ""Virginia Bruce""]","[6.108777601138537, 4.553583001384617]",1.0,1
+5ae49a1855429970de88d9cc,bridge,hard,"[""Ip Man 3"", ""Ip Man (film series)""]","[""Ip Man (film series)"", ""Ip Man 3""]","[10.043073070034986, 9.318555412371126]",1.0,1
+5a847e0a5542990548d0b2c3,bridge,hard,"[""I Am Not Homer"", ""Deb Lacusta""]","[""I Am Not Homer"", ""Deb Lacusta""]","[12.73211353576576, 7.078453375936265]",1.0,1
+5a88364c5542994846c1ce2e,comparison,hard,"[""Ransom Riggs"", ""John Berry (film director)""]","[""Kiss Me in the Car"", ""You and Only You""]","[2.32205438686423, 2.2599743557960625]",0.0,0
+5abcf46255429959677d6b6b,bridge,hard,"[""A Clockwork Orange (soundtrack)"", ""Wendy Carlos""]","[""Alex (A Clockwork Orange)"", ""Wendy Carlos""]","[8.674665297558137, 7.935176799366367]",0.5,0
+5ab488bc5542990594ba9c55,bridge,hard,"[""Insomniac Events"", ""Sam Nazarian""]","[""Insomniac Events"", ""Sprite Car Club of Australia""]","[6.066405306156804, 5.926682373169394]",0.5,0
+5a8600665542994775f606ee,comparison,hard,"[""Ti' Punch"", ""Quick Fuck""]","[""Quick Fuck"", ""Colombia (cocktail)""]","[8.78953061166045, 5.790795629030456]",0.5,0
+5ac1c7605542994ab5c67e14,bridge,hard,"[""Bernhard Heiden"", ""Paul Hindemith""]","[""Bernhard Heiden"", ""Iwan Knorr""]","[6.385323856244713, 4.186968650146953]",0.5,0
+5ab74eb85542993667793fb8,bridge,hard,"[""1990–91 New Jersey Nets season"", ""Dražen Petrović""]","[""1990–91 New Jersey Nets season"", ""List of Brooklyn Nets seasons""]","[9.95088285432153, 4.268991516561078]",0.5,0
+5a76fe7b5542994aec3b71b2,bridge,hard,"[""Eric Maskin"", ""Institute for Advanced Study""]","[""Eric Maskin"", ""Troy Stark""]","[9.31532698656704, 5.109027318441411]",0.5,0
+5abd96fe5542992ac4f382d9,bridge,hard,"[""Australian Associated Press"", ""Keith Murdoch""]","[""Australian Associated Press"", ""1973 NCAA College Division football rankings""]","[6.080612280853022, 3.7249073883963515]",0.5,0
+5a7c67c15542990527d55498,bridge,hard,"[""James Tully (Australian politician)"", ""Division of Barton""]","[""James Tully (Australian politician)"", ""Market towns of Østfold and Akershus counties""]","[5.03470319765685, 4.797737539471822]",0.5,0
+5a77d5b855429949eeb29f77,bridge,hard,"[""2002–03 Atlético Madrid season"", ""Fernando Torres""]","[""Fernando Torres"", ""2002–03 Atlético Madrid season""]","[17.879704790163103, 17.089464419979258]",1.0,1
+5a77857155429949eeb29ebf,bridge,hard,"[""Electrical Storm (song)"", ""U2 360° Tour""]","[""Firm Biz"", ""Rock &amp; Roll Over Tour""]","[7.967884579742708, 7.938314291325739]",0.0,0
+5a8f876e5542997ba9cb32a1,comparison,hard,"[""Marc Rosset"", ""Max Mirnyi""]","[""2004 Canada Masters – Doubles"", ""Andrea Hlaváčková""]","[2.891776468672325, 2.1866943402898116]",0.0,0
+5adcc7395542990d50227d13,bridge,hard,"[""Dreamland (amusement park)"", ""Steeplechase Park""]","[""Dreamland (amusement park)"", ""Steeplechase Park""]","[11.869620387877063, 11.234919687565846]",1.0,1
+5a77a14655429949eeb29f13,bridge,hard,"[""Widewuto"", ""Prussian mythology""]","[""Widewuto"", ""Prussian mythology""]","[11.628141387072793, 8.659322862488311]",1.0,1
+5ae00b9f554299025d62a3c3,bridge,hard,"[""Jeanie Buss"", ""Jerry Buss""]","[""Jeanie Buss"", ""Jerry Buss""]","[9.59676067845116, 6.015278831042966]",1.0,1
+5a8b3d795542997f31a41cc1,comparison,hard,"[""!!!"", ""Puddle of Mudd""]","[""Stuck (EP)"", ""Soulidium""]","[5.835041652780147, 4.730834996684216]",0.0,0
+5a8c6bd55542995e66a475ea,bridge,hard,"[""Jean Sagbo"", ""Afro-Russian""]","[""Jean Sagbo"", ""Colorism in the Caribbean""]","[16.124597391513078, 6.026869074391494]",0.5,0
+5a773c7755429972597f14b5,bridge,hard,"[""O'Halloran Hill, South Australia"", ""Hallett Cove, South Australia""]","[""Hallett Cove, South Australia"", ""Shor language""]","[10.641198293665813, 9.278285553211742]",0.5,0
+5ae49bb755429970de88d9d7,bridge,hard,"[""Fas'h mosque"", ""Al-Masjid an-Nabawi""]","[""Fas'h mosque"", ""Burj Pukhta""]","[7.071810579799564, 5.232660589570277]",0.5,0
+5ab868e755429919ba4e22e3,comparison,hard,"[""WPX Energy"", ""Hewlett Packard Enterprise""]","[""Hewlett Packard Enterprise"", ""WPX Energy""]","[7.70885166669809, 7.3665436130230955]",1.0,1
+5a8595a85542992a431d1b48,bridge,hard,"[""Billy McFarland (entrepreneur)"", ""Fyre Festival""]","[""Billy McFarland (entrepreneur)"", ""Fyre Festival""]","[12.335201368695216, 9.215913637799222]",1.0,1
+5a887771554299206df2b294,comparison,hard,"[""Sergio Leone"", ""Jon Paul Puno""]","[""Jon Paul Puno"", ""Sergio Leone""]","[9.31963128452714, 2.630683255299418]",1.0,1
+5ae6fee3554299572ea54670,bridge,hard,"[""Johnny Majors"", ""Paul Hornung""]","[""Johnny Majors"", ""1976 NCAA Division I football season""]","[11.429092624817969, 6.997673303540051]",0.5,0
+5add1d435542990d50227de8,bridge,hard,"[""Glomar Challenger"", ""Transocean""]","[""Arctic Challenger"", ""Glomar Challenger""]","[7.770525492607108, 4.7263881486337604]",0.5,0
+5a8661535542994775f60758,bridge,hard,"[""Hafiz Rashid Khan"", ""Postcolonialism""]","[""Postcolonialism"", ""Legitimacy of Chinese philosophy""]","[7.205794175986043, 5.9206632448514]",0.5,0
+5ab72b5855429928e1fe3828,bridge,hard,"[""She's a Woman"", ""I Feel Fine""]","[""She's a Woman"", ""I Feel Fine""]","[15.411434301069692, 14.47477864707101]",1.0,1
+5ab8848d55429916710eb07b,bridge,hard,"[""Stan Williams (Australian footballer)"", ""Adelaide Oval""]","[""Stan Williams (Australian footballer)"", ""Adelaide Oval""]","[2.8463118012092417, 2.7328355195258225]",1.0,1
+5ae346365542991a06ce9985,bridge,hard,"[""Vinylmation"", ""Mickey Mouse""]","[""Vinylmation"", ""Mickey Mouse""]","[12.50795507604644, 6.360409602238773]",1.0,1
+5a8e0d04554299068b959e3a,bridge,hard,"[""Haringey Heartlands"", ""The Mall Wood Green""]","[""The Mall Wood Green"", ""Haringey Heartlands""]","[5.9388439485594295, 5.150212959818577]",1.0,1
+5a7a96b055429941d65f26d7,bridge,hard,"[""Ehyophsta"", ""Cheyenne military societies""]","[""Ehyophsta"", ""Council of Forty-four""]","[8.853954475430076, 7.440092366436929]",0.5,0
+5a88fa145542997e5c09a6e1,bridge,hard,"[""Orenda OE600"", ""Pratt &amp; Whitney Canada PT6""]","[""Pratt &amp; Whitney Canada PT6"", ""Vickers Viscount""]","[9.699795441379942, 6.0577274503426235]",0.5,0
+5a884adb5542996e4f308938,comparison,hard,"[""Eryngium"", ""Arnebia""]","[""Eryngium"", ""Arnebia""]","[5.737112831424699, 5.650561769346482]",1.0,1
+5a87964c5542996e4f30885f,bridge,hard,"[""Romans (2013 film)"", ""Niveda Thomas""]","[""Romans (2013 film)"", ""Krishna Kumari (actress)""]","[4.563558483063408, 3.9145246500783695]",0.5,0
+5a874f20554299211dda2bd6,comparison,hard,"[""Hans Schlegel"", ""Dirk Frimout""]","[""Dirk Frimout"", ""Hans Schlegel""]","[11.572792022619726, 10.483049036378448]",1.0,1
+5add60905542995b365fab1d,comparison,hard,"[""Victor Salva"", ""Emilio Fernández""]","[""Victor Salva"", ""Jaime Fernández (actor)""]","[6.873905275194149, 3.892860524557266]",0.5,0
+5a7528e955429929fddd850e,comparison,hard,"[""Reunions magazine"", ""Money (magazine)""]","[""Reunions magazine"", ""Money (magazine)""]","[5.969970035731182, 4.976965994580803]",1.0,1
+5a72dcb45542992359bc31af,bridge,hard,"[""Rex Maughan"", ""Forever Living Products""]","[""Rex Maughan"", ""Forever Living Products""]","[2.918650216938587, 2.514120190265147]",1.0,1
+5ac3c1585542995ef918c21d,bridge,hard,"[""Baltic neopaganism"", ""Vydūnas""]","[""Baltic neopaganism"", ""Vydūnas""]","[8.108256626409194, 3.347917286066192]",1.0,1
+5ae0247955429925eb1afc22,bridge,hard,"[""Xavin"", ""Karolina Dean""]","[""Xavin"", ""Michael Burnham""]","[16.12871920416094, 6.047956981214016]",0.5,0
+5a7b116a554299042af8f6c4,bridge,hard,"[""No Cross, No Crown"", ""Tower of London""]","[""No Cross, No Crown"", ""Tower of London""]","[16.234847753961493, 5.40761032938698]",1.0,1
+5a7aa5e75542992d025e66d9,bridge,hard,"[""Ho Iat Seng"", ""Legislative Assembly of Macau""]","[""Ho Iat Seng"", ""Ho Teng Iat""]","[11.746273802792185, 8.149794718962536]",0.5,0
+5a84e0a45542991dd0999e11,bridge,hard,"[""Steel Venom (Valleyfair)"", ""Wicked Twister""]","[""Steel Venom (Valleyfair)"", ""Wicked Twister""]","[6.491770455348048, 5.860987392147344]",1.0,1
+5ab5d4eb5542992aa134a3aa,bridge,hard,"[""Emancipation (Prince album)"", ""Spike Lee""]","[""Final girl"", ""Beena Paul""]","[3.911718690957091, 3.840787354538435]",0.0,0
+5ab85e195542992aa3b8c8c5,bridge,hard,"[""Alex Beard (arts manager)"", ""Tony Hall, Baron Hall of Birkenhead""]","[""Alex Beard (arts manager)"", ""Alex Beard (artist)""]","[7.320016096172643, 6.277259218059935]",0.5,0
+5a7fd1515542992e7d278db1,bridge,hard,"[""Grimsby Minster"", ""Diocese of Lincoln""]","[""Grimsby Minster"", ""St James' School, Grimsby""]","[6.5943178610666235, 5.683645730273864]",0.5,0
+5a7d119d5542995ed0d165d5,comparison,hard,"[""Gunnar Nelson (musician)"", ""Florence Welch""]","[""Gunnar Nelson (musician)"", ""Nelson (band)""]","[6.495162522286986, 4.063218628838598]",0.5,0
+5ae26fad554299495565da6f,bridge,hard,"[""Sergey Dreyden"", ""Russian Ark""]","[""Russian Ark"", ""Sergey Dreyden""]","[11.681663479337429, 8.29408392653886]",1.0,1
+5a7a7dc15542994f819ef1f2,comparison,hard,"[""Andy Warhol"", ""Alexander Butler""]","[""Alexander Butler"", ""Andy Warhol""]","[6.072993310202486, 4.905392089843532]",1.0,1
+5ab9fe1255429939ce03dc40,bridge,hard,"[""Leader of Fine Gael"", ""Leo Varadkar""]","[""James Reilly (Irish politician)"", ""Leo Varadkar""]","[6.551458711242877, 4.647637247116682]",0.5,0
+5ab946d7554299743d22eaaf,bridge,hard,"[""R. J. Harris"", ""Tom Cole""]","[""Stayce Harris"", ""R. J. Harris""]","[7.821227450978976, 7.290091054659345]",0.5,0
+5a7268235542992359bc3081,bridge,hard,"[""133d Air Refueling Squadron"", ""Pease Air National Guard Base""]","[""Pease Air National Guard Base"", ""George G. Finch""]","[20.00391345191518, 10.71210825708107]",0.5,0
+5adcd1665542994d58a2f6e6,bridge,hard,"[""The Census Taker"", ""Meredith MacRae""]","[""Meredith MacRae"", ""List of Amy Adams performances""]","[11.348826108235027, 10.627581913046697]",0.5,0
+5ae274dd5542996483e649ad,bridge,hard,"[""Jet Airways"", ""IndiGo""]","[""Jet Airways"", ""Tuzla International Airport""]","[6.291310928371093, 6.152301117968685]",0.5,0
+5a87defa5542993e715abfec,bridge,hard,"[""Nicholas Scibetta"", ""Sammy Gravano""]","[""Nicholas Scibetta"", ""Sammy Gravano""]","[16.12068886497837, 10.810029893329965]",1.0,1
+5ae12a4b55429920d52342df,bridge,hard,"[""Baraki Barak District"", ""Logar Province""]","[""Baraki Barak District"", ""Camptown (country subdivision)""]","[12.015643584545582, 7.763879015512876]",0.5,0
+5ade18df5542990dbb2f7f53,bridge,hard,"[""Gameshow Marathon (U.S. TV series)"", ""CTV Television Network""]","[""CTV Television Network"", ""Gameshow Marathon (U.S. TV series)""]","[11.347175875144986, 8.664216473457152]",1.0,1
+5a8affca55429971feec45e3,bridge,hard,"[""Cliburn railway station"", ""Eden Valley Railway""]","[""Eden Valley Railway"", ""Cliburn railway station""]","[11.481920546711077, 8.281295941482162]",1.0,1
+5ac113e2554299294b21909a,bridge,hard,"[""Linda Eder"", ""Jekyll &amp; Hyde (musical)""]","[""Bill Grainer"", ""Inside America""]","[3.781075699065874, 3.0525364759890117]",0.0,0
+5a7a4f335542990198eaf11e,comparison,hard,"[""Kings of Convenience"", ""Belle and Sebastian""]","[""Kings of Convenience"", ""Belle and Sebastian""]","[9.15748071960218, 8.14158712187747]",1.0,1
+5adc0f8d55429947ff1738ef,comparison,hard,"[""Parsifal"", ""Saul og David""]","[""Saul (Handel)"", ""Plácido Domingo discography""]","[5.0509362201121135, 4.0238503736313325]",0.0,0
+5ae4f96755429913cc204551,bridge,hard,"[""Ndlela kaSompisi"", ""Shaka""]","[""Ndlela kaSompisi"", ""Mpande kaSenzangakhona""]","[13.38145727274922, 4.924027803557833]",0.5,0
+5a77c1d95542995d831812a6,bridge,hard,"[""Bee Cliff (Tennessee)"", ""Watauga River""]","[""Bee Cliff (Tennessee)"", ""East Falls, Philadelphia""]","[12.130673698850607, 6.289744393676619]",0.5,0
+5ade74285542992fa25da78c,comparison,hard,"[""Gaillardia"", ""Browningia""]","[""Schlumbergera"", ""Browningia""]","[7.779550470871192, 7.677469157747263]",0.5,0
+5a771e3255429966f1a36c78,bridge,hard,"[""Diary of a Cannibal"", ""Armin Meiwes""]","[""Diary of a Cannibal"", ""Armin Meiwes""]","[7.487546582774417, 3.4055134484501686]",1.0,1
+5a75abbb5542992d0ec05fd9,bridge,hard,"[""1991 USAC FF2000 Championship"", ""United States Auto Club""]","[""United States Auto Club"", ""Pepsi Max 400""]","[6.034753908997201, 4.772766608354283]",0.5,0
+5a7cefcf55429909bec768af,bridge,hard,"[""Mis'ry's Comin' Aroun"", ""Oscar Hammerstein II""]","[""Mis'ry's Comin' Aroun"", ""Terri Gibbs""]","[13.099041313411062, 5.4790739676344575]",0.5,0
+5a8f0de35542995b44241f40,comparison,hard,"[""Terry Kath"", ""Róisín Murphy""]","[""25 or 6 to 4"", ""Hot Streets""]","[3.328085121961647, 3.169537934420564]",0.0,0
+5ab7ff1d5542990e739ec7b9,comparison,hard,"[""Polvo"", ""The Black Keys""]","[""Polvo"", ""The Black Keys""]","[11.531587825608666, 10.741741075177156]",1.0,1
+5ab9788155429970cfb8eb1a,bridge,hard,"[""Tata Sons"", ""Natarajan Chandrasekaran""]","[""LC Singh"", ""Rajesh Gopinathan""]","[4.355168546977667, 4.226462829544872]",0.0,0
+5a75441c55429916b01642cf,comparison,hard,"[""15 Penn Plaza"", ""247 Cherry""]","[""247 Cherry"", ""15 Penn Plaza""]","[7.580878267331965, 6.146667464632838]",1.0,1
+5ac55ba05542993e66e8233d,bridge,hard,"[""Sinhawalokanaya"", ""Tillakaratne Dilshan""]","[""Sinhawalokanaya"", ""Abdul Qadir (cricketer, born 1955)""]","[15.103466807167877, 9.016165065049893]",0.5,0
+5ab431e65542991751b4d6e2,bridge,hard,"[""Samuel Thurston"", ""Oregon Territory""]","[""Samuel Thurston"", ""List of Governors of Dakota Territory""]","[12.623416333857868, 11.834911332046316]",0.5,0
+5adf1b8a5542995534e8c750,bridge,hard,"[""Gator Country"", ""Duane Roland""]","[""Duane Roland"", ""Monty Byrom""]","[6.6896054573054435, 5.121662554700322]",0.5,0
+5ac0c1cf5542992a796ded7c,bridge,hard,"[""Crestfallen"", ""Yelena Yemchuk""]","[""Crestfallen"", ""Siège social""]","[6.213007327766377, 5.179940282943205]",0.5,0
+5abba3cd554299642a094aee,bridge,hard,"[""Andrew J. Elliot"", ""University of Rochester""]","[""Andrew J. Elliot"", ""Andrew J. Offutt""]","[12.806843175605536, 7.406114822679762]",0.5,0
+5adbd1d25542994650320bf6,bridge,hard,"[""Vladimir Fedorov"", ""Anjelika Krylova""]","[""Vladimir Fedorov"", ""Ice skating in India""]","[11.689443500922657, 5.849585308333723]",0.5,0
+5ab3ec51554299753aec59f1,bridge,hard,"[""Sachin H. Jain"", ""Merck &amp; Co.""]","[""Sachin H. Jain"", ""Chief medical informatics officer""]","[14.501752693708397, 7.665056982023055]",0.5,0
+5ae603a65542996de7b71af3,bridge,hard,"[""Main Prem Ki Diwani Hoon"", ""Abhishek Bachchan""]","[""Abhishek Bachchan"", ""Main Prem Ki Diwani Hoon""]","[13.829197170625843, 11.555887879794016]",1.0,1
+5abefbc15542990832d3a117,bridge,hard,"[""Michael Lent (writer and producer)"", ""Ice Road Truckers""]","[""Michael Lent (writer and producer)"", ""Kenny Wormald""]","[26.018421450932752, 12.351865556077485]",0.5,0
+5ab43179554299233955004d,bridge,hard,"[""Klepto"", ""Meredith Bishop""]","[""Klepto"", ""The Kleptones""]","[3.811121487278064, 3.4456920536087368]",0.5,0
+5a8b2dc055429950cd6afc62,bridge,hard,"[""Michael Bean"", ""The Imaginarium of Doctor Parnassus""]","[""Story Time (film)"", ""The Imaginarium of Doctor Parnassus""]","[5.897842787438125, 5.267213596044896]",0.5,0
+5ae5faf555429929b0807a4c,bridge,hard,"[""People's Party (Spain, 1976)"", ""Liberal conservatism""]","[""People's Party (Spain, 1976)"", ""José María de Torrijos y Uriarte""]","[13.5710475269453, 8.629039226984393]",0.5,0
+5a745a6055429974ef308be4,comparison,hard,"[""Something Wicked This Way Comes (film)"", ""The Wind in the Willows""]","[""The Wind in the Willows"", ""Cheyne Coates""]","[10.465279510902752, 7.633080016387126]",0.5,0
+5ae234e85542994d89d5b395,bridge,hard,"[""Conrad IV of Germany"", ""Isabella II of Jerusalem""]","[""Isabella II of Jerusalem"", ""Capetian-Plantagenet rivalry""]","[5.426910036106062, 4.3759070393848525]",0.5,0
+5a899b6455429946c8d6e955,bridge,hard,"[""Alligator (film)"", ""Michael V. Gazzo""]","[""Michael V. Gazzo"", ""Nick Nolte""]","[7.084222063336158, 6.52778431465846]",0.5,0
+5ae6e0485542996d980e7ca6,bridge,hard,"[""Lady Leshurr"", ""The Rap Game""]","[""Lady Leshurr"", ""Expeditie Robinson 2006""]","[12.949719085263538, 11.537565047178642]",0.5,0
+5add016e5542992c1e3a250b,bridge,hard,"[""Gran i General Consell"", ""Philip V of Spain""]","[""Gran i General Consell"", ""Levan of Imereti""]","[8.147681019683173, 6.16361717519557]",0.5,0
+5ab3bacc55429969a97a8197,bridge,hard,"[""Definitely Maybe Tour"", ""Don't Look Back in Anger""]","[""Definitely Maybe Tour"", ""Don't Look Back in Anger""]","[13.579435381770665, 6.6386901601009285]",1.0,1
+5a800ddd5542992097ad2fd0,bridge,hard,"[""Bloomingdale Firehouse"", ""Worcester Cold Storage and Warehouse Co. fire""]","[""Bloomingdale Firehouse"", ""1001 Woodward""]","[8.583553787202101, 7.067733780821576]",0.5,0
+5a76067e55429976ec32bce9,bridge,hard,"[""Box Codax"", ""Nick McCarthy""]","[""Nick McCarthy"", ""Bradley Bell (musician)""]","[13.441180962248364, 9.054727345908491]",0.5,0
+5a87a47c5542994846c1cdbd,bridge,hard,"[""Wilfred Bamnjo"", ""Claude Makélélé""]","[""Wilfred Bamnjo"", ""Bengalized""]","[9.021396576991958, 6.332533369414047]",0.5,0
+5ae76d185542997ec2727641,bridge,hard,"[""Kara Ross"", ""Stephen M. Ross""]","[""1982 Miami Dolphins season"", ""Kara Ross""]","[6.184615849524164, 5.562537792275498]",0.5,0
+5ae1e4e2554299492dc91bab,bridge,hard,"[""Michael Whitham"", ""Gainsborough Trinity F.C.""]","[""1891–92 Sheffield United F.C. season"", ""Mustapha Khedali""]","[5.666291699460335, 5.513005996113714]",0.0,0
+5ae388ea5542994393b9e6f0,bridge,hard,"[""The Periodic Table of Videos"", ""Brady Haran""]","[""Brady Haran"", ""Stephen Liddle""]","[16.33792961765005, 11.697128819732422]",0.5,0
+5add0f635542994ed6169c56,comparison,hard,"[""The Man from Snowy River II"", ""Miracle of the White Stallions""]","[""Miracle of the White Stallions"", ""Philip Abbott""]","[9.88392139941363, 8.31625781244558]",0.5,0
+5a7269fa5542992359bc308d,comparison,hard,"[""Kimberly Po"", ""Leoš Friedl""]","[""Leoš Friedl"", ""Kimberly Po""]","[7.5044401852145235, 5.5963291134272115]",1.0,1
+5abc0ba05542996583600409,bridge,hard,"[""John Nyskohus"", ""Adelaide City FC""]","[""John Nyskohus"", ""Adelaide City FC""]","[7.69937503854053, 7.564263092601932]",1.0,1
+5ae0616255429924de1b70ca,comparison,hard,"[""Steve Perry"", ""Dennis Lyxzén""]","[""Steve Perry"", ""Refused""]","[8.03113532799098, 4.54038049058946]",0.5,0
+5a8eed625542995085b374b9,bridge,hard,"[""Constitution of Alberta"", ""Westminster system""]","[""Irish measure"", ""General Assembly House""]","[8.188256327127592, 7.338821190513779]",0.0,0
+5a776a7055429966f1a36d32,bridge,hard,"[""Fourier number"", ""Joseph Fourier""]","[""Qualified Person for Pharmacovigilance"", ""Fourier number""]","[10.963307461331413, 9.292595095448833]",0.5,0
+5adbd3405542994650320bf8,comparison,hard,"[""Chris Cheney"", ""Mikael Åkerfeldt""]","[""Chris Cheney"", ""Watershed (Opeth album)""]","[11.804231141520667, 10.274118786732974]",0.5,0
+5ac313145542995ef918c0ed,bridge,hard,"[""Chantal Thomas"", ""Farewell, My Queen""]","[""Chantal Thomas"", ""George Glass""]","[6.6530259047219005, 4.741783798619728]",0.5,0
+5adda7275542995b365fab57,bridge,hard,"[""English general election, 1690"", ""Glorious Revolution""]","[""English general election, 1690"", ""English general election, 1695""]","[7.786311637227408, 6.641679710079509]",0.5,0
+5a7bf0d75542996dd594b85c,bridge,hard,"[""Max Hell Frog Warrior"", ""Joe Estevez""]","[""Joe Estevez"", ""A Letter from Death Row (film)""]","[11.864901244986402, 9.593454065067968]",0.5,0
+5ae1ab2f554299234fd042ba,bridge,hard,"[""Stuart Pankin"", ""Fatal Attraction""]","[""Stuart Pankin"", ""Esai Morales""]","[12.211023448848897, 8.065926983189105]",0.5,0
+5a7bb52355429927d897c01a,bridge,hard,"[""What the Water Gave Me (song)"", ""What the Water Gave Me (painting)""]","[""What the Water Gave Me (song)"", ""Lover to Lover""]","[19.036527039415507, 15.409043906970515]",0.5,0
+5a8d0c1b5542994ba4e3dbb3,bridge,hard,"[""Suresh Peters"", ""Chikku Bukku Rayile""]","[""Suresh Peters"", ""Chikku Bukku Rayile""]","[6.5434082590977845, 5.215207296282886]",1.0,1
+5abd848455429924427fd03a,comparison,hard,"[""Edward F. Cline"", ""Floyd Mutrux""]","[""Gen. Edward F. Jones House"", ""Edward F. Cline""]","[3.7771952946120724, 3.45988481291994]",0.5,0
+5ac2dc4b55429921a00ab083,comparison,hard,"[""Donald Fagen"", ""Lauren Laverne""]","[""Lauren Laverne"", ""Pulse (Greg Phillinganes album)""]","[7.543289336174362, 4.356478725742444]",0.5,0
+5ae62c385542995703ce8b3e,bridge,hard,"[""Killer World Tour"", ""Judas Priest""]","[""Killer World Tour"", ""World Wide Blitz Tour""]","[7.776557337760363, 7.146665808463224]",0.5,0
+5a860d09554299211dda2a53,bridge,hard,"[""Brady Sullivan Plaza"", ""City Hall Plaza (Manchester)""]","[""U.S. Bank Center (Milwaukee)"", ""Brady Sullivan Plaza""]","[12.113002856345714, 10.882214645329006]",0.5,0
+5ac2b2e2554299218029dafa,bridge,hard,"[""Rick Howland"", ""Gary Bettman""]","[""Rick Howland"", ""Professional sports in Canada""]","[23.7554130486194, 12.191207244765375]",0.5,0
+5addbf645542997dc7907014,bridge,hard,"[""Celebrities Under Pressure"", ""Vernon Kay""]","[""Celebrities Under Pressure"", ""Family Fortunes""]","[9.274563560362804, 5.472938995381944]",0.5,0
+5ab5d9af554299494045f07e,bridge,hard,"[""The Testimony (2015 film)"", ""Steve Tisch""]","[""Steve Tisch"", ""The Testimony (2015 film)""]","[7.095734273017353, 6.420406089474062]",1.0,1
+5a7736ef55429972597f14a7,bridge,hard,"[""Ashton Town A.F.C."", ""Cheshire Association Football League""]","[""Cheshire Association Football League"", ""Ashton Town A.F.C.""]","[11.570890798787387, 10.382135465042854]",1.0,1
+5ab989f755429970cfb8eb38,bridge,hard,"[""Dungeons &amp; Dragons (1974)"", ""Dave Arneson""]","[""Dave Arneson"", ""Dungeons &amp; Dragons (1974)""]","[6.44492568912831, 5.926446899696891]",1.0,1
+5a7a43f25542996a35c1716c,comparison,hard,"[""The Young Black Stallion"", ""Wild Hearts Can't Be Broken""]","[""The Young Black Stallion"", ""The Black Stallion""]","[6.939135254585573, 6.675849979365364]",0.5,0
+5ae340a85542994393b9e668,bridge,hard,"[""Gabriel Barbosa"", ""Inter Milan""]","[""Gabriel Barbosa"", ""Pachanga Diliman F.C.""]","[6.659659823991337, 5.101941896823584]",0.5,0
+5ae29d8a5542996483e64a0f,bridge,hard,"[""Thornton River"", ""Shenandoah National Park""]","[""Covington River"", ""James River Gorge""]","[5.418649641322577, 4.949011278407772]",0.0,0
+5a8a2e465542996c9b8d5e32,bridge,hard,"[""Michael Ola"", ""Riverdale, Georgia""]","[""Michael Ola"", ""Two Rivers High School (Arkansas)""]","[5.802619533854808, 4.58834222665372]",0.5,0
+5a77789d55429949eeb29e4e,bridge,hard,"[""License to Drive"", ""Richard Masur""]","[""License to Drive"", ""Richard Masur""]","[7.073940899143352, 4.912555300237703]",1.0,1
+5ae5c27b554299546bf82f4c,bridge,hard,"[""2012–13 Blackpool F.C. season"", ""Tom Ince""]","[""2012–13 Blackpool F.C. season"", ""Tom Ince""]","[16.855494769068663, 12.616890225200077]",1.0,1
+5a8b64695542997f31a41d04,bridge,hard,"[""Valdosta State Blazers"", ""Valdosta, Georgia""]","[""Valdosta, Georgia"", ""Georgia Collegiate Athletic Association""]","[6.394225409658839, 3.3909079888877933]",0.5,0
+5ab6f39c554299110f219a79,bridge,hard,"[""Sde Dov Airport"", ""Israir Airlines""]","[""Sde Dov Airport"", ""Israir Airlines""]","[6.245625633547593, 3.8596511386646166]",1.0,1
+5ab90a2055429916710eb0ea,bridge,hard,"[""Daniel Walcott"", ""2014 NHL Entry Draft""]","[""Daniel Walcott"", ""2014 NHL Entry Draft""]","[13.47682924155262, 7.837390609801415]",1.0,1
+5ae0e0125542993d6555ec79,bridge,hard,"[""Ross Pople"", ""Pierre Boulez""]","[""Pierre Boulez"", ""François Guizot""]","[9.29216061416217, 7.176877680935844]",0.5,0
+5a7c75045542990527d554b2,comparison,hard,"[""Nick Grinde"", ""Karel Reisz""]","[""Karel Reisz"", ""Love Is on the Air""]","[9.215053048464304, 2.6126406138723484]",0.5,0
+5abbd4035542993f40c73bcb,bridge,hard,"[""Show 'Em (What You're Made Of)"", ""Kevin Richardson (musician)""]","[""Backstreet Boys: Show 'Em What You're Made Of"", ""Show 'Em (What You're Made Of)""]","[20.077822541697433, 19.005785789368616]",0.5,0
+5a9092cc55429916514e74fd,bridge,hard,"[""Rick Hart (sound engineer)"", ""Under Siege""]","[""Rick Hart (sound engineer)"", ""Under Siege 2: Dark Territory""]","[6.290846808752391, 5.1208510995196965]",0.5,0
+5ab9bb8355429970cfb8eb8b,bridge,hard,"[""David J. Wineland"", ""Serge Haroche""]","[""Serge Haroche"", ""David J. Wineland""]","[11.92574231665139, 11.678660841769444]",1.0,1
+5ac2cb3e5542996773102627,bridge,hard,"[""Tolhuin"", ""Río Grande, Tierra del Fuego""]","[""Río Grande, Tierra del Fuego"", ""Tolhuin""]","[19.720732016501028, 12.425132242561693]",1.0,1
+5ac3b40a554299741d48a2e5,bridge,hard,"[""Pajottenland"", ""Lambic""]","[""Lambic"", ""Pajottenland""]","[8.728944140807851, 5.1326280079827065]",1.0,1
+5ae537e45542990ba0bbb235,bridge,hard,"[""Chapter II (Ashanti album)"", ""Ashanti (singer)""]","[""Ashanti (singer)"", ""Anthony Hamilton (musician)""]","[10.240727592583243, 7.509146341907548]",0.5,0
+5a76244c554299109176e65d,bridge,hard,"[""A Rush of Blood to the Head"", ""Yellow (Coldplay song)""]","[""A Rush of Blood to the Head"", ""Yellow (Coldplay song)""]","[7.282355190524788, 7.131292812965855]",1.0,1
+5a75b7475542992d0ec05feb,bridge,hard,"[""Carlo Buccirosso"", ""The Great Beauty""]","[""Alex Kruz"", ""Un'estate ai Caraibi""]","[7.41008358388375, 5.948114937979789]",0.0,0
+5a77666555429966f1a36d1f,bridge,hard,"[""Oliver Fricker"", ""Michael P. Fay""]","[""Oliver Fricker"", ""Immigration to Italy""]","[10.596592397339858, 7.552047320295623]",0.5,0
+5a7770f855429966f1a36d4e,bridge,hard,"[""Iftikhar Ali Khan Pataudi"", ""Mansoor Ali Khan Pataudi""]","[""Mansoor Ali Khan Pataudi"", ""Charley Burley""]","[8.03722300667321, 7.8350389436764685]",0.5,0
+5a8f7e785542992414482ae6,comparison,hard,"[""Pomeranian (dog)"", ""Sporting Lucas Terrier""]","[""Sporting Lucas Terrier"", ""Pomeranian (dog)""]","[6.221907543928566, 5.271644967050691]",1.0,1
+5ae1b44c554299234fd042cd,bridge,hard,"[""Adam McKenzie"", ""Dayton Demolition""]","[""Adam McKenzie"", ""Cleveland Cavaliers""]","[11.111876891700113, 7.828843229438984]",0.5,0
+5adc99cf554299438c868e0d,bridge,hard,"[""Would You Like to Take a Walk?"", ""Ella Fitzgerald""]","[""Would You Like to Take a Walk?"", ""Louis Armstrong and His Hot Seven""]","[17.09374479357248, 6.910064199758266]",0.5,0
+5abce2fc5542993a06baf994,bridge,hard,"[""Anil Kumar"", ""Rajat Gupta""]","[""Anil Kumar"", ""Rajat Gupta""]","[8.384017837325594, 6.373036010036935]",1.0,1
+5a7a83b3554299042af8f652,bridge,hard,"[""Park Sung-woong"", ""The Deal (2015 film)""]","[""Park Sung-woong"", ""The Deal (2015 film)""]","[17.243470842998992, 16.201103292228318]",1.0,1
+5ab414295542996a3a969f1d,bridge,hard,"[""Brian Ralston"", ""Brandon Routh""]","[""Brian Ralston"", ""Paul Michaux""]","[8.53705621101245, 5.10551002376677]",0.5,0
+5a8900c75542997e5c09a6ed,comparison,hard,"[""Cosmopolitan (cocktail)"", ""Cuba Libre""]","[""Cosmopolitan (cocktail)"", ""Cuba Libre""]","[4.172829789366291, 2.795460342120437]",1.0,1
+5abb9928554299642a094ab9,bridge,hard,"[""True Compass"", ""Ted Kennedy""]","[""True Compass"", ""Ted Kennedy""]","[13.957988345346855, 6.3848767291021336]",1.0,1
+5a88bedb554299206df2b35a,bridge,hard,"[""Waterloo Bridge"", ""London Eye""]","[""Garden Bridge"", ""Waterloo Bridge""]","[4.650578148087497, 4.070507543652604]",0.5,0
+5a858dc85542997b5ce40002,bridge,hard,"[""Richardson Square Mall"", ""Whataburger""]","[""Whataburger"", ""Richardson Square Mall""]","[5.182759830598655, 4.674824590083534]",1.0,1
+5adff056554299603e4183cc,comparison,hard,"[""Antic (magazine)"", ""The Chronicle of Philanthropy""]","[""Global Philanthropy Forum"", ""Antic (magazine)""]","[4.712662610784489, 4.664902012426968]",0.5,0
+5a87560d5542994775f607d9,bridge,hard,"[""Red Flash"", ""Big Red (drink)""]","[""Red Flash"", ""Coca-Cola with Lemon""]","[17.534151761377405, 7.574665143425722]",0.5,0
+5a84ad3a5542992a431d1a8b,bridge,hard,"[""Yoann Lemoine"", ""Back to December""]","[""Yoann Lemoine"", ""OopDeeWopDee""]","[7.451104201430278, 5.208086523291554]",0.5,0
+5ae4cb2f55429960a22e01e8,bridge,hard,"[""J. D. Souther"", ""Linda Ronstadt""]","[""J. D. Souther"", ""They Call the Wind Maria""]","[11.46489002128294, 7.226757639518228]",0.5,0
+5a8afa4d55429949d91db44c,bridge,hard,"[""Not About Angels"", ""The Fault in Our Stars""]","[""Not About Angels"", ""Angels &amp; Demons""]","[10.431284445614954, 6.058714968346718]",0.5,0
+5a724dc25542990c210a40df,comparison,hard,"[""The Strongest Man in the World"", ""Roving Mars""]","[""Roving Mars"", ""Europe's Strongest Man""]","[10.310600128081397, 5.169777083569102]",0.5,0
+5a85d6d95542996432c570fb,bridge,hard,"[""House dance"", ""Jacking""]","[""Jacking"", ""House dance""]","[18.591081437465704, 7.461243087678504]",1.0,1
+5a7a11c85542996a35c170b4,bridge,hard,"[""The Four III"", ""The Four (film)""]","[""The Four III"", ""Scream (Tokio Hotel album)""]","[16.73118222253416, 11.318775501199903]",0.5,0
+5abfa18f5542990832d3a176,bridge,hard,"[""Megan Phelps-Roper"", ""Shirley Phelps-Roper""]","[""Megan Phelps-Roper"", ""Shirley Phelps-Roper""]","[13.82689883735845, 12.471266196119432]",1.0,1
+5a714dea5542994082a3e7a9,comparison,hard,"[""Summer Wars"", ""The Secret of Kells""]","[""Cartoon Saloon"", ""The Secret of Kells""]","[7.9880837900145645, 7.955516050441159]",0.5,0
+5a7cdc54554299683c1c63a5,bridge,hard,"[""The Golden Egg"", ""The Vanishing (1988 film)""]","[""The Vanishing (1988 film)"", ""The Domino Principle""]","[11.498364206121169, 10.922444195241908]",0.5,0
+5ab953a45542996be202047f,bridge,hard,"[""Rotrou III, Count of Perche"", ""Percheron""]","[""Percheron"", ""Rotrou III, Count of Perche""]","[10.708888559193376, 10.463690055407918]",1.0,1
+5a7ef18c55429934daa2fc84,bridge,hard,"[""Peter Pan Live!"", ""Christopher Walken""]","[""Christopher Walken"", ""Peter Pan Live!""]","[11.191219306552432, 8.249667640888962]",1.0,1
+5a81967a55429926c1cdad44,bridge,hard,"[""Edgar Linton"", ""Wuthering Heights""]","[""Edgar Linton"", ""Wuthering Heights""]","[7.745945112416426, 5.981154139838101]",1.0,1
+5a73471a5542991f9a20c6d7,bridge,hard,"[""Eclipse Group"", ""Duane Clarridge""]","[""Eclipse Group"", ""Duane Clarridge""]","[10.956768010434448, 10.040115115474892]",1.0,1
+5a7380e855429905862fe041,bridge,hard,"[""Charles Hirshberg"", ""Joan Feynman""]","[""Joan Feynman"", ""Heliophysics""]","[20.890985013466693, 10.744326054118975]",0.5,0
+5ac13d5c5542996f0d89cc78,bridge,hard,"[""Macaulay Culkin"", ""Shirley Temple""]","[""Shirley Temple"", ""Macaulay Culkin""]","[21.615077209771407, 13.019426944443456]",1.0,1
+5ac31bbd554299741d48a1f9,bridge,hard,"[""Vincent Drucci"", ""Al Capone""]","[""Vincent Drucci"", ""Yves Buteau""]","[9.454158811960296, 6.68720852577107]",0.5,0
+5a7780e855429949eeb29e9f,bridge,hard,"[""Anna Karenina (2012 film)"", ""Aaron Taylor-Johnson""]","[""Kick-Ass (character)"", ""Count von Count""]","[2.7596656518802387, 2.4226756757455528]",0.0,0
+5a75da235542992db94736f9,bridge,hard,"[""Chicago Statement on Biblical Inerrancy"", ""Francis Schaeffer""]","[""Francis Schaeffer"", ""Chicago Statement on Biblical Inerrancy""]","[15.668512450865116, 10.326875062742115]",1.0,1
+5a8b768655429949d91db5a9,bridge,hard,"[""Witness (1985 film)"", ""Pamela Wallace""]","[""Rules of origin"", ""Credible witness""]","[6.313504616876833, 4.3849658005724335]",0.0,0
+5a8da0b85542994ba4e3dcd3,comparison,hard,"[""Guillermo Cabrera Infante"", ""Guillaume Apollinaire""]","[""Cuban literature"", ""Guillermo Cabrera Infante""]","[6.8376673365042535, 6.316320650286438]",0.5,0
+5a861c0d5542994775f606f7,bridge,hard,"[""C. Bernard Jackson"", ""Edward James Olmos""]","[""C. Bernard Jackson"", ""Terry Jackson (running back)""]","[17.08421488424215, 9.58169061110262]",0.5,0
+5a7299465542992359bc3131,bridge,hard,"[""Luca Cordero di Montezemolo"", ""Fiat S.p.A.""]","[""Fiat S.p.A."", ""Fiat Chrysler Automobiles""]","[13.77518407778224, 7.94685297465151]",0.5,0
+5a8af1e255429950cd6afc28,bridge,hard,"[""John Alexander (footballer, born 1955)"", ""Trent Alexander-Arnold""]","[""John Alexander (footballer, born 1955)"", ""Trent Alexander-Arnold""]","[11.50867765442729, 11.078107567634381]",1.0,1
+5ae6c2285542995703ce8b9a,bridge,hard,"[""Marian civil war"", ""Loch Leven Castle""]","[""Background of the Spanish Civil War"", ""History of United States prison systems""]","[7.008176876217766, 5.763466404330619]",0.0,0
+5a76db3555429972597f13e7,bridge,hard,"[""Maharashtra Gramin Bank"", ""Regional Rural Bank""]","[""Maharashtra Gramin Bank"", ""Regional Rural Bank""]","[10.498829515657562, 10.47533649957262]",1.0,1
+5abe0e4e55429976d4830a62,bridge,hard,"[""Tim O'Kelly"", ""Charles Whitman""]","[""Tim O'Kelly"", ""Red Dragon (novel)""]","[8.823258287779009, 4.822293661723792]",0.5,0
+5a8089dc5542992bc0c4a765,bridge,hard,"[""1994–95 San Antonio Spurs season"", ""Doc Rivers""]","[""1991–92 San Antonio Spurs season"", ""2003–04 Seattle SuperSonics season""]","[10.198666215104467, 9.739035304073195]",0.0,0
+5a8f15d2554299458435d551,bridge,hard,"[""Heikki Seppa"", ""Georg Jensen""]","[""Heikki Seppa"", ""Gary Noffke""]","[14.753255547094502, 5.866939220683634]",0.5,0
+5a7fc5c25542992e7d278d6a,bridge,hard,"[""Wyee Point, New South Wales"", ""Lake Macquarie (New South Wales)""]","[""Wyee Point, New South Wales"", ""Aneroid Lake""]","[5.706637709412258, 5.465435345964675]",0.5,0
+5ae8242455429952e35eaa54,bridge,hard,"[""Erik Voorhees"", ""BitInstant""]","[""Erik Voorhees"", ""Crossing the Chasm""]","[7.27557311161028, 5.192060021984417]",0.5,0
+5abae1055542996cc5e49ec9,comparison,hard,"[""Mahonia"", ""Diplazium""]","[""Diplazium"", ""Mahonia""]","[3.3837902815554957, 1.8496785244297866]",1.0,1
+5ae547f85542990ba0bbb254,bridge,hard,"[""If You've Got Trouble"", ""Act Naturally""]","[""If You've Got Trouble"", ""Baby I'm Yours (Barbara Lewis song)""]","[16.90994498788292, 7.933604439299413]",0.5,0
+5a823fc055429940e5e1a810,bridge,hard,"[""Norse–Gaels"", ""Norsemen""]","[""Norsemen"", ""Norse–Gaels""]","[12.707314617302533, 11.164277017602034]",1.0,1
+5adf29f05542993344016c09,bridge,hard,"[""Henry Vaccaro"", ""Heart (band)""]","[""Ibanez"", ""Cimar""]","[5.9930504484654294, 4.905293870531817]",0.0,0
+5a8dab16554299068b959d89,bridge,hard,"[""Aldgate railway station, Adelaide"", ""Aldgate, South Australia""]","[""Aldgate railway station, Adelaide"", ""South Brighton railway station, Adelaide""]","[4.269399921071725, 3.883805488233269]",0.5,0
+5ab5e13c5542992aa134a3bf,comparison,hard,"[""Beau Bokan"", ""Jason Scheff""]","[""What Kind of Man Would I Be?"", ""Beau Bokan""]","[6.368932541051671, 4.954270226287793]",0.5,0
+5a710a1e5542994082a3e4fd,bridge,hard,"[""Flavivirus"", ""Yellow fever""]","[""Yellow fever"", ""Jembrana disease""]","[17.377932471274537, 14.715351669740919]",0.5,0
+5a8f55f9554299458435d5bd,comparison,hard,"[""Willi Forst"", ""Elmer Clifton""]","[""Elmer Clifton"", ""Operetta (film)""]","[5.603476903223593, 1.6925924855647663]",0.5,0
+5a74ae6a55429916b01641c9,bridge,hard,"[""Knocking Piece II"", ""Ben Johnston (composer)""]","[""Ben Johnston (composer)"", ""Special operations""]","[6.028837372528677, 5.00213560389105]",0.5,0
+5a7cd8da55429909bec76845,bridge,hard,"[""The Wind's Twelve Quarters"", ""The Ones Who Walk Away from Omelas""]","[""The Ones Who Walk Away from Omelas"", ""Saskatchewan Festival of Words""]","[14.133695449393958, 7.7487812189284435]",0.5,0
+5abc0ac455429959677d6a01,bridge,hard,"[""Where Is Love?"", ""Oliver Twist""]","[""Where Is Love?"", ""Oliver Twist""]","[13.93971418838835, 7.34295730238845]",1.0,1
+5ae32e1a55429928c423964e,comparison,hard,"[""Allure (magazine)"", ""Claudia (magazine)""]","[""Claudia (magazine)"", ""List of Allure cover models""]","[5.538747793213783, 4.759295389365788]",0.5,0
+5a746a4455429974ef308bf6,comparison,hard,"[""John Peers"", ""Simone Bolelli""]","[""John Peers"", ""Fabio Fognini""]","[6.919623869472183, 5.339116475310299]",0.5,0
+5ac07327554299012d1db5f2,bridge,hard,"[""Kaep (disambiguation)"", ""Colin Kaepernick""]","[""Kaep (disambiguation)"", ""Colin Kaepernick""]","[4.249558758502426, 4.078340640437751]",1.0,1
+5abea85f5542990832d3a070,bridge,hard,"[""Timothy J. Sloan"", ""John Stumpf""]","[""Timothy J. Sloan"", ""John Stumpf""]","[15.027808079692798, 13.748818022886162]",1.0,1
+5a8a03985542992e4fca84d6,bridge,hard,"[""The Spider's Web (1960 film)"", ""Penelope Keith""]","[""The Spider's Web (1960 film)"", ""Margaret Rutherford""]","[15.942642600552462, 11.890531794446781]",0.5,0
+5ac5630e5542993e66e823d5,bridge,hard,"[""Joseph Ferdinand of Bavaria"", ""Maria Antonia of Austria""]","[""Maria Antonia of Austria"", ""Joseph Ferdinand of Bavaria""]","[4.5627199445476165, 3.9993410414224653]",1.0,1
+5ac324ad5542995ef918c127,bridge,hard,"[""Thomas Arundell, 1st Baron Arundell of Wardour"", ""Gunpowder Plot""]","[""Thomas Arundell, 1st Baron Arundell of Wardour"", ""Thomas Arundell (1454–1485)""]","[18.83114180256504, 12.054252541012318]",0.5,0
+5ae71d2d554299572ea546f7,bridge,hard,"[""Gül Train"", ""Economic Cooperation Organization""]","[""Gül Train"", ""Economic Cooperation Organization""]","[16.265742076914442, 7.216697314383526]",1.0,1
+5a836ce55542993344746012,comparison,hard,"[""Sarracenia"", ""Butea""]","[""Butea"", ""Sarracenia""]","[3.6896708438530554, 3.2848557928990116]",1.0,1
+5a72aec45542994cef4bc3d7,comparison,hard,"[""Nelson Algren"", ""Nathanael West""]","[""Hotel Kenmore Hall"", ""Nathanael West""]","[3.923127677839725, 3.475483448239382]",0.5,0
+5abe48675542991f66106119,bridge,hard,"[""1982 Scottish League Cup Final"", ""Charlie Nicholas""]","[""Charlie Nicholas"", ""1982 Scottish League Cup Final""]","[14.294382507371166, 8.396355690941984]",1.0,1
+5a793ea55542994bb9456fce,comparison,hard,"[""The Chronicle of Philanthropy"", ""Skeptic (U.S. magazine)""]","[""The Chronicle of Philanthropy"", ""Skeptic (U.S. magazine)""]","[9.062835584186498, 6.477213308303536]",1.0,1
+5ab90d2755429916710eb0f0,bridge,hard,"[""Steven Rattazzi"", ""The Venture Bros.""]","[""Steven Rattazzi"", ""Kurt Metzger""]","[15.691483949306633, 6.82052906003047]",0.5,0
+5a7e43c9554299495941995a,bridge,hard,"[""The Cactus Album"", ""3rd Bass""]","[""The Cactus Album"", ""3rd Bass""]","[11.76338693138013, 10.865216364527308]",1.0,1
+5adec53655429975fa854f87,comparison,hard,"[""Kim Dong-jun"", ""Charlie Harper (singer)""]","[""Kim Dong-jun"", ""Kim Dong-jun (footballer)""]","[2.4774195113960698, 2.3763642517099393]",0.5,0
+5abbdaac5542992ccd8e7fc0,comparison,hard,"[""Frank R. Strayer"", ""Krzysztof Kieślowski""]","[""Frank R. Strayer"", ""Three Colours trilogy""]","[10.507994039075712, 5.389333394141413]",0.5,0
+5abf1ad15542997ec76fd3c2,bridge,hard,"[""The Cellar (Enfield, North Carolina)"", ""Gilbert du Motier, Marquis de Lafayette""]","[""Gilbert du Motier, Marquis de Lafayette"", ""James Hogun""]","[16.563591535084953, 10.876457079348361]",0.5,0
+5a8f5b6f554299458435d5e7,bridge,hard,"[""Sand Mountain (Alabama)"", ""Appalachian Mountains""]","[""Sand Mountain (Alabama)"", ""Mount Bureto""]","[9.122608954960521, 7.154976221358235]",0.5,0
+5ae25e835542992decbdccd1,bridge,hard,"[""Racquetball at the 1985 World Games"", ""David Lloyd Leisure""]","[""David Lloyd Leisure"", ""Casting at the 1981 World Games""]","[13.339847354803222, 4.886892094930353]",0.5,0
+5a74b4dc55429979e2882a00,bridge,hard,"[""Hunt Music"", ""Ted Nugent""]","[""Ted Nugent"", ""The Essential &quot;Weird Al&quot; Yankovic""]","[5.444674498646, 5.241240689631]",0.5,0
+5ab5f75e554299637185c64b,comparison,hard,"[""Grimaldi's Pizzeria"", ""Papa Gino's""]","[""Grimaldi's Pizzeria"", ""Papa Gino's""]","[7.365063705341093, 7.285734593451591]",1.0,1
+5ae10572554299422ee995cd,bridge,hard,"[""1966 Atlantic hurricane season"", ""Hurricane Faith""]","[""1966 Atlantic hurricane season"", ""1991 Perfect Storm""]","[13.629030495272307, 11.859297802798325]",0.5,0
+5a88644455429938390d3f3f,bridge,hard,"[""Battle of Uddevalla"", ""Scanian War""]","[""Battle of Uddevalla"", ""Christen Nielsen Holberg""]","[6.935460200390729, 4.987156606027737]",0.5,0
+5ae701b2554299572ea54680,bridge,hard,"[""Frank Girardot"", ""Christian Gerhartsreiter""]","[""Frank Girardot"", ""Academy Award for Best Live Action Short Film""]","[7.476699399710831, 6.173866904300668]",0.5,0
+5a810006554299260e20a1f6,bridge,hard,"[""Boba Fett"", ""Star Wars""]","[""Mandalorian"", ""Boba Fett: A Practical Man""]","[3.9485387924590176, 3.473103664660391]",0.0,0
+5a90740a5542990a98493658,bridge,hard,"[""Avoca Lodge"", ""James Joseph Brown""]","[""James Joseph Brown"", ""Avoca Lodge""]","[20.435712622145378, 8.440924096131408]",1.0,1
+5a7cb2ed5542990527d55505,bridge,hard,"[""2014–15 Magyar Kupa"", ""Ferenc Puskás Stadium (1953)""]","[""Ferenc Puskás Stadium (1953)"", ""1955–58 Magyar Kupa""]","[5.2626772901506484, 3.8501859760240107]",0.5,0
+5abb07e95542992ccd8e7ec4,bridge,hard,"[""The Parasite"", ""Novella""]","[""How Many Words"", ""Circumlocution""]","[6.837260741539373, 5.734753467605213]",0.0,0
+5a8c620c554299240d9c2141,comparison,hard,"[""Karl Shapiro"", ""Elie Wiesel""]","[""Karl Shapiro"", ""Frances Frenaye""]","[6.751567381391533, 4.688071195813272]",0.5,0
+5a7a7e9f5542994f819ef1f4,bridge,hard,"[""Beyond Skyline"", ""Skyline (2010 film)""]","[""List of tallest buildings in Chennai"", ""Wake Up 2""]","[4.427754624502025, 4.127616388701966]",0.0,0
+5a7dc7895542995ed0d16673,comparison,hard,"[""Joseph Epstein (writer)"", ""Milan Kundera""]","[""Alex Epstein (American writer)"", ""Joseph Epstein (writer)""]","[5.424624965411624, 5.33484022146431]",0.5,0
+5abb03325542992ccd8e7eae,bridge,hard,"[""George Rainsford (actor)"", ""TV Choice""]","[""NFL regular season"", ""George Rainsford (actor)""]","[14.240603175142851, 12.785949069166932]",0.5,0
+5a8f84505542992414482aef,comparison,hard,"[""Toshi (musician)"", ""Emily Haines""]","[""What Is Free to a Good Home?"", ""Toshi (musician)""]","[4.322189372031103, 3.6566668083718987]",0.5,0
+5a89fea655429970aeb701eb,bridge,hard,"[""Nightmares (1983 film)"", ""Emilio Estevez""]","[""Wisdom (film)"", ""Emilio Estevez""]","[7.366695773737826, 6.186838480165003]",0.5,0
+5ac2943a55429921a00aafce,bridge,hard,"[""Yu Rongguang"", ""Musa (film)""]","[""Yu Rongguang"", ""Iron Monkey 2""]","[5.953213450574505, 4.407467532516641]",0.5,0
+5adfb4b8554299603e418381,comparison,hard,"[""Káťa Kabanová"", ""Der ferne Klang""]","[""Káťa Kabanová"", ""John Ferne""]","[4.570016956699862, 4.374108001718292]",0.5,0
+5a8b7dab5542997f31a41d4c,bridge,hard,"[""1973 NFL season"", ""Arrowhead Stadium""]","[""Kauffman Stadium"", ""Arrowhead Stadium""]","[10.619451821175135, 10.228471724482253]",0.5,0
+5a7d1765554299452d57bade,bridge,hard,"[""Mississippi gubernatorial election, 1919"", ""Theodore G. Bilbo""]","[""Mississippi gubernatorial election, 1919"", ""Theodore G. Bilbo""]","[5.759799006520354, 3.2007787878605756]",1.0,1
+5a8f5be9554299458435d5ed,comparison,hard,"[""Acceptance (band)"", ""Killing Joke""]","[""Acceptance (band)"", ""Ha (Killing Joke album)""]","[6.416735833736808, 5.301920631612148]",0.5,0
+5a89b8f0554299669944a580,bridge,hard,"[""Aimee Carrero"", ""Level Up (U.S. TV series)""]","[""Aimee Carrero"", ""Jesse Hubbard and Angie Baxter""]","[3.6333094034169284, 3.1462397300617324]",0.5,0
+5a8b84875542995d1e6f13d7,bridge,hard,"[""Pitch Perfect 2"", ""Brittany Snow""]","[""Brittany Snow"", ""Skylar Astin""]","[9.106221655121828, 3.832331927401611]",0.5,0
+5a7a49d85542994f819ef1bc,comparison,hard,"[""Leslie S. Hiscott"", ""James Rolfe""]","[""Leslie S. Hiscott"", ""Satchel Guide""]","[8.037760792721084, 3.1044841651846506]",0.5,0
+5a904b0c5542995651fb510e,bridge,hard,"[""Up There Down There"", ""Fred &quot;Sonic&quot; Smith""]","[""Up There Down There"", ""Crimen (song)""]","[16.020611082485438, 8.459113785695852]",0.5,0
+5a84de255542991dd0999e06,comparison,hard,"[""George Orwell"", ""Nelson DeMille""]","[""George Orwell bibliography"", ""George Orwell: A Life in Pictures""]","[4.933655698929758, 4.589238765835081]",0.0,0
+5ac3ba1855429939154138f3,comparison,hard,"[""9 DeKalb Avenue"", ""New York World Building""]","[""List of tallest buildings in Upstate New York"", ""9 DeKalb Avenue""]","[8.937576520675092, 6.445831677966658]",0.5,0
+5ab545d3554299494045ef5c,bridge,hard,"[""Benny Ciaramello"", ""Leonardo DiCaprio""]","[""Leonardo DiCaprio"", ""Benny Ciaramello""]","[6.999101014721235, 6.388462391039767]",1.0,1
+5a8b7ca65542997f31a41d49,bridge,hard,"[""Languages of Slovenia"", ""Romance languages""]","[""Languages of Slovenia"", ""French language""]","[6.087740549260254, 5.447497935007533]",0.5,0
+5ac11ee45542997d64295a7d,comparison,hard,"[""Flying Padre"", ""Inside Job (2010 film)""]","[""Flying Padre"", ""Mickey's Service Station""]","[8.086323315569715, 4.738692492027412]",0.5,0
+5a7e1b7155429965cec5ea6c,bridge,hard,"[""Saltillo Engine Plant"", ""Chrysler""]","[""Chrysler"", ""GM High Value engine""]","[7.091864921540315, 6.053348248976839]",0.5,0
+5ae658855542992ae0d162e3,bridge,hard,"[""On Parole"", ""Motörhead""]","[""On Parole"", ""Horrified""]","[6.09483190023633, 5.447994661465051]",0.5,0
+5a7335b55542992359bc3290,bridge,hard,"[""Red (Taylor Swift song)"", ""Red (Taylor Swift album)""]","[""We Are Never Ever Getting Back Together"", ""John Frusciante discography""]","[4.123661856804852, 3.9095847399210637]",0.0,0
+5a80a25d5542995d8a8ddfb7,bridge,hard,"[""So Fresh, So Clean"", ""Ms. Jackson""]","[""Salt-N-Pepa"", ""Play-N-Skillz""]","[13.29028105568925, 12.942531519051775]",0.0,0
+5a810506554299260e20a202,bridge,hard,"[""Ghost Quartet"", ""Dave Malloy""]","[""Ghost Quartet"", ""Dave Malloy""]","[9.23729810190658, 8.634425373178635]",1.0,1
+5a90b3c65542990a984936b7,bridge,hard,"[""Screen Gems Network"", ""Billy West""]","[""Screen Gems Network"", ""Mr. T Cereal""]","[9.49145526571899, 9.065640768495893]",0.5,0
+5ab3fa095542992ade7c6f0a,bridge,hard,"[""Louis XVI style"", ""Herculaneum""]","[""Louis XVI style"", ""Camulodunum""]","[22.270446752050187, 12.78365750049107]",0.5,0
+5a76a8bb5542993569682c76,bridge,hard,"[""Gildo Siorpaes"", ""Innsbruck""]","[""Marja-Liisa Kirvesniemi"", ""Gildo Siorpaes""]","[7.569932317913249, 7.4804145514587335]",0.5,0
+5a77767a55429967ab10519b,bridge,hard,"[""The History of Sex"", ""Ruth Westheimer""]","[""Ruth Westheimer"", ""The History of Sex""]","[9.503721737142751, 7.772188830746306]",1.0,1
+5a8bd4d65542997f31a41dd8,comparison,hard,"[""American Zeitgeist"", ""Michael Jackson's This Is It""]","[""Michael Jackson's Vision"", ""Zeitgeist Films""]","[6.795208478373166, 6.3236761173055935]",0.0,0
+5ab87fa255429934fafe6e00,bridge,hard,"[""Sand Lake Baptist Church"", ""Averill Park, New York""]","[""West Sand Lake, New York"", ""Sand Lake Baptist Church""]","[7.377064619958709, 7.045140393238339]",0.5,0
+5ae5be86554299546bf82f40,bridge,hard,"[""Bucket (TV series)"", ""Miriam Margolyes""]","[""Bucket (TV series)"", ""Harry Potter and the Philosopher's Stone (film)""]","[15.988533682522762, 10.109031412684763]",0.5,0
+5abac27855429966062415ff,bridge,hard,"[""Richard Callaghan"", ""Tara Lipinski""]","[""Richard Callaghan"", ""Tara Lipinski""]","[12.74131601527728, 10.842728245153266]",1.0,1
+5ae5df84554299546bf82fa8,bridge,hard,"[""Operation Sculpin"", ""Operation Julin""]","[""Operation Julin"", ""Operation Sculpin""]","[13.072186224469153, 6.929127506014371]",1.0,1
+5a808c215542995d8a8ddf90,bridge,hard,"[""Startin' Fires"", ""Blake Shelton""]","[""Blake Shelton"", ""Startin' Fires""]","[5.076735534618909, 4.493000726432471]",1.0,1
+5a716f575542994082a3e82f,comparison,hard,"[""Joseph Campbell"", ""Ishmael Reed""]","[""Joseph Campbell"", ""Yellow Back Radio Broke-Down""]","[10.90640485552611, 5.016577076143163]",0.5,0
+5ab8494d55429916710eb016,comparison,hard,"[""University of California, Santa Barbara"", ""Hamdard University""]","[""Hamdard University"", ""University of California, Santa Barbara""]","[10.602999283376441, 6.723709491260393]",1.0,1
+5a79b495554299148911fa3b,bridge,hard,"[""Wayne Boden"", ""Ted Bundy""]","[""Wayne Boden"", ""Ted Bundy (film)""]","[9.32550516604902, 4.314046775254542]",0.5,0
+5a7380e055429908901be2d6,comparison,hard,"[""The Spiral (New York City)"", ""New York World Building""]","[""The Spiral (New York City)"", ""List of tallest buildings in Upstate New York""]","[5.56792869475948, 5.550858902853788]",0.5,0
+5a807ceb554299485f598616,bridge,hard,"[""Evidently... John Cooper Clarke"", ""Steve Coogan""]","[""Steve Coogan"", ""Splitting Image""]","[5.7859977941517196, 5.561456640083327]",0.5,0
+5adccdab5542994d58a2f6db,bridge,hard,"[""The Mammoth Tusk"", ""De La Soul""]","[""Eslam Jawaad"", ""The Mammoth Tusk""]","[10.569641052232937, 9.048050885235371]",0.5,0
+5a736f7c5542991f29ee2e18,bridge,hard,"[""Cherokee National Holiday"", ""Cherokee Nation (1794–1907)""]","[""Cherokee Nation (1794–1907)"", ""Cherokee National Holiday""]","[8.991226960590009, 8.694001937989798]",1.0,1
+5a7dbc175542995ed0d1666b,bridge,hard,"[""Vpered"", ""Anatoly Lunacharsky""]","[""Vpered"", ""Martemyan Ryutin""]","[6.572291904621795, 5.209450837154584]",0.5,0
+5adf0e7c5542992d7e9f9297,bridge,hard,"[""Lorne Akins Junior High"", ""Jarome Iginla""]","[""Lorne Akins Junior High"", ""La Salle High School (Niagara Falls, New York)""]","[12.78131747243461, 9.12046880395495]",0.5,0
+5a81adfc55429903bc27b9a4,comparison,hard,"[""Harry Sweet"", ""John Biddle (yachting cinematographer)""]","[""Harry Sweet"", ""John Biddle (United States Army general)""]","[5.413797147973243, 4.727537517939958]",0.5,0
+5ade3af855429939a52fe867,bridge,hard,"[""In the Library with the Lead Pipe"", ""EBSCO Information Services""]","[""In the Library with the Lead Pipe"", ""EBSCO Information Services""]","[22.45334295440162, 15.86389885307259]",1.0,1
+5ab428915542991751b4d6b2,bridge,hard,"[""Predator 2"", ""Kevin Peter Hall""]","[""Harry and the Hendersons (TV series)"", ""Kevin Peter Hall""]","[10.457278382686155, 9.60336263406301]",0.5,0
+5ac0cfb45542997d64295a58,bridge,hard,"[""Charles Hosmer Morse Museum of American Art"", ""Winter Park, Florida""]","[""Charles Hosmer Morse Museum of American Art"", ""Winter Park, Florida""]","[9.642228490307993, 8.706351601352939]",1.0,1
+5a84edf65542994c784dda8d,bridge,hard,"[""Black Pearl (K-Pop Group)"", ""M2M (band)""]","[""Black Pearl (K-Pop Group)"", ""M2M (band)""]","[24.993362125780838, 10.668239130344025]",1.0,1
+5ae127c9554299422ee99612,bridge,hard,"[""Fighting Cock (bourbon)"", ""Bardstown, Kentucky""]","[""Fighting Cock (bourbon)"", ""Bardstown, Kentucky""]","[5.085788311468843, 3.6938766039829845]",1.0,1
+5a7c17c95542990527d5544d,comparison,hard,"[""The Smashing Pumpkins"", ""The Offspring""]","[""The Offspring"", ""1979 (song)""]","[9.564195754786372, 7.7772925474811725]",0.5,0
+5a72ba1a5542992359bc318b,bridge,hard,"[""The Monster (song)"", ""Numb (Rihanna song)""]","[""What Now (song)"", ""Numb (Rihanna song)""]","[6.594084486862555, 5.802276702361569]",0.5,0
+5a8d40715542994ba4e3dc3a,bridge,hard,"[""Night of the Arts"", ""White Night festivals""]","[""White Night festivals"", ""Night of the Arts""]","[21.93827372764496, 20.81113260438029]",1.0,1
+5ab56200554299494045ef88,bridge,hard,"[""Boules at the 1900 Summer Olympics"", ""Summer Olympic Games""]","[""Boules at the 1900 Summer Olympics"", ""We'll Be One""]","[5.969588790624471, 4.794561801410552]",0.5,0
+5a77ca3955429967ab1052a3,comparison,hard,"[""Splendor (board game)"", ""Power Grid""]","[""Splendor (board game)"", ""Power Grid""]","[7.627186301970844, 5.145835261230022]",1.0,1
+5a84c6e65542994c784dda48,bridge,hard,"[""2016 Baku GP2 Series round"", ""Sergey Sirotkin (racing driver)""]","[""2016 Baku GP2 Series round"", ""2012 Marina Bay GP2 Series round""]","[11.986256470830416, 5.670421717993005]",0.5,0
+5a877df15542993e715abf7a,comparison,hard,"[""David Schwimmer"", ""James Wan""]","[""The Conjuring 2"", ""Saw (2003 film)""]","[5.3293749533445816, 4.617828395948253]",0.0,0
+5ae16ea85542990adbacf790,bridge,hard,"[""UVF Mid-Ulster Brigade"", ""Miami Showband killings""]","[""1991 Cappagh killings"", ""UVF Mid-Ulster Brigade""]","[5.468502484062634, 4.772401726492071]",0.5,0
+5a7557d75542992d0ec05f68,bridge,hard,"[""Scream 2"", ""Laurie Metcalf""]","[""Laurie Metcalf"", ""Gale Weathers""]","[4.125999947259423, 3.767610650310566]",0.5,0
+5a8e00515542995a26add454,bridge,hard,"[""Derek Branning"", ""Terence Beesley""]","[""Horst Tappert"", ""Derek Branning""]","[8.699957359313224, 6.8244641275581355]",0.5,0
+5ab48bab5542991779162cd3,bridge,hard,"[""Ontario Raiders"", ""Tie Domi""]","[""Tie Domi"", ""Ontario Raiders""]","[9.00471400605156, 8.950647291137892]",1.0,1
+5a8ea03e5542990e94052b81,bridge,hard,"[""Atlanta Zero Mile Post"", ""Underground Atlanta""]","[""Atlanta Zero Mile Post"", ""Roger Rabbit's Car Toon Spin""]","[5.747352382084825, 5.527252315782324]",0.5,0
+5a7a1e635542990783324e69,bridge,hard,"[""2013 Valdosta State Blazers football team"", ""Gulf South Conference""]","[""2013 Valdosta State Blazers football team"", ""Valdosta State Blazers football""]","[10.562923267971454, 8.039183413359677]",0.5,0
+5ade3e69554299728e26c68d,bridge,hard,"[""Hellyeah"", ""Mudvayne""]","[""Mudvayne"", ""Audiotopsy (band)""]","[2.8833787494104484, 1.840860168069656]",0.5,0
+5ae2c6bf554299492dc91c6c,bridge,hard,"[""Journaille"", ""Karl Kraus (writer)""]","[""Journaille"", ""Nathan Birnbaum""]","[8.267086383548587, 4.22939092367798]",0.5,0
+5a77aa095542995d83181260,bridge,hard,"[""Pratt &amp; Whitney F100"", ""General Dynamics F-16 Fighting Falcon""]","[""General Dynamics F-16 Fighting Falcon"", ""Martin/General Dynamics RB-57F Canberra""]","[10.452375765277532, 5.151923570720009]",0.5,0
+5a8f75e6554299458435d635,bridge,hard,"[""Alex Shevelev"", ""Rome""]","[""Alex Shevelev"", ""Turku sub-region""]","[11.652705496060266, 6.51254782883395]",0.5,0
+5addb1515542995b365fab60,bridge,hard,"[""John P. Buchanan"", ""Coal Creek War""]","[""John P. Buchanan"", ""Coal Creek War""]","[11.560136631266962, 7.119266411675983]",1.0,1
+5ab6238e554299710c8d1e6d,bridge,hard,"[""Copsi"", ""York""]","[""Copsi"", ""Duke of Bedford""]","[16.550371919096374, 9.290546505472422]",0.5,0
+5abba3b1554299642a094aed,comparison,hard,"[""Volvic (mineral water)"", ""Canfield's Diet Chocolate Fudge""]","[""Canfield's Diet Chocolate Fudge"", ""A.J. Canfield Company""]","[4.727250922829842, 4.163930084546177]",0.5,0
+5a8caf1d554299585d9e3720,comparison,hard,"[""Dig (band)"", ""Thinking Fellers Union Local 282""]","[""Thinking Fellers Union Local 282"", ""Dig (band)""]","[7.770160064472606, 5.673875534753024]",1.0,1

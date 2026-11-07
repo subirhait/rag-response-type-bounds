@@ -1,0 +1,6 @@
+"quantity","estimate","lower95","upper95"
+"retrieval_gain_small_generator",0.1124,0.086,0.1388
+"retrieval_gain_large_generator",0.215,0.1872,0.2426
+"generator_gain_BM25",0.1116,0.0858,0.1374
+"generator_gain_oracle",0.2142,0.185,0.2434
+"interaction",0.1026,0.0738,0.1308
