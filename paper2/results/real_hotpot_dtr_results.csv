@@ -1,6 +1,0 @@
-<PARSED TEXT FOR SHEET: 1 / 1 TABS
-TAB NAME: paper2_real_hotpot_results.csv>
-index,design,generations,retrieval_binding_lower,retrieval_binding_upper,generation_binding_lower,generation_binding_upper,retrieval_harm_lower,retrieval_harm_upper
-0,Uniform K=2,6000,0.046681,0.539477,0.025276,0.514335,0.009274,0.497259
-1,DTR 2->5,6189,0.008091,0.574591,0.0,0.59509,0.0,0.612882
-2,Uniform K=5,15000,0.063742,0.469466,0.052817,0.478235,0.012549,0.427964
